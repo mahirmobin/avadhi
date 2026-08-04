@@ -3,5 +3,145 @@
   "announcementText": "എറണാകുളം ജില്ലയിലെ വിദ്യാഭ്യാസ സ്ഥാപനങ്ങൾക്ക് നാളെ അവധി\n— Collector Ernakulam (@ernakulamdc) Aug 3, 2026",
   "originalPostUrl": "https://x.com/ernakulamdc/status/2084309710573043776",
   "announcedAt": "Mon, 03 Aug 2026 16:05:00 GMT",
-  "lastChecked": "2026-08-04T11:09:29.157Z"
+  "lastChecked": "2026-08-04T11:09:29.157Z",
+  "TVM": {
+    "name": "Thiruvananthapuram",
+    "handle": "@Dist_Admin_Tvm",
+    "isHoliday": false,
+    "announcementText": "Awaiting RSS feed configuration.",
+    "originalPostUrl": "",
+    "announcedAt": "",
+    "lastChecked": "2026-08-04T11:17:53.883Z",
+    "hasConfiguredFeed": false
+  },
+  "KLM": {
+    "name": "Kollam",
+    "handle": "@dckollam",
+    "isHoliday": false,
+    "announcementText": "Awaiting RSS feed configuration.",
+    "originalPostUrl": "",
+    "announcedAt": "",
+    "lastChecked": "2026-08-04T11:17:53.883Z",
+    "hasConfiguredFeed": false
+  },
+  "PTA": {
+    "name": "Pathanamthitta",
+    "handle": "@DistrictCollectorPta",
+    "isHoliday": false,
+    "announcementText": "Awaiting RSS feed configuration.",
+    "originalPostUrl": "",
+    "announcedAt": "",
+    "lastChecked": "2026-08-04T11:17:53.883Z",
+    "hasConfiguredFeed": false
+  },
+  "ALP": {
+    "name": "Alappuzha",
+    "handle": "@districtcollectoralappuzha",
+    "isHoliday": false,
+    "announcementText": "Awaiting RSS feed configuration.",
+    "originalPostUrl": "",
+    "announcedAt": "",
+    "lastChecked": "2026-08-04T11:17:53.883Z",
+    "hasConfiguredFeed": false
+  },
+  "KTM": {
+    "name": "Kottayam",
+    "handle": "@CollectorKottayam",
+    "isHoliday": false,
+    "announcementText": "Awaiting RSS feed configuration.",
+    "originalPostUrl": "",
+    "announcedAt": "",
+    "lastChecked": "2026-08-04T11:17:53.883Z",
+    "hasConfiguredFeed": false
+  },
+  "IDK": {
+    "name": "Idukki",
+    "handle": "@CollectorIdukki",
+    "isHoliday": false,
+    "announcementText": "Awaiting RSS feed configuration.",
+    "originalPostUrl": "",
+    "announcedAt": "",
+    "lastChecked": "2026-08-04T11:17:53.883Z",
+    "hasConfiguredFeed": false
+  },
+  "EKM": {
+    "name": "Ernakulam",
+    "handle": "@ernakulamdc",
+    "isHoliday": true,
+    "announcementText": "എറണാകുളം ജില്ലയിലെ വിദ്യാഭ്യാസ സ്ഥാപനങ്ങൾക്ക് നാളെ അവധി\n— Collector Ernakulam (@ernakulamdc) Aug 3, 2026",
+    "originalPostUrl": "https://x.com/ernakulamdc/status/2084309710573043776",
+    "announcedAt": "Mon, 03 Aug 2026 16:05:00 GMT",
+    "lastChecked": "2026-08-04T11:17:53.883Z",
+    "hasConfiguredFeed": true
+  },
+  "TCR": {
+    "name": "Thrissur",
+    "handle": "@ThrissurCollector",
+    "isHoliday": false,
+    "announcementText": "Awaiting RSS feed configuration.",
+    "originalPostUrl": "",
+    "announcedAt": "",
+    "lastChecked": "2026-08-04T11:17:53.883Z",
+    "hasConfiguredFeed": false
+  },
+  "PKD": {
+    "name": "Palakkad",
+    "handle": "@CollectorPalakkad",
+    "isHoliday": false,
+    "announcementText": "Awaiting RSS feed configuration.",
+    "originalPostUrl": "",
+    "announcedAt": "",
+    "lastChecked": "2026-08-04T11:17:53.883Z",
+    "hasConfiguredFeed": false
+  },
+  "MLP": {
+    "name": "Malappuram",
+    "handle": "@malappuramcollector",
+    "isHoliday": false,
+    "announcementText": "Awaiting RSS feed configuration.",
+    "originalPostUrl": "",
+    "announcedAt": "",
+    "lastChecked": "2026-08-04T11:17:53.883Z",
+    "hasConfiguredFeed": false
+  },
+  "KKD": {
+    "name": "Kozhikode",
+    "handle": "@collectorkozhikode",
+    "isHoliday": false,
+    "announcementText": "Awaiting RSS feed configuration.",
+    "originalPostUrl": "",
+    "announcedAt": "",
+    "lastChecked": "2026-08-04T11:17:53.883Z",
+    "hasConfiguredFeed": false
+  },
+  "WYD": {
+    "name": "Wayanad",
+    "handle": "@wayanadcollector",
+    "isHoliday": false,
+    "announcementText": "Awaiting RSS feed configuration.",
+    "originalPostUrl": "",
+    "announcedAt": "",
+    "lastChecked": "2026-08-04T11:17:53.883Z",
+    "hasConfiguredFeed": false
+  },
+  "KNR": {
+    "name": "Kannur",
+    "handle": "@collector.kannur",
+    "isHoliday": false,
+    "announcementText": "Awaiting RSS feed configuration.",
+    "originalPostUrl": "",
+    "announcedAt": "",
+    "lastChecked": "2026-08-04T11:17:53.883Z",
+    "hasConfiguredFeed": false
+  },
+  "KSD": {
+    "name": "Kasaragod",
+    "handle": "@CollectorKasaragod",
+    "isHoliday": false,
+    "announcementText": "Awaiting RSS feed configuration.",
+    "originalPostUrl": "",
+    "announcedAt": "",
+    "lastChecked": "2026-08-04T11:17:53.883Z",
+    "hasConfiguredFeed": false
+  }
 }

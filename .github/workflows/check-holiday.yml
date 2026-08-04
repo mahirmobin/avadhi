@@ -27,8 +27,20 @@ jobs:
       - name: Run check script
         run: node scripts/fetch-status.js
         env:
-          RSS_URL: ${{ secrets.RSS_URL }}
-
+          TVM_RSS_URL: ${{ secrets.TVM_RSS_URL }}
+          KLM_RSS_URL: ${{ secrets.KLM_RSS_URL }}
+          PTA_RSS_URL: ${{ secrets.PTA_RSS_URL }}
+          ALP_RSS_URL: ${{ secrets.ALP_RSS_URL }}
+          KTM_RSS_URL: ${{ secrets.KTM_RSS_URL }}
+          IDK_RSS_URL: ${{ secrets.IDK_RSS_URL }}
+          EKM_RSS_URL: ${{ secrets.EKM_RSS_URL }}
+          TCR_RSS_URL: ${{ secrets.TCR_RSS_URL }}
+          PKD_RSS_URL: ${{ secrets.PKD_RSS_URL }}
+          MLP_RSS_URL: ${{ secrets.MLP_RSS_URL }}
+          KKD_RSS_URL: ${{ secrets.KKD_RSS_URL }}
+          WYD_RSS_URL: ${{ secrets.WYD_RSS_URL }}
+          KNR_RSS_URL: ${{ secrets.KNR_RSS_URL }}
+          KSD_RSS_URL: ${{ secrets.KSD_RSS_URL }}
 
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5

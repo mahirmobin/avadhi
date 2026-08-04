@@ -2,85 +2,103 @@ const Parser = require('rss-parser');
 const fs = require('fs');
 const path = require('path');
 
-const RSS_URL = process.env.RSS_URL || 'https://rss.app/feeds/IyeTPYI1DNTvS0JW.xml';
-
+const DISTRICTS = [
+  { code: 'TVM', name: 'Thiruvananthapuram', handle: '@Dist_Admin_Tvm' },
+  { code: 'KLM', name: 'Kollam', handle: '@dckollam' },
+  { code: 'PTA', name: 'Pathanamthitta', handle: '@DistrictCollectorPta' },
+  { code: 'ALP', name: 'Alappuzha', handle: '@districtcollectoralappuzha' },
+  { code: 'KTM', name: 'Kottayam', handle: '@CollectorKottayam' },
+  { code: 'IDK', name: 'Idukki', handle: '@CollectorIdukki' },
+  { code: 'EKM', name: 'Ernakulam', handle: '@ernakulamdc' },
+  { code: 'TCR', name: 'Thrissur', handle: '@ThrissurCollector' },
+  { code: 'PKD', name: 'Palakkad', handle: '@CollectorPalakkad' },
+  { code: 'MLP', name: 'Malappuram', handle: '@malappuramcollector' },
+  { code: 'KKD', name: 'Kozhikode', handle: '@collectorkozhikode' },
+  { code: 'WYD', name: 'Wayanad', handle: '@wayanadcollector' },
+  { code: 'KNR', name: 'Kannur', handle: '@collector.kannur' },
+  { code: 'KSD', name: 'Kasaragod', handle: '@CollectorKasaragod' }
+];
 
 const KEYWORDS = [
   'അവധി', 'avadi', 'holiday', 'educational institutions', 'വിദ്യാഭ്യാസ', 'സ്ഥാപനങ്ങൾക്ക്', 
   'schools', 'colleges', 'anganwadis', 'tuition', 'professional colleges'
 ];
 
-async function checkHoliday() {
-  if (!RSS_URL) {
-     console.log("No RSS_URL provided. Exiting.");
-     return;
-  }
-
+async function checkHolidays() {
   const parser = new Parser();
-  let feed;
-  try {
-     feed = await parser.parseURL(RSS_URL);
-  } catch (err) {
-     console.error("Failed to parse RSS:", err);
-     process.exit(1);
-  }
-
-  const items = feed.items || [];
-  if (items.length === 0) {
-     console.log("No items found in RSS feed.");
-     return;
-  }
+  const statusPath = path.join(__dirname, '..', 'public', 'status.json');
   
-  items.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
-  
-  let isHoliday = false;
-  let announcementText = "";
-  let originalPostUrl = "";
-  let announcedAt = "";
+  let currentStatus = {};
+  if (fs.existsSync(statusPath)) {
+      try {
+          currentStatus = JSON.parse(fs.readFileSync(statusPath, 'utf8'));
+      } catch (e) {
+          currentStatus = {};
+      }
+  }
 
   const now = new Date();
   const FORTY_EIGHT_HOURS = 48 * 60 * 60 * 1000;
   
-  for (const item of items) {
-     const pubDate = new Date(item.pubDate);
-     if (now - pubDate > FORTY_EIGHT_HOURS) {
-         continue; 
+  for (const district of DISTRICTS) {
+     const envKey = `${district.code}_RSS_URL`;
+     // Fallback for Ernakulam specifically because user provided it
+     let rssUrl = process.env[envKey] || '';
+     if (district.code === 'EKM' && !rssUrl) {
+         rssUrl = 'https://rss.app/feeds/IyeTPYI1DNTvS0JW.xml';
      }
      
-     const text = (item.content || item.contentSnippet || item.title || "").toLowerCase();
-     
-     const hasKeyword = KEYWORDS.some(kw => text.includes(kw.toLowerCase()));
-     const isFalsePositive = text.includes('no holiday') || text.includes('പ്രവൃത്തിദിനം') || text.includes('working day') || text.includes('regular class');
-     
-     if (hasKeyword && !isFalsePositive) {
-         isHoliday = true;
-         announcementText = item.contentSnippet || item.title;
-         originalPostUrl = item.link;
-         announcedAt = item.pubDate;
-         break; 
+     let isHoliday = false;
+     let announcementText = "";
+     let originalPostUrl = "";
+     let announcedAt = "";
+
+     if (rssUrl) {
+         try {
+             console.log(`Fetching feed for ${district.name}...`);
+             const feed = await parser.parseURL(rssUrl);
+             const items = feed.items || [];
+             items.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
+             
+             for (const item of items) {
+                 const pubDate = new Date(item.pubDate);
+                 if (now - pubDate > FORTY_EIGHT_HOURS) {
+                     continue; 
+                 }
+                 
+                 const text = (item.content || item.contentSnippet || item.title || "").toLowerCase();
+                 const hasKeyword = KEYWORDS.some(kw => text.includes(kw.toLowerCase()));
+                 const isFalsePositive = text.includes('no holiday') || text.includes('പ്രവൃത്തിദിനം') || text.includes('working day') || text.includes('regular class');
+                 
+                 if (hasKeyword && !isFalsePositive) {
+                     isHoliday = true;
+                     announcementText = item.contentSnippet || item.title;
+                     originalPostUrl = item.link;
+                     announcedAt = item.pubDate;
+                     break; 
+                 }
+             }
+         } catch (err) {
+             console.error(`Failed to parse RSS for ${district.name}:`, err.message);
+         }
+     } else {
+         console.log(`Skipping ${district.name}, no RSS URL configured (${envKey}).`);
      }
+
+     currentStatus[district.code] = {
+         name: district.name,
+         handle: district.handle,
+         isHoliday,
+         announcementText: isHoliday ? announcementText : (rssUrl ? "No holiday announcement detected recently." : "Awaiting RSS feed configuration."),
+         originalPostUrl: isHoliday ? originalPostUrl : "",
+         announcedAt: isHoliday ? announcedAt : "",
+         lastChecked: now.toISOString(),
+         hasConfiguredFeed: !!rssUrl
+     };
   }
 
-  const statusPath = path.join(__dirname, '..', 'public', 'status.json');
-  let existingStatus = {};
-  if (fs.existsSync(statusPath)) {
-      existingStatus = JSON.parse(fs.readFileSync(statusPath, 'utf8'));
-  }
-
-  const newStatus = {
-     isHoliday,
-     announcementText: isHoliday ? announcementText : "No holiday announcement detected in the recent updates.",
-     originalPostUrl: isHoliday ? originalPostUrl : "https://twitter.com/ernakulamdc",
-     announcedAt: isHoliday ? announcedAt : "",
-     lastChecked: new Date().toISOString()
-  };
-
-  const statusChanged = existingStatus.isHoliday !== newStatus.isHoliday || existingStatus.announcedAt !== newStatus.announcedAt;
-
-  fs.writeFileSync(statusPath, JSON.stringify(newStatus, null, 2));
-  console.log("Updated status.json", newStatus);
-
-
+  fs.writeFileSync(statusPath, JSON.stringify(currentStatus, null, 2));
+  console.log("Updated public/status.json with 14 districts.");
 }
 
-checkHoliday();
+checkHolidays();
