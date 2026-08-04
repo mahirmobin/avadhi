@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import { AnimatedGroup } from '@/components/core/animated-group';
 
 interface DistrictStatus {
   name: string;
@@ -133,7 +134,7 @@ export default function Home() {
       </div>
 
       <main className="flex-1 w-full max-w-7xl mx-auto p-4 sm:p-6 lg:p-8">
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+        <AnimatedGroup className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6" preset="blur-slide">
           {districts.map((district) => {
              // STRICT FLAT COLORS BASED ON USER DIAGRAM
              let baseClasses = "relative flex flex-col p-6 shadow-xl transition-all duration-200 border-4 cursor-pointer hover:-translate-y-1 break-words overflow-hidden ";
@@ -213,7 +214,7 @@ export default function Home() {
                  </div>
              );
           })}
-        </div>
+        </AnimatedGroup>
       </main>
     </div>
   );
