@@ -2,6 +2,13 @@
 
 import { useEffect, useState } from "react";
 import { AnimatedGroup } from '@/components/core/animated-group';
+import {
+  MorphingDialog,
+  MorphingDialogTrigger,
+  MorphingDialogContainer,
+  MorphingDialogContent,
+  MorphingDialogClose,
+} from '@/components/core/morphing-dialog';
 
 interface DistrictStatus {
   name: string;
@@ -156,62 +163,89 @@ export default function Home() {
                 baseClasses += " opacity-80 border-dashed border-2";
              }
 
-             const isExpanded = expanded === district.code;
-
              return (
-                 <div 
-                    key={district.code} 
-                    className={baseClasses}
-                    onClick={() => setExpanded(isExpanded ? null : district.code)}
-                 >
-                    <div className="flex flex-col justify-between h-full">
-                       <div>
-                          {/* MET STATUS AT THE TOP OF THE BOX */}
-                          <div className={`text-[10px] font-black uppercase mb-4 tracking-widest px-3 py-1 inline-block border-2 ${baseClasses.includes('text-white') ? 'border-white' : 'border-black'}`}>
-                             {district.metStatus ? translateMet(district.metStatus) : (district.isHoliday ? t('NO ALERTS ISSUED', 'അലർട്ടുകൾ ഇല്ല') : t('NO ALERTS ISSUED', 'അലർട്ടുകൾ ഇല്ല'))}
-                          </div>
-                          
-                          <h2 className="text-3xl font-black tracking-tighter uppercase mb-1">{district.name}</h2>
-                          
-                          {district.isHoliday ? (
-                             <>
-                               <div className="font-extrabold text-2xl uppercase mt-4 underline decoration-4 underline-offset-4">
-                                  {t("HOLIDAY DECLARED", "അവധി")}
-                               </div>
-                               {district.holidayDate && (
-                                   <div className="mt-2 font-bold text-xs bg-white text-black px-2 py-1 rounded inline-block w-max">
-                                     {t("FOR:", "തിയ്യതി:")} {district.holidayDate}
-                                   </div>
-                               )}
-                               <div className="mt-2 font-bold text-sm leading-snug">
-                                 {translateScope(district.holidayScope)}
-                               </div>
-                             </>
-                          ) : (
-                             <div className="font-bold text-xl uppercase mt-4">{t("WORKING DAY", "പ്രവൃത്തിദിനം")}</div>
-                          )}
-                       </div>
-                       
-                       <div className="mt-8">
-                          {district.isHoliday && (
-                             <div className={`text-sm font-bold leading-relaxed mb-4 break-words whitespace-pre-wrap ${isExpanded ? '' : 'line-clamp-3'}`}>
-                                "{district.announcementText}"
-                             </div>
+                 <MorphingDialog key={district.code} transition={{ type: 'spring', bounce: 0.05, duration: 0.25 }}>
+                   <MorphingDialogTrigger className={baseClasses + " text-left w-full h-full"}>
+                     <div className="flex flex-col justify-between h-full">
+                        <div>
+                           {/* MET STATUS AT THE TOP OF THE BOX */}
+                           <div className={`text-[10px] font-black uppercase mb-4 tracking-widest px-3 py-1 inline-block border-2 ${baseClasses.includes('text-white') ? 'border-white' : 'border-black'}`}>
+                              {district.metStatus ? translateMet(district.metStatus) : (district.isHoliday ? t('NO ALERTS ISSUED', 'അലർട്ടുകൾ ഇല്ല') : t('NO ALERTS ISSUED', 'അലർട്ടുകൾ ഇല്ല'))}
+                           </div>
+                           
+                           <h2 className="text-3xl font-black tracking-tighter uppercase mb-1">{district.name}</h2>
+                           
+                           {district.isHoliday ? (
+                              <>
+                                <div className="font-extrabold text-2xl uppercase mt-4 underline decoration-4 underline-offset-4">
+                                   {t("HOLIDAY DECLARED", "അവധി")}
+                                </div>
+                                {district.holidayDate && (
+                                    <div className="mt-2 font-bold text-xs bg-white text-black px-2 py-1 rounded inline-block w-max">
+                                      {t("FOR:", "തിയ്യതി:")} {district.holidayDate}
+                                    </div>
+                                )}
+                                <div className="mt-2 font-bold text-sm leading-snug">
+                                  {translateScope(district.holidayScope)}
+                                </div>
+                              </>
+                           ) : (
+                              <div className="font-bold text-xl uppercase mt-4">{t("WORKING DAY", "പ്രവൃത്തിദിനം")}</div>
                            )}
-                          
-                          <div className={`pt-3 border-t-4 font-black text-xs uppercase tracking-wider flex justify-between ${baseClasses.includes('text-white') ? 'border-white' : 'border-black'}`}>
-                             <span className="max-w-[70%] truncate">{t("SRC", "ഉറവിടം")}: {district.sourceBadge}</span>
-                             <span>{isExpanded ? '[-]' : '[+]'}</span>
-                          </div>
-                          
-                          {isExpanded && district.originalPostUrl && (
-                             <a href={district.originalPostUrl} target="_blank" rel="noreferrer" onClick={(e) => e.stopPropagation()} className={`inline-block text-center mt-4 w-full text-xs font-black uppercase px-4 py-3 transition-colors border-2 ${baseClasses.includes('text-white') ? 'bg-white text-black hover:bg-gray-200 border-black' : 'bg-black text-white hover:bg-slate-800 border-black'}`}>
-                                {t("VIEW FULL POST", "ഒറിജിനൽ പോസ്റ്റ് കാണുക")}
-                             </a>
-                          )}
-                       </div>
-                    </div>
-                 </div>
+                        </div>
+                        
+                        <div className="mt-8">
+                           {district.isHoliday && (
+                              <div className="text-sm font-bold leading-relaxed mb-4 break-words whitespace-pre-wrap line-clamp-3">
+                                 "{district.announcementText}"
+                              </div>
+                            )}
+                           
+                           <div className={`pt-3 border-t-4 font-black text-xs uppercase tracking-wider flex justify-between ${baseClasses.includes('text-white') ? 'border-white' : 'border-black'}`}>
+                              <span className="max-w-[70%] truncate">{t("SRC", "ഉറവിടം")}: {district.sourceBadge}</span>
+                              <span>[+]</span>
+                           </div>
+                        </div>
+                     </div>
+                   </MorphingDialogTrigger>
+                   
+                   <MorphingDialogContainer>
+                     <MorphingDialogContent className={`relative p-6 sm:p-8 rounded-xl shadow-2xl max-w-xl w-full mx-4 border-4 overflow-hidden overflow-y-auto max-h-[85vh] ${baseClasses.replace('hover:-translate-y-1 cursor-pointer', '')}`}>
+                        <MorphingDialogClose className={`${baseClasses.includes('text-white') ? 'text-white border-white' : 'text-black border-black'} bg-transparent border-2 hover:bg-black/10`} />
+                        
+                        <div className="flex flex-col justify-between h-full pt-4">
+                           {/* EXPANDED CONTENT SHOWN IN POPUP */}
+                           <div>
+                              <div className={`text-[10px] font-black uppercase mb-4 tracking-widest px-3 py-1 inline-block border-2 ${baseClasses.includes('text-white') ? 'border-white' : 'border-black'}`}>
+                                 {district.metStatus ? translateMet(district.metStatus) : (district.isHoliday ? t('NO ALERTS ISSUED', 'അലർട്ടുകൾ ഇല്ല') : t('NO ALERTS ISSUED', 'അലർട്ടുകൾ ഇല്ല'))}
+                              </div>
+                              <h2 className="text-4xl font-black tracking-tighter uppercase mb-1">{district.name}</h2>
+                           </div>
+                           
+                           {district.isHoliday && (
+                               <div className="mt-8">
+                                  <div className="font-extrabold text-2xl uppercase mt-4 underline decoration-4 underline-offset-4">
+                                     {t("HOLIDAY DECLARED", "അവധി")}
+                                  </div>
+                                  <div className="my-4 text-lg font-bold leading-relaxed break-words whitespace-pre-wrap">
+                                     "{district.announcementText}"
+                                  </div>
+
+                                  <div className={`pt-3 border-t-4 font-black text-xs uppercase tracking-wider ${baseClasses.includes('text-white') ? 'border-white' : 'border-black'}`}>
+                                     {t("SRC", "ഉറവിടം")}: {district.sourceBadge}
+                                  </div>
+
+                                  {district.originalPostUrl && (
+                                     <a href={district.originalPostUrl} target="_blank" rel="noreferrer" onClick={(e) => e.stopPropagation()} className={`inline-block text-center mt-6 w-full text-sm font-black uppercase px-4 py-4 transition-colors border-2 ${baseClasses.includes('text-white') ? 'bg-white text-black hover:bg-gray-200 border-black' : 'bg-black text-white hover:bg-slate-800 border-black'}`}>
+                                        {t("VIEW FULL POST", "ഒറിജിനൽ പോസ്റ്റ് കാണുക")}
+                                     </a>
+                                  )}
+                               </div>
+                           )}
+                        </div>
+                     </MorphingDialogContent>
+                   </MorphingDialogContainer>
+                 </MorphingDialog>
              );
           })}
         </AnimatedGroup>
