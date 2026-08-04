@@ -1,0 +1,37 @@
+name: Check Ernakulam Holiday Status
+
+on:
+  schedule:
+    - cron: '*/15 * * * *' 
+  workflow_dispatch: 
+
+permissions:
+  contents: write
+
+jobs:
+  check-status:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run check script
+        run: node scripts/fetch-status.js
+        env:
+          RSS_URL: ${{ secrets.RSS_URL }}
+
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Automated status update"
+          file_pattern: "public/status.json"
