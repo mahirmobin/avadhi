@@ -1,0 +1,27 @@
+
+
+--- Debugging MPM ---
+
+Item: A post from Malappuram Collector
+Time diff (hours): 9.446540277777778
+Matched Keyword: false
+Is False Positive: false
+
+Item: Photos from Malappuram Collector's post
+Time diff (hours): 24.796540277777776
+Matched Keyword: false
+Is False Positive: false
+
+Item: കനത്ത മഴ: ജില്ലയിലെ വിദ്യാഭ്യാസ സ്ഥാപനങ്ങള്‍ക്ക് നാളെ അവധി
+Time diff (hours): 26.12265138888889
+Matched Keyword: true
+Specific Keywords Matched: അവധി, വിദ്യാഭ്യാസ
+Is False Positive: true
+
+Item: കനത്ത മഴ: ജില്ലയിലെ വിദ്യാഭ്യാസ സ്ഥാപനങ്ങൾക്ക് നാളെ (03.08.2026) അവധി
+Time diff (hours): 48.176540277777775
+SKIPPED: > 48 HOURS
+
+Item: Photos from Malappuram Collector's post
+Time diff (hours): 49.31098472222222
+SKIPPED: > 48 HOURS

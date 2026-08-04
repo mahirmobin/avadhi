@@ -27,7 +27,7 @@ const KEYWORDS = [
   'schools', 'colleges', 'anganwadi', 'tuition', 'professional colleges'
 ];
 
-const NEGATIVE_WORDS = ['ഇല്ല', 'മാറ്റമില്ല', 'വ്യാജം', 'ബാധകമല്ല', 'മാറ്റിയിട്ടില്ല', 'no holiday', 'പ്രവൃത്തിദിനം', 'working day', 'regular class'];
+const NEGATIVE_WORDS = ['അവധി ഇല്ല', 'വ്യാജം', 'no holiday', 'പ്രവൃത്തിദിനം', 'working day', 'regular class'];
 
 function extractMetStatus(text) {
   if (text.includes('red alert') || text.includes('റെഡ്')) return 'Red Alert';
@@ -119,6 +119,7 @@ async function checkHolidays() {
     let originalPostUrl = '';
     let announcedAt = '';
     let sourceBadge = '';
+    let targetDateStr = '';
 
     let feedUrl = process.env[`${district.code}_RSS_URL`];
     // Specific hardcoded overrides provided by user earlier as fallbacks
@@ -128,6 +129,15 @@ async function checkHolidays() {
       if (district.code === 'KNR') feedUrl = 'https://fetchrss.com/feed/1wrDn5GME8GZ1wrDxkGs996g.rss';
       if (district.code === 'WYD') feedUrl = 'https://fetchrss.com/feed/1wrDn5GME8GZ1wrEIZAdkE4b.rss';
       if (district.code === 'KKD') feedUrl = 'https://fetchrss.com/feed/1wrDn5GME8GZ1wrDrl4k98DS.rss';
+      if (district.code === 'IDK') feedUrl = 'https://fetchrss.com/feed/1wrFim68t9PY1wrFqk5el96w.rss';
+      if (district.code === 'ALP') feedUrl = 'https://fetchrss.com/feed/1wrFim68t9PY1wrFqHC8e3BF.rss';
+      if (district.code === 'PTA') feedUrl = 'https://fetchrss.com/feed/1wrFim68t9PY1wrFp3FcL1MS.rss';
+      if (district.code === 'KLM') feedUrl = 'https://fetchrss.com/feed/1wrFim68t9PY1wrFofCq8Bnv.rss';
+      if (district.code === 'TVM') feedUrl = 'https://fetchrss.com/feed/1wrFim68t9PY1wrFkjCtG3ap.rss';
+      if (district.code === 'KSG') feedUrl = 'https://fetchrss.com/feed/1wrG9qGFK7HQ1wrGGe4EQ67e.rss';
+      if (district.code === 'MPM') feedUrl = 'https://fetchrss.com/feed/1wrG9qGFK7HQ1wrGEI3sV2AV.rss';
+      if (district.code === 'PKD') feedUrl = 'https://fetchrss.com/feed/1wrG9qGFK7HQ1wrGE05iYEEc.rss';
+      if (district.code === 'KTM') feedUrl = 'https://fetchrss.com/feed/1wrG9qGFK7HQ1wrGDk5x24zC.rss';
     }
 
     if (feedUrl) {
@@ -149,9 +159,20 @@ async function checkHolidays() {
 
           if (containsKeyword && !isFalsePositive) {
             isHoliday = true;
-            announcementText = (item.contentSnippet || item.title || "Holiday declared.").substring(0, 300);
-            originalPostUrl = item.link;
+            originalPostUrl = 'https://www.facebook.com/' + (item.guid || '');
             announcedAt = item.pubDate;
+            
+            announcementText = (item.contentSnippet || '').replace(/\(Feed generated with FetchRSS\)/gi, '').trim();
+            
+            const pubDateObj = new Date(item.pubDate);
+            const istOffset = 5.5 * 60 * 60 * 1000;
+            const localIstDate = new Date(pubDateObj.getTime() + istOffset);
+            
+            if (localIstDate.getUTCHours() >= 12) {
+               localIstDate.setUTCDate(localIstDate.getUTCDate() + 1);
+            }
+            targetDateStr = `${localIstDate.getUTCDate().toString().padStart(2, '0')}/${(localIstDate.getUTCMonth() + 1).toString().padStart(2, '0')}/${localIstDate.getUTCFullYear()}`;
+            
             metStatus = extractMetStatus(rawText);
             holidayScope = extractHolidayScope(rawText);
             sourceBadge = 'District Collector Official (FB)';
@@ -170,6 +191,7 @@ async function checkHolidays() {
       announcementText,
       originalPostUrl,
       announcedAt,
+      holidayDate: targetDateStr,
       hasConfiguredFeed: !!feedUrl,
       sourceBadge,
       metStatus: imdMetData[district.code] && imdMetData[district.code] !== 'No Alerts' ? imdMetData[district.code] : metStatus,
@@ -178,11 +200,10 @@ async function checkHolidays() {
     };
   }
 
-  // Pass 2: Fallback to Google News to patch delayed/missed Facebook RSS cache issues
   console.log(`[Google News Backup Pass] Sweeping news aggregators for missed updates...`);
   
   for (const district of DISTRICTS) {
-      if (statusData[district.code]?.isHoliday) continue; // Already explicitly caught by Facebook successfully
+      if (statusData[district.code]?.isHoliday) continue; 
       
       try {
           console.log(`Fallback fetching specific queries for ${district.code}...`);
@@ -192,6 +213,7 @@ async function checkHolidays() {
           let fbPostText = '';
           let fbLink = '';
           let fbDate = '';
+          let fbTargetDate = '';
 
           const searchTerms = [`${district.ml[0]} ജില്ല അവധി`, `${district.ml[0]} ഓറഞ്ച് അലർട്ട്`, `${district.ml[0]} റെഡ് അലർട്ട്`];
           
@@ -207,14 +229,12 @@ async function checkHolidays() {
                 const title = match[1].toLowerCase();
                 const description = match[3].toLowerCase();
                 
-                // Decode HTML entities roughly
                 const cleanDesc = description.replace(/<[^>]+>/g, '').replace(/&quot;/g, '"').replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>');
                 const rawText = (title + ' ' + cleanDesc);
                 
                 const hasNegativeWord = NEGATIVE_WORDS.some(word => rawText.includes(word));
                 if (hasNegativeWord) continue;
                 
-                // Specifically verify the district ML name actually exists in this particular news text block!
                 const isMentioned = district.ml.some(mlToken => rawText.includes(mlToken));
                 if (!isMentioned) continue;
                 
@@ -230,6 +250,15 @@ async function checkHolidays() {
                        fbPostText = title.replace(/&quot;/g, '"').replace(/&amp;/g, '&');
                        fbLink = match[2];
                        fbDate = match[4];
+                       
+                       const googlePubDateObj = new Date(fbDate);
+                       const gIstOffset = 5.5 * 60 * 60 * 1000;
+                       const gLocalIstDate = new Date(googlePubDateObj.getTime() + gIstOffset);
+            
+                       if (gLocalIstDate.getUTCHours() >= 12) {
+                          gLocalIstDate.setUTCDate(gLocalIstDate.getUTCDate() + 1);
+                       }
+                       fbTargetDate = `${gLocalIstDate.getUTCDate().toString().padStart(2, '0')}/${(gLocalIstDate.getUTCMonth() + 1).toString().padStart(2, '0')}/${gLocalIstDate.getUTCFullYear()}`;
                    }
                 }
              }
@@ -245,6 +274,7 @@ async function checkHolidays() {
                   announcementText: fbPostText || "MET status updated dynamically.",
                   originalPostUrl: fbLink,
                   announcedAt: fbDate || new Date().toISOString(),
+                  holidayDate: fbTargetDate,
                   lastChecked: new Date().toISOString(),
                   hasConfiguredFeed: true,
                   sourceBadge: 'News Aggregator Fallback (Targeted)'

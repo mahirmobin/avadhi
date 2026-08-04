@@ -11,6 +11,10 @@ interface DistrictStatus {
   announcedAt: string;
   lastChecked: string;
   hasConfiguredFeed: boolean;
+  metStatus?: string;
+  holidayScope?: string;
+  holidayDate?: string;
+  sourceBadge?: string;
 }
 
 type StatusData = Record<string, DistrictStatus>;
@@ -18,8 +22,14 @@ type StatusData = Record<string, DistrictStatus>;
 export default function Home() {
   const [data, setData] = useState<StatusData | null>(null);
   const [loading, setLoading] = useState(true);
+  const [lang, setLang] = useState<'en' | 'ml'>('en');
+  const [expanded, setExpanded] = useState<string | null>(null);
+  const [currentDate, setCurrentDate] = useState<string>('');
 
   useEffect(() => {
+    const today = new Date();
+    setCurrentDate(`${today.getDate().toString().padStart(2, '0')}/${(today.getMonth() + 1).toString().padStart(2, '0')}/${today.getFullYear()}`);
+
     fetch("/status.json?t=" + new Date().getTime())
       .then((res) => res.json())
       .then((json) => {
@@ -32,13 +42,31 @@ export default function Home() {
       });
   }, []);
 
+  const t = (enString: string, mlString: string) => lang === 'en' ? enString : mlString;
+
+  const translateScope = (scope?: string) => {
+    if (!scope) return "";
+    if (scope === 'Full District Holiday') return t('Full District Holiday', 'ജില്ലയിൽ പൂർണ്ണ അവധി');
+    if (scope === 'Including Professional Colleges') return t('Including Professional Colleges', 'പ്രൊഫഷണൽ കോളേജുകൾ ഉൾപ്പെടെ അവധി');
+    if (scope === 'Excluding Professional Colleges') return t('Excluding Professional Colleges', 'പ്രൊഫഷണൽ കോളേജുകൾ ഒഴികെ അവധി');
+    if (scope === 'Includes Anganwadis') return t('Includes Anganwadis', 'അങ്കണവാടി ഉൾപ്പെടെ അവധി');
+    return scope;
+  };
+
+  const translateMet = (met?: string) => {
+    if (!met) return "";
+    if (met === 'Red Alert') return t('Red Alert', 'റെഡ് അലർട്ട്');
+    if (met === 'Orange Alert') return t('Orange Alert', 'ഓറഞ്ച് അലർട്ട്');
+    if (met === 'Yellow Alert') return t('Yellow Alert', 'മഞ്ഞ അലർട്ട്');
+    return met;
+  };
+
   if (loading) {
     return (
-      <div className="flex min-h-screen items-center justify-center bg-background text-foreground">
+      <div className="flex min-h-screen items-center justify-center bg-white text-black">
         <div className="flex flex-col items-center gap-4">
-          <div className="h-10 w-10 animate-spin rounded-full border-4 border-kerala-gold border-t-transparent"></div>
-          <p className="text-lg font-medium animate-pulse text-kerala-green dark:text-kerala-gold-light">
-            Loading Districts...
+          <p className="text-xl font-bold animate-pulse text-black">
+            {t("Loading Avadhi...", "അവധി വിവരങ്ങൾ ലോഡുചെയ്യുന്നു...")}
           </p>
         </div>
       </div>
@@ -61,91 +89,132 @@ export default function Home() {
   });
 
   const holidaysDeclaredCount = districts.filter(d => d.isHoliday).length;
+  const redAlertCount = districts.filter(d => d.metStatus?.includes('Red')).length;
+  const orangeAlertCount = districts.filter(d => d.metStatus?.includes('Orange')).length;
+  const yellowAlertCount = districts.filter(d => d.metStatus?.includes('Yellow')).length;
 
   return (
-    <div className="min-h-screen bg-background text-foreground flex flex-col font-sans transition-colors duration-300">
-      <header className="w-full p-6 sm:p-8 bg-kerala-green text-white shadow-lg sticky top-0 z-20 flex flex-col sm:flex-row items-center justify-between gap-4">
-        <div className="flex items-center gap-3">
-          <div className="w-12 h-12 bg-kerala-gold rounded-full flex items-center justify-center text-kerala-green shadow-inner">
-            <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3.055 11H5a2 2 0 012 2v1a2 2 0 002 2 2 2 0 012 2v2.945M8 3.935V5.5A2.5 2.5 0 0010.5 8h.5a2 2 0 012 2 2 2 0 104 0 2 2 0 012-2h1.064M15 20.488V18a2 2 0 012-2h3.064M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
-            </svg>
+    <div className="min-h-screen bg-slate-100 text-black flex flex-col font-sans transition-colors duration-300">
+      <header className="w-full bg-white border-b-4 border-slate-900 shadow-md sticky top-0 z-20">
+        <div className="max-w-7xl mx-auto p-4 flex flex-col md:flex-row items-center justify-between gap-4">
+          <div className="flex items-center gap-4">
+            <div>
+              <h1 className="text-4xl font-extrabold tracking-tighter text-black m-0 leading-none">Avadhi</h1>
+              <p className="text-slate-600 text-[10px] font-black uppercase tracking-widest mt-1">
+                 {t("Kerala Rain Holiday Tracker", "കേരള അവധി ട്രാക്കർ")}
+                 {currentDate && <span className="md:ml-3 block md:inline font-extrabold text-slate-800">| {currentDate}</span>}
+              </p>
+            </div>
           </div>
-          <div>
-            <h1 className="text-2xl font-bold tracking-tight text-white m-0 leading-tight">Kerala Holiday Alert</h1>
-            <p className="text-kerala-gold-light text-sm font-medium opacity-90 m-0">Live Educational Institution Status for 14 Districts</p>
+
+          <div className="flex flex-col items-center md:items-end gap-2 text-sm font-bold w-full md:w-auto">
+             <div className="flex gap-2 items-center flex-wrap justify-center">
+                <span className="bg-red-700 text-white px-2 py-1 rounded">RED: {redAlertCount}</span>
+                <span className="bg-orange-500 text-black px-2 py-1 rounded">ORANGE: {orangeAlertCount}</span>
+                <span className="bg-yellow-400 text-black px-2 py-1 rounded">YELLOW: {yellowAlertCount}</span>
+                <span className="bg-black text-white px-3 py-1 rounded">{t("HOLIDAYS", "അവധി")}: {holidaysDeclaredCount}</span>
+             </div>
+             
+             <button 
+                 onClick={() => setLang(lang === 'en' ? 'ml' : 'en')}
+                 className="mt-2 px-6 py-2 rounded bg-slate-900 hover:bg-slate-800 transition-colors border-2 border-black text-xs font-black text-white uppercase tracking-wider"
+              >
+                 {lang === 'en' ? 'മലയാളം (ML)' : 'ENGLISH (EN)'}
+             </button>
           </div>
-        </div>
-        <div className="text-xs bg-black/20 py-2 px-4 rounded-full backdrop-blur-sm border border-white/10 hidden sm:flex gap-2 items-center">
-            <span className={`w-2 h-2 rounded-full ${holidaysDeclaredCount > 0 ? 'bg-red-400 animate-pulse' : 'bg-kerala-green-light'}`}></span>
-            {holidaysDeclaredCount} {holidaysDeclaredCount === 1 ? 'District' : 'Districts'} with Holiday
         </div>
       </header>
 
+      {/* MET STATS AT THE VERY BEGINNING */}
+      <div className="w-full bg-slate-900 text-white py-3 px-4 shadow-inner text-center">
+         <p className="text-sm font-bold uppercase tracking-widest">
+            {t("LIVE MET STATS:", "ലൈവ് കാലാവസ്ഥ നിരീക്ഷണങ്ങൾ:")} {redAlertCount > 0 && `🟥 ${redAlertCount} RED | `} {orangeAlertCount > 0 && `🟧 ${orangeAlertCount} ORANGE | `} {yellowAlertCount > 0 && `🟨 ${yellowAlertCount} YELLOW | `} {holidaysDeclaredCount} DISTRICTS ON HOLIDAY
+         </p>
+      </div>
+
       <main className="flex-1 w-full max-w-7xl mx-auto p-4 sm:p-6 lg:p-8">
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
-          {districts.map((district) => (
-             <div 
-               key={district.code}
-               className={`relative flex flex-col rounded-2xl p-6 shadow-xl transition-all duration-300 transform hover:-translate-y-1 ${
-                 district.isHoliday 
-                   ? 'bg-gradient-to-br from-red-600 to-orange-500 border border-red-400/50 text-white' 
-                   : (district.hasConfiguredFeed 
-                       ? 'bg-gradient-to-br from-kerala-green to-kerala-green-light border border-kerala-green-light/50 text-white'
-                       : 'bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 text-slate-800 dark:text-slate-200'
-                     )
-               }`}
-             >
-                <div className="flex justify-between items-start mb-4">
-                  <div>
-                    <div className="flex items-center gap-2">
-                      <h2 className="text-xl font-bold">{district.name}</h2>
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+          {districts.map((district) => {
+             // STRICT FLAT COLORS BASED ON USER DIAGRAM
+             let baseClasses = "relative flex flex-col p-6 shadow-xl transition-all duration-200 border-4 cursor-pointer hover:-translate-y-1 break-words overflow-hidden ";
+             
+             // Base color determined PURELY by MET STATUS first (No Alert = Green)
+             if (district.metStatus?.includes('Red')) {
+                baseClasses += "bg-red-700 border-red-900 text-white";
+             } else if (district.metStatus?.includes('Orange')) {
+                baseClasses += "bg-orange-500 border-orange-700 text-black";
+             } else if (district.metStatus?.includes('Yellow')) {
+                baseClasses += "bg-yellow-400 border-yellow-600 text-black";
+             } else {
+                // If it is Green or No Alert (even if Holiday!)
+                baseClasses += "bg-lime-500 border-lime-700 text-black";
+             }
+
+             // Dim working days slightly to make alerts pop more
+             if (!district.isHoliday && district.hasConfiguredFeed) {
+                baseClasses += " opacity-80 border-dashed border-2";
+             }
+
+             const isExpanded = expanded === district.code;
+
+             return (
+                 <div 
+                    key={district.code} 
+                    className={baseClasses}
+                    onClick={() => setExpanded(isExpanded ? null : district.code)}
+                 >
+                    <div className="flex flex-col justify-between h-full">
+                       <div>
+                          {/* MET STATUS AT THE TOP OF THE BOX */}
+                          <div className={`text-[10px] font-black uppercase mb-4 tracking-widest px-3 py-1 inline-block border-2 ${baseClasses.includes('text-white') ? 'border-white' : 'border-black'}`}>
+                             {district.metStatus ? translateMet(district.metStatus) : (district.isHoliday ? t('NO ALERTS ISSUED', 'അലർട്ടുകൾ ഇല്ല') : t('NO ALERTS ISSUED', 'അലർട്ടുകൾ ഇല്ല'))}
+                          </div>
+                          
+                          <h2 className="text-3xl font-black tracking-tighter uppercase mb-1">{district.name}</h2>
+                          
+                          {district.isHoliday ? (
+                             <>
+                               <div className="font-extrabold text-2xl uppercase mt-4 underline decoration-4 underline-offset-4">
+                                  {t("HOLIDAY DECLARED", "അവധി")}
+                               </div>
+                               {district.holidayDate && (
+                                   <div className="mt-2 font-bold text-xs bg-white text-black px-2 py-1 rounded inline-block w-max">
+                                     {t("FOR:", "തിയ്യതി:")} {district.holidayDate}
+                                   </div>
+                               )}
+                               <div className="mt-2 font-bold text-sm leading-snug">
+                                 {translateScope(district.holidayScope)}
+                               </div>
+                             </>
+                          ) : (
+                             <div className="font-bold text-xl uppercase mt-4">{t("WORKING DAY", "പ്രവൃത്തിദിനം")}</div>
+                          )}
+                       </div>
+                       
+                       <div className="mt-8">
+                          {district.isHoliday && (
+                             <div className={`text-sm font-bold leading-relaxed mb-4 break-words whitespace-pre-wrap ${isExpanded ? '' : 'line-clamp-3'}`}>
+                                "{district.announcementText}"
+                             </div>
+                           )}
+                          
+                          <div className={`pt-3 border-t-4 font-black text-xs uppercase tracking-wider flex justify-between ${baseClasses.includes('text-white') ? 'border-white' : 'border-black'}`}>
+                             <span className="max-w-[70%] truncate">{t("SRC", "ഉറവിടം")}: {district.sourceBadge}</span>
+                             <span>{isExpanded ? '[-]' : '[+]'}</span>
+                          </div>
+                          
+                          {isExpanded && district.originalPostUrl && (
+                             <a href={district.originalPostUrl} target="_blank" rel="noreferrer" onClick={(e) => e.stopPropagation()} className={`inline-block text-center mt-4 w-full text-xs font-black uppercase px-4 py-3 transition-colors border-2 ${baseClasses.includes('text-white') ? 'bg-white text-black hover:bg-gray-200 border-black' : 'bg-black text-white hover:bg-slate-800 border-black'}`}>
+                                {t("VIEW FULL POST", "ഒറിജിനൽ പോസ്റ്റ് കാണുക")}
+                             </a>
+                          )}
+                       </div>
                     </div>
-                    <p className={`text-xs mt-1 ${district.isHoliday || district.hasConfiguredFeed ? 'text-white/80' : 'text-slate-500 dark:text-slate-400'}`}>
-                      {district.handle}
-                    </p>
-                  </div>
-                  <div className={`px-2 py-1 rounded text-xs font-bold ${
-                     district.isHoliday ? 'bg-white text-red-600' : (district.hasConfiguredFeed ? 'bg-black/20 text-white' : 'bg-slate-100 text-slate-500 dark:bg-slate-700 dark:text-slate-300')
-                  }`}>
-                     {district.code}
-                  </div>
-                </div>
-
-                <div className="flex-1 flex flex-col justify-center py-4">
-                  {district.isHoliday ? (
-                     <div className="text-center font-bold text-xl py-2 drop-shadow-md">Holiday Declared!</div>
-                  ) : district.hasConfiguredFeed ? (
-                     <div className="text-center font-semibold text-white/90">No Holiday Today</div>
-                  ) : (
-                     <div className="text-center text-sm opacity-60">Awaiting RSS Configuration</div>
-                  )}
-                </div>
-
-                {district.isHoliday && (
-                  <div className="mt-2 text-sm bg-black/20 p-3 rounded-lg border border-white/10">
-                     <p className="line-clamp-3 italic opacity-95 text-white/90">"{district.announcementText}"</p>
-                     {district.originalPostUrl && (
-                        <a href={district.originalPostUrl} target="_blank" rel="noreferrer" className="inline-block mt-3 text-xs font-bold bg-white text-red-600 px-3 py-1 rounded hover:bg-red-50 transition-colors">
-                           View Notice On Social
-                        </a>
-                     )}
-                  </div>
-                )}
-
-                <div className={`mt-4 pt-4 border-t flex justify-between text-[10px] uppercase font-bold tracking-wider ${district.isHoliday || district.hasConfiguredFeed ? 'border-white/20' : 'border-slate-200 dark:border-slate-700'}`}>
-                   <span>Status: {district.isHoliday ? 'Alert Active' : (district.hasConfiguredFeed ? 'Clear' : 'Pending')}</span>
-                   {district.announcedAt && <span>{new Date(district.announcedAt).toLocaleDateString()}</span>}
-                </div>
-             </div>
-          ))}
+                 </div>
+             );
+          })}
         </div>
       </main>
-      
-      <footer className="w-full text-center p-6 text-sm text-slate-500 dark:text-slate-400 bg-black/5 dark:bg-black/20 mt-auto">
-        <p className="mb-2">Kerala State District-Level Centralized Holiday Dashboard</p>
-        <p>Updates dynamically sourced via RSS Feeds utilizing GitHub Actions</p>
-      </footer>
     </div>
   );
 }

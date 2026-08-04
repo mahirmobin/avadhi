@@ -1,0 +1,29 @@
+
+
+--- Debugging KNR ---
+
+Item: കനത്ത മഴ: ജില്ലയിലെ വിദ്യാഭ്യാസ
+Time diff (hours): 22.724972222222224
+Matched Keyword: true
+Specific Keywords Matched: അവധി, വിദ്യാഭ്യാസ, സ്ഥാപനങ്ങൾക്ക്
+Is False Positive: false
+
+Item: മൂവാറ്റുപുഴയാറിലേയും തൊടുപുഴയാറിലെയും ജലനിരപ്പ് അപകടനില പിന്നിട്ടു
+Time diff (hours): 31.728583333333333
+Matched Keyword: false
+Is False Positive: false
+
+Item: ജില്ലയിൽ ഇന്ന് ഓറഞ്ച് അലർട്ട്
+Time diff (hours): 34.107194444444445
+Matched Keyword: false
+Is False Positive: false
+
+Item: മൂവാറ്റുപുഴയാറിലേയും തൊടുപുഴയാറിലെയും ജലനിരപ്പ് അപകടനില പിന്നിട്ടു
+Time diff (hours): 34.14525
+Matched Keyword: false
+Is False Positive: false
+
+Item: പെരിയാറിലെ ജലനിരപ്പ് എല്ലാ പോയിന്റുകളിലും മുന്നറിയിപ്പുനിലയിൽ താഴെയാണ്
+Time diff (hours): 36.24497222222222
+Matched Keyword: false
+Is False Positive: false

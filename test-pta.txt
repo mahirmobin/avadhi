@@ -1,0 +1,6 @@
+Found False Positives:
+
+RAW TEXT DUMP PTA:
+a post from district collector pathanamthitta (feed generated with fetchrss) <br>
+<br>
+<img src="https://scontent-cdg4-1.xx.fbcdn.net/v/t39.30808-6/763722963_1431479465677818_8665744235053614925_n.jpg?stp=dst-jpg_s720x720_tt6&amp;_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=833d8c&amp;_nc_ohc=tqp8zlm9i_qq7knvwfu1qpb&amp;_nc_oc=ado280lsukgqxb5gttqrogh_7xhwdbdcphbzspfz-xpw5rrjwaclxzpi3zycugtu-x0&amp;_nc_zt=23&amp;_nc_ht=scontent-cdg4-1.xx&amp;edm=ajdbtuseaaaa&amp;_nc_gid=6eholpyxqeyhoqsf24lprg&amp;_nc_tpa=q5bmbqehpqzdpbgefrqp1slwatzlxvodgr84wdn22mcep0ryrpezxtxpqfjjbydpumcaz0rk29lxfieh&amp;oh=00_aqfqsl8t_bw7wdq74pydjbhb5sw7uz8mdzdt1myge-ykfq&amp;oe=6a77cd6b" /><br/><br/><span style="font-size:12px; color: gray;">(feed generated with <a href="https://fetchrss.com/feedlink?w=6a71f271f580ea85fb071474" target="_blank">fetchrss</a>)</span>

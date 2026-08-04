@@ -34,13 +34,13 @@ jobs:
           KTM_RSS_URL: ${{ secrets.KTM_RSS_URL }}
           IDK_RSS_URL: ${{ secrets.IDK_RSS_URL }}
           EKM_RSS_URL: ${{ secrets.EKM_RSS_URL }}
-          TCR_RSS_URL: ${{ secrets.TCR_RSS_URL }}
+          TSR_RSS_URL: ${{ secrets.TSR_RSS_URL }}
           PKD_RSS_URL: ${{ secrets.PKD_RSS_URL }}
-          MLP_RSS_URL: ${{ secrets.MLP_RSS_URL }}
+          MPM_RSS_URL: ${{ secrets.MPM_RSS_URL }}
           KKD_RSS_URL: ${{ secrets.KKD_RSS_URL }}
           WYD_RSS_URL: ${{ secrets.WYD_RSS_URL }}
           KNR_RSS_URL: ${{ secrets.KNR_RSS_URL }}
-          KSD_RSS_URL: ${{ secrets.KSD_RSS_URL }}
+          KSG_RSS_URL: ${{ secrets.KSG_RSS_URL }}
 
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
