@@ -2,11 +2,11 @@ const Parser = require('rss-parser');
 const fs = require('fs');
 const path = require('path');
 
-const RSS_URL = process.env.RSS_URL || '';
+const RSS_URL = process.env.RSS_URL || 'https://rss.app/feeds/IyeTPYI1DNTvS0JW.xml';
 
 
 const KEYWORDS = [
-  'അവധി', 'avadi', 'holiday', 'educational institutions', 
+  'അവധി', 'avadi', 'holiday', 'educational institutions', 'വിദ്യാഭ്യാസ', 'സ്ഥാപനങ്ങൾക്ക്', 
   'schools', 'colleges', 'anganwadis', 'tuition', 'professional colleges'
 ];
 
