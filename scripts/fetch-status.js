@@ -47,7 +47,7 @@ async function checkHolidays() {
      if (!rssUrl) {
          if (district.code === 'EKM') rssUrl = 'https://fetchrss.com/feed/1wrDn5GME8GZ1wrDnTBs81wq.rss';
          if (district.code === 'KNR') rssUrl = 'https://rss.app/feeds/81efmB9dArRoJ05S.xml';
-         if (district.code === 'TCR') rssUrl = 'https://rss.app/feeds/r9med9E79O20PCbP.xml';
+         if (district.code === 'TCR') rssUrl = 'https://fetchrss.com/feed/1wrDn5GME8GZ1wrDp37eWD0H.rss';
      }
      
      let isHoliday = false;
