@@ -11,7 +11,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-08-04T14:50:55.651Z"
+    "lastChecked": "2026-08-04T15:41:45.354Z"
   },
   "KLM": {
     "name": "Kollam",
@@ -25,7 +25,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-08-04T14:50:56.403Z"
+    "lastChecked": "2026-08-04T15:41:45.851Z"
   },
   "PTA": {
     "name": "Pathanamthitta",
@@ -39,7 +39,7 @@
     "sourceBadge": "",
     "metStatus": "Orange Alert",
     "holidayScope": "",
-    "lastChecked": "2026-08-04T14:50:56.951Z"
+    "lastChecked": "2026-08-04T15:41:46.100Z"
   },
   "ALP": {
     "name": "Alappuzha",
@@ -53,7 +53,7 @@
     "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Orange Alert",
     "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-08-04T14:50:57.597Z"
+    "lastChecked": "2026-08-04T15:41:46.378Z"
   },
   "KTM": {
     "name": "Kottayam",
@@ -67,7 +67,7 @@
     "sourceBadge": "",
     "metStatus": "Orange Alert",
     "holidayScope": "",
-    "lastChecked": "2026-08-04T14:50:57.827Z"
+    "lastChecked": "2026-08-04T15:41:46.631Z"
   },
   "IDK": {
     "name": "Idukki",
@@ -81,21 +81,21 @@
     "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Orange Alert",
     "holidayScope": "Including Professional Colleges",
-    "lastChecked": "2026-08-04T14:50:58.060Z"
+    "lastChecked": "2026-08-04T15:41:48.370Z"
   },
   "EKM": {
     "name": "Ernakulam",
     "handle": "@ernakulamdc",
-    "isHoliday": true,
-    "announcementText": "കനത്ത മഴ: ജില്ലയിലെ വിദ്യാഭ്യാസ",
-    "originalPostUrl": "https://www.facebook.com/233008147097016_1788401306096612",
-    "announcedAt": "Mon, 03 Aug 2026 16:00:16 +0000",
-    "holidayDate": "04/08/2026",
-    "hasConfiguredFeed": true,
-    "sourceBadge": "District Collector Official (FB)",
+    "isHoliday": false,
+    "announcementText": "Normal working day",
+    "originalPostUrl": "",
+    "announcedAt": "",
+    "holidayDate": "",
+    "hasConfiguredFeed": false,
+    "sourceBadge": "",
     "metStatus": "Orange Alert",
-    "holidayScope": "Including Professional Colleges",
-    "lastChecked": "2026-08-04T14:50:58.303Z"
+    "holidayScope": "",
+    "lastChecked": "2026-08-04T15:41:48.371Z"
   },
   "PKD": {
     "name": "Palakkad",
@@ -109,7 +109,7 @@
     "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Orange Alert",
     "holidayScope": "Includes Anganwadis",
-    "lastChecked": "2026-08-04T14:50:58.803Z"
+    "lastChecked": "2026-08-04T15:41:49.377Z"
   },
   "KKD": {
     "name": "Kozhikode",
@@ -123,7 +123,7 @@
     "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Orange Alert",
     "holidayScope": "Including Professional Colleges",
-    "lastChecked": "2026-08-04T14:50:59.470Z"
+    "lastChecked": "2026-08-04T15:41:50.031Z"
   },
   "WYD": {
     "name": "Wayanad",
@@ -137,7 +137,7 @@
     "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Orange Alert",
     "holidayScope": "Excluding Professional Colleges",
-    "lastChecked": "2026-08-04T14:50:59.903Z"
+    "lastChecked": "2026-08-04T15:41:50.412Z"
   },
   "KNR": {
     "name": "Kannur",
@@ -151,7 +151,7 @@
     "sourceBadge": "",
     "metStatus": "Orange Alert",
     "holidayScope": "",
-    "lastChecked": "2026-08-04T14:51:00.300Z"
+    "lastChecked": "2026-08-04T15:41:50.727Z"
   },
   "TSR": {
     "name": "Thrissur",
@@ -165,7 +165,7 @@
     "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Orange Alert",
     "holidayScope": "Includes Anganwadis",
-    "lastChecked": "2026-08-04T14:50:58.508Z"
+    "lastChecked": "2026-08-04T15:41:48.987Z"
   },
   "MPM": {
     "name": "Malappuram",
@@ -179,7 +179,7 @@
     "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Orange Alert",
     "holidayScope": "Includes Anganwadis",
-    "lastChecked": "2026-08-04T14:50:59.048Z"
+    "lastChecked": "2026-08-04T15:41:49.717Z"
   },
   "KSG": {
     "name": "Kasaragod",
@@ -193,6 +193,6 @@
     "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Orange Alert",
     "holidayScope": "Including Professional Colleges",
-    "lastChecked": "2026-08-04T14:51:00.588Z"
+    "lastChecked": "2026-08-04T15:41:51.148Z"
   }
 }

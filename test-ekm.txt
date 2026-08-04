@@ -1,0 +1,52 @@
+--- ERNAKULAM RSS FEED DIAGNOSTICS ---
+
+ITEM [0]:
+TITLE: കനത്ത മഴ: ജില്ലയിലെ വിദ്യാഭ്യാസ
+DATE: Mon, 03 Aug 2026 16:00:16 +0000
+RAW CONTENT: കനത്ത മഴ: ജില്ലയിലെ വിദ്യാഭ്യാസ<br>
+സ്ഥാപനങ്ങൾക്ക് നാളെ (ഓഗസ്റ്റ് 4) അവധി<br>
+<br>
+ശക്തമായ കാറ്റും മഴയും കണക്കിലെടുത്ത് എറണാകുളം ജില്ലയിൽ ഓറഞ്ച് അലർട്ട് പ്രഖ്യാപിച്ച സാഹചര്യത്തിൽ പ്രൊഫഷണൽ കോളേജുകൾ ഉൾപ്പെടെ എല്ലാ വിദ്യാഭ്യാസ സ്ഥാപനങ്ങൾക്കും നാളെ (ഓഗസ്റ്റ് 4, ചൊവ്വ) അവധിയായിരിക്കും. അങ്കണവാടികൾക്കും ട്യൂഷൻ സെന്ററുകൾക്കും അവധി ബാധകമാണ്.<br>
+<br>
+<img src="https://scontent-cdg4-1.xx.fbcdn.net/v/t39.30808-6/764089448_1788401239429952_2752939402298022587_n.jpg?stp=dst-jpg_p720x720_tt6&amp;_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=833d8c&amp;_nc_ohc=8MGxdzd2HrAQ7kNvwFJXhxe&amp;_nc_oc=AdqvzI4EmA2UPTgwEiotc87JPEKyhb1iJOyypyCx39CkH66WoM-OF08PHdgfmQ7uemU&amp;_nc_zt=23&amp;_nc_ht=scontent-cdg4-1.xx&amp;edm=AJdBtusEAAAA&amp;_nc_gid=XwY4bTfwA6dALQuwKlQPYA&amp;_nc_tpa=Q5bMBQEIpjsE9FzUkzvH6-q169BPeE0kpevVqYLAeDrYVIqhV3fEiyKJXtDTnp6PpHu_kR78DkqLkPfh&amp;oh=00_AQEcaluT48V0vxY5rgWwZj8xpiAJLH6iog6LlRCkJL2teA&amp;oe=6A768902" /><br/><br/><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6a71d407ac3cb248b10d1d44" target="_blank">FetchRSS</a>)</span>
+
+ITEM [1]:
+TITLE: മൂവാറ്റുപുഴയാറിലേയും തൊടുപുഴയാറിലെയും ജലനിരപ്പ് അപകടനില പിന്നിട്ടു
+DATE: Mon, 03 Aug 2026 07:00:03 +0000
+RAW CONTENT: മൂവാറ്റുപുഴയാറിലേയും തൊടുപുഴയാറിലെയും ജലനിരപ്പ് അപകടനില പിന്നിട്ടു. കാളിയാറിലെ ജലനിരപ്പ് മുന്നറിയിപ്പ് നില പിന്നിട്ടു. നദികളുടെ തീരത്തുള്ളവർ ജാഗ്രത പാലിക്കുക<br>
+<br>
+മൂവാറ്റുപുഴയാർ ജലനിരപ്പ്<br>
+@12 PM<br>
+03/08/2026<br>
+<br>
+ജലനിരപ്പ് : 12.52 മീറ്റർ<br>
+മുന്നറിയിപ്പ് നിരപ്പ് : 10.92 മീറ്റർ<br>
+അപകടനില : 11.93 മീറ്റർ<br>
+ജലനിരപ്പ് ഉയരുന്നു. അപകട നിലക്ക് മുകളിൽ<br>
+<br>
+തൊടുപുഴയാർ ജലനിരപ്പ്<br>
+@12 PM<br>
+03/08/2026<br>
+<br>
+ജലനിരപ്പ് : 12.46 മീറ്റർ<br>
+മുന്നറിയിപ്പ് നിരപ്പ് : 10.78 മീറ്റർ<br>
+അപകടനില : 11.79 മീറ്റർ<br>
+ജലനിരപ്പ് ഉയരുന്നു. അപകട നിലക്ക്  മുകളിൽ<br>
+<br>
+കാളിയാർ ജലനിരപ്പ്<br>
+@12 PM<br>
+03/08/2026<br>
+<br>
+ജലനിരപ്പ് : 13.41 മീറ്റർ<br>
+മുന്നറിയിപ്പ് നിരപ്പ് : 13.10 മീറ്റർ<br>
+അപകടനില : 14.1മീറ്റർ<br>
+ജലനിരപ്പ് ഉയരുന്നു. മുന്നറിയിപ്പ് നിരപ്പിൻ  മുകളിൽ<br>
+<br>
+<img src="https://scontent-cdg4-2.xx.fbcdn.net/v/t39.30808-6/762324572_1787988089471267_6216271274534975600_n.jpg?_nc_cat=1&amp;ccb=1-7&amp;_nc_sid=833d8c&amp;_nc_ohc=m_2zGv4N3GEQ7kNvwEKK24z&amp;_nc_oc=Ado8brKmwsdeIECxk_HyNWif1u1BOCjrra2TUNcUrx616tHNbBf-gD0_p2HvGzQL8ro&amp;_nc_zt=23&amp;_nc_ht=scontent-cdg4-2.xx&amp;edm=AJdBtusEAAAA&amp;_nc_gid=XwY4bTfwA6dALQuwKlQPYA&amp;_nc_tpa=Q5bMBQEej5ue8KBxki9EbFXEkWjN8GLdgB9aQaCuR2h3JLAALBtMuGgPnlRlddrrqWEyykhbxKDy1Hkg&amp;oh=00_AQHA5eNSEGmx6zcwsyh2yTCIzvQJL3B1abyoS4VYlFOIXg&amp;oe=6A76A971" /><br/><br/><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6a71d407ac3cb248b10d1d44" target="_blank">FetchRSS</a>)</span>
+
+ITEM [2]:
+TITLE: ജില്ലയിൽ ഇന്ന് ഓറഞ്ച് അലർട്ട്
+DATE: Mon, 03 Aug 2026 04:37:20 +0000
+RAW CONTENT: ജില്ലയിൽ ഇന്ന് ഓറഞ്ച് അലർട്ട്<br>
+<br>
+<img src="https://scontent-cdg4-2.xx.fbcdn.net/v/t39.30808-6/761878167_1787899599480116_1712245819022042665_n.jpg?stp=dst-jpg_p720x720_tt6&amp;_nc_cat=1&amp;ccb=1-7&amp;_nc_sid=833d8c&amp;_nc_ohc=wUGWnqS0AVUQ7kNvwGetgv1&amp;_nc_oc=AdqpFYbme3-JXJYbIPRnN0RBGlz8lJ75gCUPz1c9rMLxZkeNbqlZ7MoiS4JliFdDBg0&amp;_nc_zt=23&amp;_nc_ht=scontent-cdg4-2.xx&amp;edm=AJdBtusEAAAA&amp;_nc_gid=XwY4bTfwA6dALQuwKlQPYA&amp;_nc_tpa=Q5bMBQFQQnUwLWUvxs6SCzwOL-mYO_dWwqUxZH794a-VyKc1AeuFt_fySCjPqMWxNmIb4nN5AXXQr-jd&amp;oh=00_AQHlYXyKa4Rk_LNrZ3S_J1PGaGq-K-a_x-wTZTmQ7BRbjA&amp;oe=6A769243" /><br/><br/><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6a71d407ac3cb248b10d1d44" target="_blank">FetchRSS</a>)</span>
