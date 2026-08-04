@@ -42,10 +42,12 @@ async function checkHolidays() {
   
   for (const district of DISTRICTS) {
      const envKey = `${district.code}_RSS_URL`;
-     // Fallback for Ernakulam specifically because user provided it
+     // Fallbacks for the feeds provided by the user
      let rssUrl = process.env[envKey] || '';
-     if (district.code === 'EKM' && !rssUrl) {
-         rssUrl = 'https://rss.app/feeds/IyeTPYI1DNTvS0JW.xml';
+     if (!rssUrl) {
+         if (district.code === 'EKM') rssUrl = 'https://rss.app/feeds/IyeTPYI1DNTvS0JW.xml';
+         if (district.code === 'KNR') rssUrl = 'https://rss.app/feeds/81efmB9dArRoJ05S.xml';
+         if (district.code === 'TCR') rssUrl = 'https://rss.app/feeds/r9med9E79O20PCbP.xml';
      }
      
      let isHoliday = false;
