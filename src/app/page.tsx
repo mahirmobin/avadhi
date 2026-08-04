@@ -45,9 +45,11 @@ export default function Home() {
     );
   }
 
-  const districts = Object.keys(data || {}).map((code) => ({
-    code,
-    ...data![code],
+  const districts = Object.keys(data || {})
+    .filter((code) => typeof data![code] === 'object' && data![code].name)
+    .map((code) => ({
+      code,
+      ...data![code],
   }));
 
   districts.sort((a, b) => {
