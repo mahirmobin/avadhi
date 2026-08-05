@@ -35,22 +35,33 @@ export function MorphingDialogTrigger({ children, className }: { children: React
 
 export function MorphingDialogContainer({ children }: { children: React.ReactNode }) {
   const { isOpen, setIsOpen } = useContext(DialogContext)!;
-  return (
-    <AnimatePresence>
-      {isOpen && (
-        <div className="fixed inset-0 z-[100] flex items-center justify-center p-4 sm:p-6">
-          <motion.div 
-            initial={{ opacity: 0 }}
-            animate={{ opacity: 1 }}
-            exit={{ opacity: 0 }}
-            onClick={() => setIsOpen(false)}
-            className="absolute inset-0 bg-black/60 backdrop-blur-md"
-          />
-          {children}
-        </div>
-      )}
-    </AnimatePresence>
-  );
+  const [mounted, setMounted] = useState(false);
+
+  React.useEffect(() => {
+    setMounted(true);
+  }, []);
+
+  if (!mounted) return null;
+
+  return React.useMemo(() => {
+    return require('react-dom').createPortal(
+      <AnimatePresence>
+        {isOpen && (
+          <div className="fixed inset-0 z-[100] flex items-center justify-center p-4 sm:p-6 pointer-events-auto">
+            <motion.div 
+              initial={{ opacity: 0 }}
+              animate={{ opacity: 1 }}
+              exit={{ opacity: 0 }}
+              onClick={() => setIsOpen(false)}
+              className="absolute inset-0 bg-black/60 backdrop-blur-md"
+            />
+            {children}
+          </div>
+        )}
+      </AnimatePresence>,
+      document.body
+    );
+  }, [isOpen, children, setIsOpen]);
 }
 
 export function MorphingDialogContent({ children, className }: { children: React.ReactNode, className?: string }) {
