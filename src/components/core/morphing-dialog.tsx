@@ -1,5 +1,6 @@
 'use client';
 import React, { useState, createContext, useContext, useId } from 'react';
+import { createPortal } from 'react-dom';
 import { motion, AnimatePresence } from 'framer-motion';
 import { X } from 'lucide-react';
 
@@ -43,25 +44,23 @@ export function MorphingDialogContainer({ children }: { children: React.ReactNod
 
   if (!mounted) return null;
 
-  return React.useMemo(() => {
-    return require('react-dom').createPortal(
-      <AnimatePresence>
-        {isOpen && (
-          <div className="fixed inset-0 z-[100] flex items-center justify-center p-4 sm:p-6 pointer-events-auto">
-            <motion.div 
-              initial={{ opacity: 0 }}
-              animate={{ opacity: 1 }}
-              exit={{ opacity: 0 }}
-              onClick={() => setIsOpen(false)}
-              className="absolute inset-0 bg-black/60 backdrop-blur-md"
-            />
-            {children}
-          </div>
-        )}
-      </AnimatePresence>,
-      document.body
-    );
-  }, [isOpen, children, setIsOpen]);
+  return createPortal(
+    <AnimatePresence>
+      {isOpen && (
+        <div className="fixed inset-0 z-[100] flex items-center justify-center p-4 sm:p-6 pointer-events-auto">
+          <motion.div 
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            exit={{ opacity: 0 }}
+            onClick={() => setIsOpen(false)}
+            className="absolute inset-0 bg-black/60 backdrop-blur-md"
+          />
+          {children}
+        </div>
+      )}
+    </AnimatePresence>,
+    document.body
+  );
 }
 
 export function MorphingDialogContent({ children, className }: { children: React.ReactNode, className?: string }) {
