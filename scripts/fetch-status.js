@@ -97,6 +97,7 @@ async function checkHolidays() {
   const imdMetData = await fetchIMDData();
   console.log("Fetched Global IMD Data:", Object.keys(imdMetData).length, "Districts");
   
+  let statusData = {};
   try {
     if (fs.existsSync(STATUS_FILE)) {
       statusData = JSON.parse(fs.readFileSync(STATUS_FILE, 'utf8'));
@@ -286,6 +287,7 @@ async function checkHolidays() {
       }
   }
   // --- HOTFIX BYPASS FOR ERNAKULAM DUE TO CACHE FREEZE ---
+  /*
   if (statusData['EKM'] && tomorrowDateStr === '05/08/2026') {
       statusData['EKM'].isHoliday = true;
       statusData['EKM'].holidayDate = '05/08/2026';
@@ -293,6 +295,7 @@ async function checkHolidays() {
       statusData['EKM'].holidayScope = "Includes all educational institutions";
       statusData['EKM'].sourceBadge = "Collector Official (LIVE OVERRIDE)";
   }
+  */
 
   fs.writeFileSync(STATUS_FILE, JSON.stringify(statusData, null, 2));
   console.log(`Successfully updated ${STATUS_FILE}`);
