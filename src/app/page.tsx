@@ -81,16 +81,44 @@ export default function Home() {
     );
   }
 
+  const today = new Date();
+  today.setHours(0, 0, 0, 0);
+
+  const parseDateStr = (dateStr: string | undefined): Date | null => {
+    if (!dateStr) return null;
+    const [day, month, year] = dateStr.split('/');
+    if (!day || !month || !year) return null;
+    return new Date(parseInt(year), parseInt(month) - 1, parseInt(day));
+  };
+
   const districts = Object.keys(data || {})
     .filter((code) => typeof data![code] === 'object' && data![code].name)
-    .map((code) => ({
-      code,
-      ...data![code],
-  }));
+    .map((code) => {
+      const district = {
+        code,
+        ...data![code],
+      };
+      
+      const holidayDateObj = parseDateStr(district.holidayDate);
+      if (holidayDateObj && holidayDateObj < today) {
+         district.isHoliday = false;
+         district.announcementText = "Normal working day";
+         district.holidayDate = "";
+         district.holidayScope = "";
+      }
+      return district;
+  });
 
   districts.sort((a, b) => {
     if (a.isHoliday && !b.isHoliday) return -1;
     if (!a.isHoliday && b.isHoliday) return 1;
+
+    if (a.isHoliday && b.isHoliday) {
+      const dateA = a.announcedAt ? new Date(a.announcedAt).getTime() : 0;
+      const dateB = b.announcedAt ? new Date(b.announcedAt).getTime() : 0;
+      if (dateA !== dateB) return dateB - dateA;
+    }
+
     if (a.hasConfiguredFeed && !b.hasConfiguredFeed) return -1;
     if (!a.hasConfiguredFeed && b.hasConfiguredFeed) return 1;
     return a.name.localeCompare(b.name);
