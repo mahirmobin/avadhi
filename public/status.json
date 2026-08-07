@@ -11,7 +11,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-08-07T12:26:50.461Z"
+    "lastChecked": "2026-08-07T13:47:43.119Z"
   },
   "KLM": {
     "name": "Kollam",
@@ -25,7 +25,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-08-07T12:26:50.554Z"
+    "lastChecked": "2026-08-07T13:47:43.216Z"
   },
   "PTA": {
     "name": "Pathanamthitta",
@@ -39,7 +39,7 @@
     "sourceBadge": "",
     "metStatus": "Orange Alert",
     "holidayScope": "",
-    "lastChecked": "2026-08-07T12:26:50.644Z"
+    "lastChecked": "2026-08-07T13:47:43.309Z"
   },
   "ALP": {
     "name": "Alappuzha",
@@ -53,7 +53,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-08-07T12:26:50.732Z"
+    "lastChecked": "2026-08-07T13:47:43.401Z"
   },
   "KTM": {
     "name": "Kottayam",
@@ -67,7 +67,7 @@
     "sourceBadge": "",
     "metStatus": "Orange Alert",
     "holidayScope": "",
-    "lastChecked": "2026-08-07T12:26:50.820Z"
+    "lastChecked": "2026-08-07T13:47:43.492Z"
   },
   "IDK": {
     "name": "Idukki",
@@ -81,21 +81,21 @@
     "sourceBadge": "",
     "metStatus": "Orange Alert",
     "holidayScope": "",
-    "lastChecked": "2026-08-07T12:26:50.910Z"
+    "lastChecked": "2026-08-07T13:47:43.586Z"
   },
   "EKM": {
     "name": "Ernakulam",
     "handle": "@ernakulamdc",
-    "isHoliday": false,
-    "announcementText": "Normal working day",
-    "originalPostUrl": "",
-    "announcedAt": "",
-    "holidayDate": "",
+    "isHoliday": true,
+    "announcementText": "കനത്ത മഴ: ജില്ലയിലെ വിദ്യാഭ്യാസ",
+    "originalPostUrl": "https://www.facebook.com/233008147097016_1791696459100430",
+    "announcedAt": "Thu, 06 Aug 2026 23:49:10 +0000",
+    "holidayDate": "07/08/2026",
     "hasConfiguredFeed": true,
-    "sourceBadge": "",
+    "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Yellow Alert",
-    "holidayScope": "",
-    "lastChecked": "2026-08-07T12:26:51.001Z"
+    "holidayScope": "Including Professional Colleges",
+    "lastChecked": "2026-08-07T13:47:44.611Z"
   },
   "PKD": {
     "name": "Palakkad",
@@ -109,7 +109,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-08-07T12:26:51.177Z"
+    "lastChecked": "2026-08-07T13:47:45.644Z"
   },
   "KKD": {
     "name": "Kozhikode",
@@ -123,7 +123,7 @@
     "sourceBadge": "",
     "metStatus": "Red Alert",
     "holidayScope": "",
-    "lastChecked": "2026-08-07T12:26:51.354Z"
+    "lastChecked": "2026-08-07T13:47:45.827Z"
   },
   "WYD": {
     "name": "Wayanad",
@@ -137,35 +137,35 @@
     "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Red Alert",
     "holidayScope": "Including Professional Colleges",
-    "lastChecked": "2026-08-07T12:26:51.441Z"
+    "lastChecked": "2026-08-07T13:47:45.919Z"
   },
   "KNR": {
     "name": "Kannur",
     "handle": "@collector.kannur",
-    "isHoliday": false,
-    "announcementText": "Normal working day",
-    "originalPostUrl": "",
-    "announcedAt": "",
-    "holidayDate": "",
+    "isHoliday": true,
+    "announcementText": "കണ്ണൂർ ജില്ലയിലെ വിദ്യാഭ്യാസ സ്ഥാപനങ്ങള്‍ക്ക് നാളെ (07/08/2026), വെള്ളിയാഴ്‌ച അവധി.",
+    "originalPostUrl": "https://www.facebook.com/745473162216207_1479916207511224",
+    "announcedAt": "Thu, 06 Aug 2026 15:42:51 +0000",
+    "holidayDate": "07/08/2026",
     "hasConfiguredFeed": true,
-    "sourceBadge": "",
+    "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Red Alert",
-    "holidayScope": "",
-    "lastChecked": "2026-08-07T12:26:51.530Z"
+    "holidayScope": "Including Professional Colleges",
+    "lastChecked": "2026-08-07T13:47:46.849Z"
   },
   "TSR": {
     "name": "Thrissur",
     "handle": "@ThrissurCollector",
-    "isHoliday": false,
-    "announcementText": "Normal working day",
-    "originalPostUrl": "",
-    "announcedAt": "",
-    "holidayDate": "",
+    "isHoliday": true,
+    "announcementText": "ജില്ലയിൽ രാത്രിയിൽ ശക്തമായ മഴ തുടരുന്ന സാഹചര്യത്തിൽ,  വിദ്യാർത്ഥികളുടെ സുരക്ഷ മുൻനിർത്തി ദുരന്തസാഹചര്യം ഒഴിവാക്കുന്നതിനുള്ള മുന്‍കരുതല്‍ നടപടിയുടെ ഭാഗമായി, തൃശ്ശൂർ ജില്ലയിലെ അങ്കണവാടികൾ, ട്യൂഷൻ സെന്ററുകൾ, മദ്രസകൾ, നഴ്സറികള്‍, കേന്ദ്രീയവിദ്യാലയങ്ങള്‍, CBSE, ICSE സ്കൂളുകള്‍, പ്രഫഷണല്‍ കോളേജുകള്‍, ഉള്‍പ്പെടെയുള്ള എല്ലാ വിദ്യാഭ്യാസ സ്ഥാപനങ്ങള്‍ക്കും ഇന്ന് 07.08.2026  തീയതി , വെള്ളി അവധി പ്രഖ്യാപിച്ചുകൊണ്ട് ദുരന്തനിവാരണ നിയമം, 2005 സെക്ഷന്‍ 30(2) (xxix) പ്രകാരം ഇതിനാല്‍ ഉത്തരവാകുന്നു.",
+    "originalPostUrl": "https://www.facebook.com/105782160780355_1373631161618038",
+    "announcedAt": "Fri, 07 Aug 2026 01:00:15 +0000",
+    "holidayDate": "07/08/2026",
     "hasConfiguredFeed": true,
-    "sourceBadge": "",
+    "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Yellow Alert",
-    "holidayScope": "",
-    "lastChecked": "2026-08-07T12:26:51.089Z"
+    "holidayScope": "Includes Anganwadis",
+    "lastChecked": "2026-08-07T13:47:45.552Z"
   },
   "MPM": {
     "name": "Malappuram",
@@ -179,7 +179,7 @@
     "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Orange Alert",
     "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-08-07T12:26:51.265Z"
+    "lastChecked": "2026-08-07T13:47:45.736Z"
   },
   "KSG": {
     "name": "Kasaragod",
@@ -193,6 +193,6 @@
     "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Red Alert",
     "holidayScope": "Including Professional Colleges",
-    "lastChecked": "2026-08-07T12:26:51.619Z"
+    "lastChecked": "2026-08-07T13:47:47.030Z"
   }
 }
