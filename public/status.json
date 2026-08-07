@@ -11,7 +11,7 @@
     "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Yellow Alert",
     "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-08-07T16:32:08.016Z"
+    "lastChecked": "2026-08-07T17:31:31.578Z"
   },
   "KLM": {
     "name": "Kollam",
@@ -25,7 +25,7 @@
     "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Yellow Alert",
     "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-08-07T16:32:09.177Z"
+    "lastChecked": "2026-08-07T17:31:31.677Z"
   },
   "PTA": {
     "name": "Pathanamthitta",
@@ -39,7 +39,7 @@
     "sourceBadge": "",
     "metStatus": "Orange Alert",
     "holidayScope": "",
-    "lastChecked": "2026-08-07T16:32:10.053Z"
+    "lastChecked": "2026-08-07T17:31:31.773Z"
   },
   "ALP": {
     "name": "Alappuzha",
@@ -53,7 +53,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-08-07T16:32:11.716Z"
+    "lastChecked": "2026-08-07T17:31:31.869Z"
   },
   "KTM": {
     "name": "Kottayam",
@@ -67,7 +67,7 @@
     "sourceBadge": "",
     "metStatus": "Orange Alert",
     "holidayScope": "",
-    "lastChecked": "2026-08-07T16:32:11.810Z"
+    "lastChecked": "2026-08-07T17:31:31.965Z"
   },
   "IDK": {
     "name": "Idukki",
@@ -81,7 +81,7 @@
     "sourceBadge": "",
     "metStatus": "Orange Alert",
     "holidayScope": "",
-    "lastChecked": "2026-08-07T16:32:20.453Z"
+    "lastChecked": "2026-08-07T17:31:32.062Z"
   },
   "EKM": {
     "name": "Ernakulam",
@@ -95,7 +95,7 @@
     "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Yellow Alert",
     "holidayScope": "Including Professional Colleges",
-    "lastChecked": "2026-08-07T16:32:20.548Z"
+    "lastChecked": "2026-08-07T17:31:32.159Z"
   },
   "PKD": {
     "name": "Palakkad",
@@ -109,7 +109,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-08-07T16:32:20.737Z"
+    "lastChecked": "2026-08-07T17:31:32.351Z"
   },
   "KKD": {
     "name": "Kozhikode",
@@ -123,7 +123,7 @@
     "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Red Alert",
     "holidayScope": "Excluding Professional Colleges",
-    "lastChecked": "2026-08-07T16:32:21.831Z"
+    "lastChecked": "2026-08-07T17:31:32.543Z"
   },
   "WYD": {
     "name": "Wayanad",
@@ -137,7 +137,7 @@
     "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Red Alert",
     "holidayScope": "Excluding Professional Colleges",
-    "lastChecked": "2026-08-07T16:32:22.948Z"
+    "lastChecked": "2026-08-07T17:31:32.639Z"
   },
   "KNR": {
     "name": "Kannur",
@@ -151,7 +151,7 @@
     "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Red Alert",
     "holidayScope": "Including Professional Colleges",
-    "lastChecked": "2026-08-07T16:32:23.042Z"
+    "lastChecked": "2026-08-07T17:31:32.735Z"
   },
   "TSR": {
     "name": "Thrissur",
@@ -165,21 +165,21 @@
     "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Yellow Alert",
     "holidayScope": "Includes Anganwadis",
-    "lastChecked": "2026-08-07T16:32:20.643Z"
+    "lastChecked": "2026-08-07T17:31:32.255Z"
   },
   "MPM": {
     "name": "Malappuram",
     "handle": "@malappuramcollector",
-    "isHoliday": true,
-    "announcementText": "പട്ടികവർഗ്ഗ വികസന വകുപ്പിന് കീഴിൽ പ്രവർത്തിക്കുന്ന നിലമ്പൂർ ഇന്ദിരാഗാന്ധി മെമ്മോറിയൽ മോഡൽ റെസിഡൻഷ്യൽ സ്കൂളിന്റെ (IGMMRS) എക്സിക്യൂട്ടീവ് കമ്മിറ്റി യോഗത്തിൽ ഇന്ന് അധ്യക്ഷത വഹിച്ചു. സ്കൂളിന്റെ നിലവിലെ പ്രവർത്തനങ്ങളും ഭാവി വികസന പദ്ധതികളും യോഗത്തിൽ വിശദമായി വിലയിരുത്തുകയുണ്ടായി.",
-    "originalPostUrl": "https://www.facebook.com/990649497647157_1609368763881239",
-    "announcedAt": "Wed, 05 Aug 2026 17:06:10 +0000",
-    "holidayDate": "06/08/2026",
+    "isHoliday": false,
+    "announcementText": "Normal working day",
+    "originalPostUrl": "",
+    "announcedAt": "",
+    "holidayDate": "",
     "hasConfiguredFeed": true,
-    "sourceBadge": "District Collector Official (FB)",
+    "sourceBadge": "",
     "metStatus": "Orange Alert",
-    "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-08-07T16:32:20.831Z"
+    "holidayScope": "",
+    "lastChecked": "2026-08-07T17:31:32.447Z"
   },
   "KSG": {
     "name": "Kasaragod",
@@ -193,6 +193,6 @@
     "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Red Alert",
     "holidayScope": "Including Professional Colleges",
-    "lastChecked": "2026-08-07T16:32:23.136Z"
+    "lastChecked": "2026-08-07T17:31:32.831Z"
   }
 }
