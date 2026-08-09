@@ -11,7 +11,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-08-09T11:52:46.086Z"
+    "lastChecked": "2026-08-09T12:26:37.519Z"
   },
   "KLM": {
     "name": "Kollam",
@@ -25,7 +25,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-08-09T11:52:46.182Z"
+    "lastChecked": "2026-08-09T12:26:37.612Z"
   },
   "PTA": {
     "name": "Pathanamthitta",
@@ -39,7 +39,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-08-09T11:52:46.276Z"
+    "lastChecked": "2026-08-09T12:26:37.704Z"
   },
   "ALP": {
     "name": "Alappuzha",
@@ -53,7 +53,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-08-09T11:52:46.369Z"
+    "lastChecked": "2026-08-09T12:26:37.795Z"
   },
   "KTM": {
     "name": "Kottayam",
@@ -67,7 +67,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-08-09T11:52:46.462Z"
+    "lastChecked": "2026-08-09T12:26:37.885Z"
   },
   "IDK": {
     "name": "Idukki",
@@ -81,7 +81,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-08-09T11:52:46.556Z"
+    "lastChecked": "2026-08-09T12:26:37.977Z"
   },
   "EKM": {
     "name": "Ernakulam",
@@ -95,7 +95,7 @@
     "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Yellow Alert",
     "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-08-09T11:52:46.650Z"
+    "lastChecked": "2026-08-09T12:26:38.069Z"
   },
   "PKD": {
     "name": "Palakkad",
@@ -109,21 +109,21 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-08-09T11:52:46.835Z"
+    "lastChecked": "2026-08-09T12:26:38.250Z"
   },
   "KKD": {
     "name": "Kozhikode",
     "handle": "@collectorkozhikode",
-    "isHoliday": true,
-    "announcementText": "പ്രൊഫഷണൽ കോളെജുകൾ ഒഴികെ വിദ്യാഭ്യാസ സ്ഥാപനങ്ങൾക്ക് നാളെ (ശനി) അവധി",
-    "originalPostUrl": "https://www.facebook.com/1588733288030112_1366135622294442",
-    "announcedAt": "Fri, 07 Aug 2026 12:20:23 +0000",
-    "holidayDate": "08/08/2026",
+    "isHoliday": false,
+    "announcementText": "Normal working day",
+    "originalPostUrl": "",
+    "announcedAt": "",
+    "holidayDate": "",
     "hasConfiguredFeed": true,
-    "sourceBadge": "District Collector Official (FB)",
+    "sourceBadge": "",
     "metStatus": "Yellow Alert",
-    "holidayScope": "Excluding Professional Colleges",
-    "lastChecked": "2026-08-09T11:52:47.020Z"
+    "holidayScope": "",
+    "lastChecked": "2026-08-09T12:26:38.430Z"
   },
   "WYD": {
     "name": "Wayanad",
@@ -137,7 +137,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-08-09T11:52:47.112Z"
+    "lastChecked": "2026-08-09T12:26:38.520Z"
   },
   "KNR": {
     "name": "Kannur",
@@ -151,7 +151,7 @@
     "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Yellow Alert",
     "holidayScope": "Including Professional Colleges",
-    "lastChecked": "2026-08-09T11:52:47.205Z"
+    "lastChecked": "2026-08-09T12:26:38.611Z"
   },
   "TSR": {
     "name": "Thrissur",
@@ -165,7 +165,7 @@
     "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Yellow Alert",
     "holidayScope": "Including Professional Colleges",
-    "lastChecked": "2026-08-09T11:52:46.743Z"
+    "lastChecked": "2026-08-09T12:26:38.160Z"
   },
   "MPM": {
     "name": "Malappuram",
@@ -179,7 +179,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-08-09T11:52:46.928Z"
+    "lastChecked": "2026-08-09T12:26:38.340Z"
   },
   "KSG": {
     "name": "Kasaragod",
@@ -193,6 +193,6 @@
     "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Yellow Alert",
     "holidayScope": "Including Professional Colleges",
-    "lastChecked": "2026-08-09T11:52:47.298Z"
+    "lastChecked": "2026-08-09T12:26:38.702Z"
   }
 }
