@@ -11,7 +11,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-08-11T00:53:54.005Z"
+    "lastChecked": "2026-08-11T02:59:15.354Z"
   },
   "KLM": {
     "name": "Kollam",
@@ -25,7 +25,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-08-11T00:53:54.148Z"
+    "lastChecked": "2026-08-11T02:59:15.452Z"
   },
   "PTA": {
     "name": "Pathanamthitta",
@@ -39,7 +39,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-08-11T00:53:54.290Z"
+    "lastChecked": "2026-08-11T02:59:15.551Z"
   },
   "ALP": {
     "name": "Alappuzha",
@@ -53,21 +53,21 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-08-11T00:53:54.429Z"
+    "lastChecked": "2026-08-11T02:59:15.648Z"
   },
   "KTM": {
     "name": "Kottayam",
     "handle": "@CollectorKottayam",
     "isHoliday": true,
-    "announcementText": "കോട്ടയം  ജില്ലയിൽ ദുരിതാശ്വാസ ക്യാമ്പുകൾ പ്രവർത്തിക്കുന്ന എല്ലാ വിദ്യാഭ്യാസ സ്ഥാപനങ്ങൾക്കും നാളെ ( 2026 ഓഗസ്റ്റ് 10 ) അവധി പ്രഖ്യാപിച്ചു",
-    "originalPostUrl": "https://www.facebook.com/1600174033528166_1386762263645944",
-    "announcedAt": "Sun, 09 Aug 2026 15:15:59 +0000",
-    "holidayDate": "10/08/2026",
+    "announcementText": "ജില്ലയില്‍ ദുരിതാശ്വാസ ക്യാമ്പുകള്‍ പ്രവര്‍ത്തിക്കുന്ന എല്ലാ വിദ്യാഭ്യാസ സ്ഥാപനങ്ങള്‍ക്കും നാളെ ( 2026 ഓഗസ്റ്റ് 11 ) അവധി പ്രഖ്യാപിച്ചു",
+    "originalPostUrl": "https://www.facebook.com/1600174033528166_1387477340241103",
+    "announcedAt": "Mon, 10 Aug 2026 12:29:51 +0000",
+    "holidayDate": "11/08/2026",
     "hasConfiguredFeed": true,
     "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Yellow Alert",
     "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-08-11T00:53:54.569Z"
+    "lastChecked": "2026-08-11T02:59:16.579Z"
   },
   "IDK": {
     "name": "Idukki",
@@ -81,7 +81,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-08-11T00:53:54.710Z"
+    "lastChecked": "2026-08-11T02:59:16.676Z"
   },
   "EKM": {
     "name": "Ernakulam",
@@ -95,7 +95,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-08-11T00:53:54.851Z"
+    "lastChecked": "2026-08-11T02:59:16.773Z"
   },
   "PKD": {
     "name": "Palakkad",
@@ -109,7 +109,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-08-11T00:53:55.130Z"
+    "lastChecked": "2026-08-11T02:59:17.829Z"
   },
   "KKD": {
     "name": "Kozhikode",
@@ -123,7 +123,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-08-11T00:53:55.409Z"
+    "lastChecked": "2026-08-11T02:59:19.058Z"
   },
   "WYD": {
     "name": "Wayanad",
@@ -137,7 +137,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-08-11T00:53:55.548Z"
+    "lastChecked": "2026-08-11T02:59:19.153Z"
   },
   "KNR": {
     "name": "Kannur",
@@ -151,7 +151,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-08-11T00:53:55.690Z"
+    "lastChecked": "2026-08-11T02:59:19.343Z"
   },
   "TSR": {
     "name": "Thrissur",
@@ -165,7 +165,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-08-11T00:53:54.991Z"
+    "lastChecked": "2026-08-11T02:59:16.869Z"
   },
   "MPM": {
     "name": "Malappuram",
@@ -179,7 +179,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-08-11T00:53:55.270Z"
+    "lastChecked": "2026-08-11T02:59:18.962Z"
   },
   "KSG": {
     "name": "Kasaragod",
@@ -193,6 +193,6 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-08-11T00:53:55.829Z"
+    "lastChecked": "2026-08-11T02:59:20.753Z"
   }
 }
