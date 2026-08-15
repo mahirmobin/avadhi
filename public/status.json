@@ -11,7 +11,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-15T16:40:39.212Z"
+    "lastChecked": "2026-08-15T16:58:20.918Z"
   },
   "KLM": {
     "name": "Kollam",
@@ -25,7 +25,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-15T16:40:39.325Z"
+    "lastChecked": "2026-08-15T16:58:21.076Z"
   },
   "PTA": {
     "name": "Pathanamthitta",
@@ -39,7 +39,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-15T16:40:39.438Z"
+    "lastChecked": "2026-08-15T16:58:21.230Z"
   },
   "ALP": {
     "name": "Alappuzha",
@@ -53,21 +53,21 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-15T16:40:39.550Z"
+    "lastChecked": "2026-08-15T16:58:21.383Z"
   },
   "KTM": {
     "name": "Kottayam",
     "handle": "@CollectorKottayam",
-    "isHoliday": true,
-    "announcementText": "സ്കൂള്‍ വിദ്യാര്‍ഥികളുടെ ലഹരി ഉപയോഗത്തിനെതിരെ മാതാപിതാക്കളും അധ്യാപകരും ഒരേപോലെ ജാഗ്രത പുലര്‍ത്തേണ്ടതുണ്ട്. വഴിതെറ്റി ലഹരിയുടെ വലയില്‍ വീഴുന്ന കുട്ടികളെ രക്ഷപ്പെടുത്തേണ്ട ഉത്തരവാദിത്വം നമുക്ക് ഓരോരുത്തര്‍ക്കുമുണ്ട്.",
-    "originalPostUrl": "https://www.facebook.com/1600174033528166_1390180006637503",
-    "announcedAt": "Thu, 13 Aug 2026 16:42:39 +0000",
-    "holidayDate": "14/08/2026",
+    "isHoliday": false,
+    "announcementText": "Normal working day",
+    "originalPostUrl": "",
+    "announcedAt": "",
+    "holidayDate": "",
     "hasConfiguredFeed": true,
-    "sourceBadge": "District Collector Official (FB)",
+    "sourceBadge": "",
     "metStatus": "",
-    "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-08-15T16:40:39.662Z"
+    "holidayScope": "",
+    "lastChecked": "2026-08-15T16:58:21.537Z"
   },
   "IDK": {
     "name": "Idukki",
@@ -81,7 +81,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-15T16:40:39.776Z"
+    "lastChecked": "2026-08-15T16:58:21.693Z"
   },
   "EKM": {
     "name": "Ernakulam",
@@ -95,7 +95,7 @@
     "sourceBadge": "District Collector Official (FB)",
     "metStatus": "",
     "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-08-15T16:40:39.889Z"
+    "lastChecked": "2026-08-15T16:58:21.848Z"
   },
   "PKD": {
     "name": "Palakkad",
@@ -109,7 +109,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-15T16:40:40.113Z"
+    "lastChecked": "2026-08-15T16:58:22.157Z"
   },
   "KKD": {
     "name": "Kozhikode",
@@ -123,7 +123,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-15T16:40:40.336Z"
+    "lastChecked": "2026-08-15T16:58:22.464Z"
   },
   "WYD": {
     "name": "Wayanad",
@@ -137,7 +137,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-15T16:40:40.448Z"
+    "lastChecked": "2026-08-15T16:58:22.617Z"
   },
   "KNR": {
     "name": "Kannur",
@@ -151,7 +151,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-15T16:40:40.561Z"
+    "lastChecked": "2026-08-15T16:58:22.772Z"
   },
   "TSR": {
     "name": "Thrissur",
@@ -165,7 +165,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-15T16:40:40.001Z"
+    "lastChecked": "2026-08-15T16:58:22.002Z"
   },
   "MPM": {
     "name": "Malappuram",
@@ -179,7 +179,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-15T16:40:40.225Z"
+    "lastChecked": "2026-08-15T16:58:22.311Z"
   },
   "KSG": {
     "name": "Kasaragod",
@@ -193,6 +193,6 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-15T16:40:40.673Z"
+    "lastChecked": "2026-08-15T16:58:22.926Z"
   }
 }
