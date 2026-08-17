@@ -11,7 +11,7 @@
     "sourceBadge": "District Collector Official (FB)",
     "metStatus": "",
     "holidayScope": "Including Professional Colleges",
-    "lastChecked": "2026-08-17T19:05:27.570Z"
+    "lastChecked": "2026-08-17T19:38:28.025Z"
   },
   "KLM": {
     "name": "Kollam",
@@ -25,7 +25,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-17T19:05:27.667Z"
+    "lastChecked": "2026-08-17T19:38:28.138Z"
   },
   "PTA": {
     "name": "Pathanamthitta",
@@ -39,7 +39,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-17T19:05:27.762Z"
+    "lastChecked": "2026-08-17T19:38:28.250Z"
   },
   "ALP": {
     "name": "Alappuzha",
@@ -53,7 +53,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-17T19:05:27.859Z"
+    "lastChecked": "2026-08-17T19:38:28.362Z"
   },
   "KTM": {
     "name": "Kottayam",
@@ -67,7 +67,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-17T19:05:27.954Z"
+    "lastChecked": "2026-08-17T19:38:28.474Z"
   },
   "IDK": {
     "name": "Idukki",
@@ -81,21 +81,21 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-17T19:05:28.050Z"
+    "lastChecked": "2026-08-17T19:38:28.586Z"
   },
   "EKM": {
     "name": "Ernakulam",
     "handle": "@ernakulamdc",
-    "isHoliday": false,
-    "announcementText": "Normal working day",
-    "originalPostUrl": "",
-    "announcedAt": "",
-    "holidayDate": "",
+    "isHoliday": true,
+    "announcementText": "കളമശ്ശേരിയിൽ സംഘടിപ്പിച്ച സംസ്ഥാനതല കർഷക ദിനാഘോഷ പരിപാടിയുടെ ഉദ്ഘാടനം ബഹു. മുഖ്യമന്ത്രി ശ്രീ. വി.ഡി. സതീശൻ നിർവ്വഹിച്ചു. ചടങ്ങിൽ ബഹു. കൃഷി വകുപ്പ് മന്ത്രി അഡ്വ. ശ്രീ. ടി. സിദ്ദിഖ് അധ്യക്ഷത വഹിച്ചു.",
+    "originalPostUrl": "https://www.facebook.com/233008147097016_1801943771409032",
+    "announcedAt": "Mon, 17 Aug 2026 14:39:59 +0000",
+    "holidayDate": "18/08/2026",
     "hasConfiguredFeed": true,
-    "sourceBadge": "",
+    "sourceBadge": "District Collector Official (FB)",
     "metStatus": "",
-    "holidayScope": "",
-    "lastChecked": "2026-08-17T19:05:28.146Z"
+    "holidayScope": "Full District Holiday",
+    "lastChecked": "2026-08-17T19:38:29.491Z"
   },
   "PKD": {
     "name": "Palakkad",
@@ -109,7 +109,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-17T19:05:28.334Z"
+    "lastChecked": "2026-08-17T19:38:30.589Z"
   },
   "KKD": {
     "name": "Kozhikode",
@@ -123,7 +123,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-17T19:05:28.523Z"
+    "lastChecked": "2026-08-17T19:38:30.810Z"
   },
   "WYD": {
     "name": "Wayanad",
@@ -137,21 +137,21 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-17T19:05:28.617Z"
+    "lastChecked": "2026-08-17T19:38:30.920Z"
   },
   "KNR": {
     "name": "Kannur",
     "handle": "@collector.kannur",
-    "isHoliday": false,
-    "announcementText": "Normal working day",
-    "originalPostUrl": "",
-    "announcedAt": "",
-    "holidayDate": "",
+    "isHoliday": true,
+    "announcementText": "പട്ടണങ്ങള്‍ പുതുമോടിയിലേക്ക്; ജില്ലയില്‍ ബീക്കണ്‍ ടൗണ്‍ പദ്ധതിക്ക് തുടക്കമായി.",
+    "originalPostUrl": "https://www.facebook.com/745473162216207_1489872939848884",
+    "announcedAt": "Mon, 17 Aug 2026 16:23:13 +0000",
+    "holidayDate": "18/08/2026",
     "hasConfiguredFeed": true,
-    "sourceBadge": "",
+    "sourceBadge": "District Collector Official (FB)",
     "metStatus": "",
-    "holidayScope": "",
-    "lastChecked": "2026-08-17T19:05:28.711Z"
+    "holidayScope": "Full District Holiday",
+    "lastChecked": "2026-08-17T19:38:32.002Z"
   },
   "TSR": {
     "name": "Thrissur",
@@ -165,7 +165,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-17T19:05:28.240Z"
+    "lastChecked": "2026-08-17T19:38:30.479Z"
   },
   "MPM": {
     "name": "Malappuram",
@@ -179,7 +179,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-17T19:05:28.429Z"
+    "lastChecked": "2026-08-17T19:38:30.700Z"
   },
   "KSG": {
     "name": "Kasaragod",
@@ -193,6 +193,6 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-17T19:05:28.805Z"
+    "lastChecked": "2026-08-17T19:38:32.112Z"
   }
 }
