@@ -11,7 +11,7 @@
     "sourceBadge": "District Collector Official (FB)",
     "metStatus": "",
     "holidayScope": "Including Professional Colleges",
-    "lastChecked": "2026-08-17T13:13:28.580Z"
+    "lastChecked": "2026-08-17T13:52:51.030Z"
   },
   "KLM": {
     "name": "Kollam",
@@ -25,7 +25,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-17T13:13:28.712Z"
+    "lastChecked": "2026-08-17T13:52:51.125Z"
   },
   "PTA": {
     "name": "Pathanamthitta",
@@ -39,7 +39,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-17T13:13:28.844Z"
+    "lastChecked": "2026-08-17T13:52:51.219Z"
   },
   "ALP": {
     "name": "Alappuzha",
@@ -53,7 +53,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-17T13:13:28.976Z"
+    "lastChecked": "2026-08-17T13:52:51.313Z"
   },
   "KTM": {
     "name": "Kottayam",
@@ -67,7 +67,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-17T13:13:29.108Z"
+    "lastChecked": "2026-08-17T13:52:51.407Z"
   },
   "IDK": {
     "name": "Idukki",
@@ -81,7 +81,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-17T13:13:29.240Z"
+    "lastChecked": "2026-08-17T13:52:51.501Z"
   },
   "EKM": {
     "name": "Ernakulam",
@@ -95,7 +95,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-17T13:13:29.372Z"
+    "lastChecked": "2026-08-17T13:52:51.595Z"
   },
   "PKD": {
     "name": "Palakkad",
@@ -109,7 +109,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-17T13:13:29.632Z"
+    "lastChecked": "2026-08-17T13:52:51.779Z"
   },
   "KKD": {
     "name": "Kozhikode",
@@ -123,7 +123,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-17T13:13:29.893Z"
+    "lastChecked": "2026-08-17T13:52:51.963Z"
   },
   "WYD": {
     "name": "Wayanad",
@@ -137,7 +137,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-17T13:13:30.023Z"
+    "lastChecked": "2026-08-17T13:52:52.055Z"
   },
   "KNR": {
     "name": "Kannur",
@@ -151,7 +151,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-17T13:13:30.154Z"
+    "lastChecked": "2026-08-17T13:52:52.147Z"
   },
   "TSR": {
     "name": "Thrissur",
@@ -165,7 +165,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-17T13:13:29.502Z"
+    "lastChecked": "2026-08-17T13:52:51.687Z"
   },
   "MPM": {
     "name": "Malappuram",
@@ -179,20 +179,20 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-17T13:13:29.763Z"
+    "lastChecked": "2026-08-17T13:52:51.871Z"
   },
   "KSG": {
     "name": "Kasaragod",
     "handle": "@CollectorKasaragod",
-    "isHoliday": true,
-    "announcementText": "വിദ്യാനഗര്‍ മുന്‍സിപ്പല്‍ സ്റ്റേഡിയത്തില്‍ തദ്ദേശസ്വയംഭരണ വകുപ്പ് മന്ത്രി കെ.എം ഷാജി പതാക ഉയര്‍ത്തി",
-    "originalPostUrl": "https://www.facebook.com/362232614156637_1614671956687752",
-    "announcedAt": "Sat, 15 Aug 2026 13:41:28 +0000",
-    "holidayDate": "16/08/2026",
+    "isHoliday": false,
+    "announcementText": "Normal working day",
+    "originalPostUrl": "",
+    "announcedAt": "",
+    "holidayDate": "",
     "hasConfiguredFeed": true,
-    "sourceBadge": "District Collector Official (FB)",
+    "sourceBadge": "",
     "metStatus": "",
-    "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-08-17T13:13:30.285Z"
+    "holidayScope": "",
+    "lastChecked": "2026-08-17T13:52:52.240Z"
   }
 }
