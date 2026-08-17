@@ -11,7 +11,7 @@
     "sourceBadge": "District Collector Official (FB)",
     "metStatus": "",
     "holidayScope": "Including Professional Colleges",
-    "lastChecked": "2026-08-17T09:55:15.422Z"
+    "lastChecked": "2026-08-17T10:21:37.024Z"
   },
   "KLM": {
     "name": "Kollam",
@@ -25,7 +25,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-17T09:55:15.580Z"
+    "lastChecked": "2026-08-17T10:21:37.180Z"
   },
   "PTA": {
     "name": "Pathanamthitta",
@@ -39,7 +39,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-17T09:55:15.738Z"
+    "lastChecked": "2026-08-17T10:21:37.335Z"
   },
   "ALP": {
     "name": "Alappuzha",
@@ -53,7 +53,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-17T09:55:15.895Z"
+    "lastChecked": "2026-08-17T10:21:37.491Z"
   },
   "KTM": {
     "name": "Kottayam",
@@ -67,7 +67,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-17T09:55:16.052Z"
+    "lastChecked": "2026-08-17T10:21:37.646Z"
   },
   "IDK": {
     "name": "Idukki",
@@ -81,21 +81,21 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-17T09:55:16.209Z"
+    "lastChecked": "2026-08-17T10:21:37.801Z"
   },
   "EKM": {
     "name": "Ernakulam",
     "handle": "@ernakulamdc",
-    "isHoliday": true,
-    "announcementText": "എറണാകുളം ജില്ലാ ആസ്ഥാനമായ കാക്കനാട് സിവിൽ സ്റ്റേഷനിൽ സ്വാതന്ത്ര്യ ദിനാഘോഷത്തിൻ്റെ ഭാഗമായി മഹാത്മ ഗാന്ധിയുടെ പ്രതിമയിൽ ബഹു ഉന്നത വിദ്യാഭ്യാസ വകുപ്പ് മന്ത്രി ശ്രീ റോജി എം ജോണും വിശിഷ്ടാതിഥികളും പുഷ്പാർച്ചന നടത്തുന്നു.",
-    "originalPostUrl": "https://www.facebook.com/233008147097016_1799813631622046",
-    "announcedAt": "Sat, 15 Aug 2026 10:18:33 +0000",
-    "holidayDate": "16/08/2026",
+    "isHoliday": false,
+    "announcementText": "Normal working day",
+    "originalPostUrl": "",
+    "announcedAt": "",
+    "holidayDate": "",
     "hasConfiguredFeed": true,
-    "sourceBadge": "District Collector Official (FB)",
+    "sourceBadge": "",
     "metStatus": "",
-    "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-08-17T09:55:16.369Z"
+    "holidayScope": "",
+    "lastChecked": "2026-08-17T10:21:37.957Z"
   },
   "PKD": {
     "name": "Palakkad",
@@ -109,7 +109,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-17T09:55:16.680Z"
+    "lastChecked": "2026-08-17T10:21:38.264Z"
   },
   "KKD": {
     "name": "Kozhikode",
@@ -123,7 +123,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-17T09:55:16.991Z"
+    "lastChecked": "2026-08-17T10:21:38.572Z"
   },
   "WYD": {
     "name": "Wayanad",
@@ -137,7 +137,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-17T09:55:17.147Z"
+    "lastChecked": "2026-08-17T10:21:38.726Z"
   },
   "KNR": {
     "name": "Kannur",
@@ -151,7 +151,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-17T09:55:17.303Z"
+    "lastChecked": "2026-08-17T10:21:38.879Z"
   },
   "TSR": {
     "name": "Thrissur",
@@ -165,7 +165,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-17T09:55:16.525Z"
+    "lastChecked": "2026-08-17T10:21:38.111Z"
   },
   "MPM": {
     "name": "Malappuram",
@@ -179,7 +179,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-17T09:55:16.836Z"
+    "lastChecked": "2026-08-17T10:21:38.418Z"
   },
   "KSG": {
     "name": "Kasaragod",
@@ -193,6 +193,6 @@
     "sourceBadge": "District Collector Official (FB)",
     "metStatus": "",
     "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-08-17T09:55:17.459Z"
+    "lastChecked": "2026-08-17T10:21:39.034Z"
   }
 }
