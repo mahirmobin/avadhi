@@ -2,16 +2,16 @@
   "TVM": {
     "name": "Thiruvananthapuram",
     "handle": "@Dist_Admin_Tvm",
-    "isHoliday": true,
-    "announcementText": "ജില്ലാ ഭരണകൂടത്തിന്റെ അഭിമാന പദ്ധതിയിൽ നിന്നും ഒരു വിദ്യാർത്ഥി കൂടി ഉന്നത വിദ്യാഭ്യാസത്തിലേക്ക്",
-    "originalPostUrl": "https://www.facebook.com/1491635491151987_1593154335513590",
-    "announcedAt": "Sun, 16 Aug 2026 11:10:54 +0000",
-    "holidayDate": "17/08/2026",
+    "isHoliday": false,
+    "announcementText": "Normal working day",
+    "originalPostUrl": "",
+    "announcedAt": "",
+    "holidayDate": "",
     "hasConfiguredFeed": true,
-    "sourceBadge": "District Collector Official (FB)",
+    "sourceBadge": "",
     "metStatus": "",
-    "holidayScope": "Including Professional Colleges",
-    "lastChecked": "2026-08-18T10:52:52.214Z"
+    "holidayScope": "",
+    "lastChecked": "2026-08-18T11:15:28.287Z"
   },
   "KLM": {
     "name": "Kollam",
@@ -25,7 +25,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-18T10:52:52.334Z"
+    "lastChecked": "2026-08-18T11:15:28.412Z"
   },
   "PTA": {
     "name": "Pathanamthitta",
@@ -39,7 +39,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-18T10:52:52.454Z"
+    "lastChecked": "2026-08-18T11:15:28.536Z"
   },
   "ALP": {
     "name": "Alappuzha",
@@ -53,7 +53,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-18T10:52:52.573Z"
+    "lastChecked": "2026-08-18T11:15:28.661Z"
   },
   "KTM": {
     "name": "Kottayam",
@@ -67,7 +67,7 @@
     "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Yellow Alert",
     "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-08-18T10:52:52.693Z"
+    "lastChecked": "2026-08-18T11:15:28.784Z"
   },
   "IDK": {
     "name": "Idukki",
@@ -81,7 +81,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-18T10:52:52.813Z"
+    "lastChecked": "2026-08-18T11:15:28.909Z"
   },
   "EKM": {
     "name": "Ernakulam",
@@ -95,7 +95,7 @@
     "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Yellow Alert",
     "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-08-18T10:52:52.933Z"
+    "lastChecked": "2026-08-18T11:15:29.033Z"
   },
   "PKD": {
     "name": "Palakkad",
@@ -109,7 +109,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-18T10:52:53.170Z"
+    "lastChecked": "2026-08-18T11:15:29.279Z"
   },
   "KKD": {
     "name": "Kozhikode",
@@ -123,7 +123,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-18T10:52:53.407Z"
+    "lastChecked": "2026-08-18T11:15:29.524Z"
   },
   "WYD": {
     "name": "Wayanad",
@@ -137,7 +137,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-18T10:52:53.525Z"
+    "lastChecked": "2026-08-18T11:15:29.646Z"
   },
   "KNR": {
     "name": "Kannur",
@@ -151,7 +151,7 @@
     "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Yellow Alert",
     "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-08-18T10:52:53.644Z"
+    "lastChecked": "2026-08-18T11:15:29.769Z"
   },
   "TSR": {
     "name": "Thrissur",
@@ -165,7 +165,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-18T10:52:53.052Z"
+    "lastChecked": "2026-08-18T11:15:29.156Z"
   },
   "MPM": {
     "name": "Malappuram",
@@ -179,7 +179,7 @@
     "sourceBadge": "District Collector Official (FB)",
     "metStatus": "",
     "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-08-18T10:52:53.289Z"
+    "lastChecked": "2026-08-18T11:15:29.401Z"
   },
   "KSG": {
     "name": "Kasaragod",
@@ -193,6 +193,6 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-08-18T10:52:53.763Z"
+    "lastChecked": "2026-08-18T11:15:29.892Z"
   }
 }
