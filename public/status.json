@@ -11,7 +11,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-19T14:03:32.005Z"
+    "lastChecked": "2026-08-19T14:50:26.564Z"
   },
   "KLM": {
     "name": "Kollam",
@@ -25,7 +25,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-19T14:03:32.106Z"
+    "lastChecked": "2026-08-19T14:50:26.693Z"
   },
   "PTA": {
     "name": "Pathanamthitta",
@@ -39,7 +39,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-19T14:03:32.206Z"
+    "lastChecked": "2026-08-19T14:50:26.822Z"
   },
   "ALP": {
     "name": "Alappuzha",
@@ -53,7 +53,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-19T14:03:32.306Z"
+    "lastChecked": "2026-08-19T14:50:26.951Z"
   },
   "KTM": {
     "name": "Kottayam",
@@ -67,7 +67,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-08-19T14:03:32.406Z"
+    "lastChecked": "2026-08-19T14:50:27.079Z"
   },
   "IDK": {
     "name": "Idukki",
@@ -81,21 +81,21 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-08-19T14:03:32.507Z"
+    "lastChecked": "2026-08-19T14:50:27.208Z"
   },
   "EKM": {
     "name": "Ernakulam",
     "handle": "@ernakulamdc",
-    "isHoliday": true,
-    "announcementText": "കളമശ്ശേരിയിൽ സംഘടിപ്പിച്ച സംസ്ഥാനതല കർഷക ദിനാഘോഷ പരിപാടിയുടെ ഉദ്ഘാടനം ബഹു. മുഖ്യമന്ത്രി ശ്രീ. വി.ഡി. സതീശൻ നിർവ്വഹിച്ചു. ചടങ്ങിൽ ബഹു. കൃഷി വകുപ്പ് മന്ത്രി അഡ്വ. ശ്രീ. ടി. സിദ്ദിഖ് അധ്യക്ഷത വഹിച്ചു.",
-    "originalPostUrl": "https://www.facebook.com/233008147097016_1801943771409032",
-    "announcedAt": "Mon, 17 Aug 2026 14:39:59 +0000",
-    "holidayDate": "18/08/2026",
+    "isHoliday": false,
+    "announcementText": "Normal working day",
+    "originalPostUrl": "",
+    "announcedAt": "",
+    "holidayDate": "",
     "hasConfiguredFeed": true,
-    "sourceBadge": "District Collector Official (FB)",
+    "sourceBadge": "",
     "metStatus": "Yellow Alert",
-    "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-08-19T14:03:32.605Z"
+    "holidayScope": "",
+    "lastChecked": "2026-08-19T14:50:27.336Z"
   },
   "PKD": {
     "name": "Palakkad",
@@ -109,7 +109,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-19T14:03:32.803Z"
+    "lastChecked": "2026-08-19T14:50:27.591Z"
   },
   "KKD": {
     "name": "Kozhikode",
@@ -123,7 +123,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-19T14:03:33.000Z"
+    "lastChecked": "2026-08-19T14:50:27.846Z"
   },
   "WYD": {
     "name": "Wayanad",
@@ -137,7 +137,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-19T14:03:33.098Z"
+    "lastChecked": "2026-08-19T14:50:27.973Z"
   },
   "KNR": {
     "name": "Kannur",
@@ -151,7 +151,7 @@
     "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Yellow Alert",
     "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-08-19T14:03:33.197Z"
+    "lastChecked": "2026-08-19T14:50:28.100Z"
   },
   "TSR": {
     "name": "Thrissur",
@@ -165,7 +165,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-19T14:03:32.704Z"
+    "lastChecked": "2026-08-19T14:50:27.463Z"
   },
   "MPM": {
     "name": "Malappuram",
@@ -179,7 +179,7 @@
     "sourceBadge": "District Collector Official (FB)",
     "metStatus": "",
     "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-08-19T14:03:32.901Z"
+    "lastChecked": "2026-08-19T14:50:27.718Z"
   },
   "KSG": {
     "name": "Kasaragod",
@@ -193,6 +193,6 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-08-19T14:03:33.297Z"
+    "lastChecked": "2026-08-19T14:50:28.229Z"
   }
 }
