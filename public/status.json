@@ -11,7 +11,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-20T20:02:23.565Z"
+    "lastChecked": "2026-08-20T20:44:00.676Z"
   },
   "KLM": {
     "name": "Kollam",
@@ -25,7 +25,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-20T20:02:23.683Z"
+    "lastChecked": "2026-08-20T20:44:00.824Z"
   },
   "PTA": {
     "name": "Pathanamthitta",
@@ -39,7 +39,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-20T20:02:23.800Z"
+    "lastChecked": "2026-08-20T20:44:00.972Z"
   },
   "ALP": {
     "name": "Alappuzha",
@@ -53,7 +53,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-20T20:02:23.918Z"
+    "lastChecked": "2026-08-20T20:44:01.120Z"
   },
   "KTM": {
     "name": "Kottayam",
@@ -67,7 +67,7 @@
     "sourceBadge": "District Collector Official (FB)",
     "metStatus": "",
     "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-08-20T20:02:24.035Z"
+    "lastChecked": "2026-08-20T20:44:01.267Z"
   },
   "IDK": {
     "name": "Idukki",
@@ -81,21 +81,21 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-20T20:02:24.153Z"
+    "lastChecked": "2026-08-20T20:44:01.414Z"
   },
   "EKM": {
     "name": "Ernakulam",
     "handle": "@ernakulamdc",
-    "isHoliday": true,
-    "announcementText": "എറണാകുളത്തെ യുവജനങ്ങളുടെ സർഗ്ഗാത്മക ശേഷിയും ഊർജ്ജവും നാടിന്റെ വികസനത്തിനായി പ്രയോജനപ്പെടുത്തുക എന്ന ലക്ഷ്യത്തോടെ 'മൈ ഭാരത്' ജില്ലാ ഉപദേശക സമിതി യോഗം ചേർന്നു.",
-    "originalPostUrl": "https://www.facebook.com/233008147097016_1804035514533191",
-    "announcedAt": "Wed, 19 Aug 2026 17:21:22 +0000",
-    "holidayDate": "20/08/2026",
+    "isHoliday": false,
+    "announcementText": "Normal working day",
+    "originalPostUrl": "",
+    "announcedAt": "",
+    "holidayDate": "",
     "hasConfiguredFeed": true,
-    "sourceBadge": "District Collector Official (FB)",
+    "sourceBadge": "",
     "metStatus": "",
-    "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-08-20T20:02:24.269Z"
+    "holidayScope": "",
+    "lastChecked": "2026-08-20T20:44:02.638Z"
   },
   "PKD": {
     "name": "Palakkad",
@@ -109,7 +109,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-20T20:02:24.500Z"
+    "lastChecked": "2026-08-20T20:44:03.896Z"
   },
   "KKD": {
     "name": "Kozhikode",
@@ -123,7 +123,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-20T20:02:24.732Z"
+    "lastChecked": "2026-08-20T20:44:04.189Z"
   },
   "WYD": {
     "name": "Wayanad",
@@ -137,7 +137,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-20T20:02:24.847Z"
+    "lastChecked": "2026-08-20T20:44:04.334Z"
   },
   "KNR": {
     "name": "Kannur",
@@ -151,7 +151,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-20T20:02:24.963Z"
+    "lastChecked": "2026-08-20T20:44:05.434Z"
   },
   "TSR": {
     "name": "Thrissur",
@@ -165,7 +165,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-20T20:02:24.385Z"
+    "lastChecked": "2026-08-20T20:44:03.750Z"
   },
   "MPM": {
     "name": "Malappuram",
@@ -179,7 +179,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-20T20:02:24.616Z"
+    "lastChecked": "2026-08-20T20:44:04.042Z"
   },
   "KSG": {
     "name": "Kasaragod",
@@ -193,6 +193,6 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-20T20:02:25.080Z"
+    "lastChecked": "2026-08-20T20:44:05.723Z"
   }
 }
