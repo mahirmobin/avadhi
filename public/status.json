@@ -11,7 +11,7 @@
     "sourceBadge": "District Collector Official (FB)",
     "metStatus": "",
     "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-08-22T22:39:55.995Z"
+    "lastChecked": "2026-08-22T22:57:04.190Z"
   },
   "KLM": {
     "name": "Kollam",
@@ -25,7 +25,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-22T22:39:56.144Z"
+    "lastChecked": "2026-08-22T22:57:04.293Z"
   },
   "PTA": {
     "name": "Pathanamthitta",
@@ -39,7 +39,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-22T22:39:56.292Z"
+    "lastChecked": "2026-08-22T22:57:04.395Z"
   },
   "ALP": {
     "name": "Alappuzha",
@@ -53,7 +53,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-22T22:39:56.441Z"
+    "lastChecked": "2026-08-22T22:57:04.499Z"
   },
   "KTM": {
     "name": "Kottayam",
@@ -67,7 +67,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-22T22:39:56.589Z"
+    "lastChecked": "2026-08-22T22:57:04.601Z"
   },
   "IDK": {
     "name": "Idukki",
@@ -81,7 +81,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-22T22:39:56.738Z"
+    "lastChecked": "2026-08-22T22:57:04.704Z"
   },
   "EKM": {
     "name": "Ernakulam",
@@ -95,7 +95,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-22T22:39:56.887Z"
+    "lastChecked": "2026-08-22T22:57:04.810Z"
   },
   "PKD": {
     "name": "Palakkad",
@@ -109,7 +109,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-22T22:39:57.180Z"
+    "lastChecked": "2026-08-22T22:57:05.012Z"
   },
   "KKD": {
     "name": "Kozhikode",
@@ -123,7 +123,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-22T22:39:57.473Z"
+    "lastChecked": "2026-08-22T22:57:05.214Z"
   },
   "WYD": {
     "name": "Wayanad",
@@ -137,7 +137,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-22T22:39:57.620Z"
+    "lastChecked": "2026-08-22T22:57:05.315Z"
   },
   "KNR": {
     "name": "Kannur",
@@ -151,7 +151,7 @@
     "sourceBadge": "District Collector Official (FB)",
     "metStatus": "",
     "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-08-22T22:39:57.767Z"
+    "lastChecked": "2026-08-22T22:57:05.417Z"
   },
   "TSR": {
     "name": "Thrissur",
@@ -165,7 +165,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-22T22:39:57.034Z"
+    "lastChecked": "2026-08-22T22:57:04.911Z"
   },
   "MPM": {
     "name": "Malappuram",
@@ -179,7 +179,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-22T22:39:57.327Z"
+    "lastChecked": "2026-08-22T22:57:05.113Z"
   },
   "KSG": {
     "name": "Kasaragod",
@@ -193,6 +193,6 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-22T22:39:57.914Z"
+    "lastChecked": "2026-08-22T22:57:05.518Z"
   }
 }
