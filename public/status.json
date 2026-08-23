@@ -11,7 +11,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-08-23T21:15:53.376Z"
+    "lastChecked": "2026-08-23T21:42:12.019Z"
   },
   "KLM": {
     "name": "Kollam",
@@ -25,7 +25,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-08-23T21:15:53.507Z"
+    "lastChecked": "2026-08-23T21:42:12.111Z"
   },
   "PTA": {
     "name": "Pathanamthitta",
@@ -39,7 +39,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-08-23T21:15:53.638Z"
+    "lastChecked": "2026-08-23T21:42:12.203Z"
   },
   "ALP": {
     "name": "Alappuzha",
@@ -53,7 +53,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-08-23T21:15:53.769Z"
+    "lastChecked": "2026-08-23T21:42:12.295Z"
   },
   "KTM": {
     "name": "Kottayam",
@@ -67,7 +67,7 @@
     "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Yellow Alert",
     "holidayScope": "Including Professional Colleges",
-    "lastChecked": "2026-08-23T21:15:53.901Z"
+    "lastChecked": "2026-08-23T21:42:12.387Z"
   },
   "IDK": {
     "name": "Idukki",
@@ -81,21 +81,21 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-08-23T21:15:54.031Z"
+    "lastChecked": "2026-08-23T21:42:12.479Z"
   },
   "EKM": {
     "name": "Ernakulam",
     "handle": "@ernakulamdc",
-    "isHoliday": false,
-    "announcementText": "Normal working day",
-    "originalPostUrl": "",
-    "announcedAt": "",
-    "holidayDate": "",
+    "isHoliday": true,
+    "announcementText": "ജില്ലയിലെ റോഡുകളുമായി ബന്ധപ്പെട്ട പ്രശ്‌നങ്ങൾക്ക് പരിഹാരം കാണമെന്ന് ജില്ലാ വികസന സമിതി യോഗം. റേഡുകളിൽ കുഴികൾ രൂപപ്പെടുന്നത്, തെരുവു വിളക്കുകൾ, ബാരിക്കേഡുകൾ, റിഫ്ലക്ടറുകൾ എന്നിവയുടെ അഭാവം, ഗതാഗത നിയന്ത്രണത്തിലുള്ള പ്രശ്‌നങ്ങൾ തുടങ്ങിയവയ്ക്ക് പരിഹാരം കാണുന്നതിന് ദ്രുത പ്രതികരണ സംഘം രൂപീകരിക്കാൻ യോഗത്തിൽ നിർദ്ദേശം നൽകി.",
+    "originalPostUrl": "https://www.facebook.com/233008147097016_1807293490874060",
+    "announcedAt": "Sun, 23 Aug 2026 05:26:38 +0000",
+    "holidayDate": "23/08/2026",
     "hasConfiguredFeed": true,
-    "sourceBadge": "",
+    "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Yellow Alert",
-    "holidayScope": "",
-    "lastChecked": "2026-08-23T21:15:54.162Z"
+    "holidayScope": "Full District Holiday",
+    "lastChecked": "2026-08-23T21:42:14.102Z"
   },
   "PKD": {
     "name": "Palakkad",
@@ -109,7 +109,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-08-23T21:15:54.421Z"
+    "lastChecked": "2026-08-23T21:42:16.375Z"
   },
   "KKD": {
     "name": "Kozhikode",
@@ -123,7 +123,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-08-23T21:15:54.680Z"
+    "lastChecked": "2026-08-23T21:42:16.556Z"
   },
   "WYD": {
     "name": "Wayanad",
@@ -137,7 +137,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-08-23T21:15:54.810Z"
+    "lastChecked": "2026-08-23T21:42:16.646Z"
   },
   "KNR": {
     "name": "Kannur",
@@ -151,7 +151,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-08-23T21:15:54.939Z"
+    "lastChecked": "2026-08-23T21:42:17.859Z"
   },
   "TSR": {
     "name": "Thrissur",
@@ -165,7 +165,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-08-23T21:15:54.292Z"
+    "lastChecked": "2026-08-23T21:42:16.285Z"
   },
   "MPM": {
     "name": "Malappuram",
@@ -179,7 +179,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-08-23T21:15:54.551Z"
+    "lastChecked": "2026-08-23T21:42:16.466Z"
   },
   "KSG": {
     "name": "Kasaragod",
@@ -193,6 +193,6 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-08-23T21:15:55.069Z"
+    "lastChecked": "2026-08-23T21:42:18.039Z"
   }
 }
