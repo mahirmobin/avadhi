@@ -11,7 +11,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-25T05:18:25.404Z"
+    "lastChecked": "2026-08-25T05:56:43.804Z"
   },
   "KLM": {
     "name": "Kollam",
@@ -25,7 +25,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-25T05:18:25.564Z"
+    "lastChecked": "2026-08-25T05:56:43.900Z"
   },
   "PTA": {
     "name": "Pathanamthitta",
@@ -39,7 +39,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-25T05:18:25.723Z"
+    "lastChecked": "2026-08-25T05:56:43.995Z"
   },
   "ALP": {
     "name": "Alappuzha",
@@ -53,7 +53,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-25T05:18:25.882Z"
+    "lastChecked": "2026-08-25T05:56:44.089Z"
   },
   "KTM": {
     "name": "Kottayam",
@@ -67,7 +67,7 @@
     "sourceBadge": "District Collector Official (FB)",
     "metStatus": "",
     "holidayScope": "Including Professional Colleges",
-    "lastChecked": "2026-08-25T05:18:26.039Z"
+    "lastChecked": "2026-08-25T05:56:44.183Z"
   },
   "IDK": {
     "name": "Idukki",
@@ -81,21 +81,21 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-25T05:18:26.199Z"
+    "lastChecked": "2026-08-25T05:56:44.278Z"
   },
   "EKM": {
     "name": "Ernakulam",
     "handle": "@ernakulamdc",
-    "isHoliday": true,
-    "announcementText": "ജില്ലയിലെ റോഡുകളുമായി ബന്ധപ്പെട്ട പ്രശ്‌നങ്ങൾക്ക് പരിഹാരം കാണമെന്ന് ജില്ലാ വികസന സമിതി യോഗം. റേഡുകളിൽ കുഴികൾ രൂപപ്പെടുന്നത്, തെരുവു വിളക്കുകൾ, ബാരിക്കേഡുകൾ, റിഫ്ലക്ടറുകൾ എന്നിവയുടെ അഭാവം, ഗതാഗത നിയന്ത്രണത്തിലുള്ള പ്രശ്‌നങ്ങൾ തുടങ്ങിയവയ്ക്ക് പരിഹാരം കാണുന്നതിന് ദ്രുത പ്രതികരണ സംഘം രൂപീകരിക്കാൻ യോഗത്തിൽ നിർദ്ദേശം നൽകി.",
-    "originalPostUrl": "https://www.facebook.com/233008147097016_1807293490874060",
-    "announcedAt": "Sun, 23 Aug 2026 05:26:38 +0000",
-    "holidayDate": "23/08/2026",
+    "isHoliday": false,
+    "announcementText": "Normal working day",
+    "originalPostUrl": "",
+    "announcedAt": "",
+    "holidayDate": "",
     "hasConfiguredFeed": true,
-    "sourceBadge": "District Collector Official (FB)",
+    "sourceBadge": "",
     "metStatus": "",
-    "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-08-25T05:18:26.360Z"
+    "holidayScope": "",
+    "lastChecked": "2026-08-25T05:56:44.373Z"
   },
   "PKD": {
     "name": "Palakkad",
@@ -109,7 +109,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-25T05:18:26.676Z"
+    "lastChecked": "2026-08-25T05:56:44.560Z"
   },
   "KKD": {
     "name": "Kozhikode",
@@ -123,7 +123,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-25T05:18:26.992Z"
+    "lastChecked": "2026-08-25T05:56:44.748Z"
   },
   "WYD": {
     "name": "Wayanad",
@@ -137,7 +137,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-25T05:18:27.149Z"
+    "lastChecked": "2026-08-25T05:56:44.841Z"
   },
   "KNR": {
     "name": "Kannur",
@@ -151,7 +151,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-25T05:18:27.306Z"
+    "lastChecked": "2026-08-25T05:56:44.934Z"
   },
   "TSR": {
     "name": "Thrissur",
@@ -165,7 +165,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-25T05:18:26.518Z"
+    "lastChecked": "2026-08-25T05:56:44.467Z"
   },
   "MPM": {
     "name": "Malappuram",
@@ -179,7 +179,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-25T05:18:26.834Z"
+    "lastChecked": "2026-08-25T05:56:44.654Z"
   },
   "KSG": {
     "name": "Kasaragod",
@@ -193,6 +193,6 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-25T05:18:27.464Z"
+    "lastChecked": "2026-08-25T05:56:45.028Z"
   }
 }
