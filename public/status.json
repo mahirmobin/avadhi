@@ -11,7 +11,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-27T05:37:13.873Z"
+    "lastChecked": "2026-08-27T16:48:01.380Z"
   },
   "KLM": {
     "name": "Kollam",
@@ -25,7 +25,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-27T05:37:13.992Z"
+    "lastChecked": "2026-08-27T16:48:01.479Z"
   },
   "PTA": {
     "name": "Pathanamthitta",
@@ -39,7 +39,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-27T05:37:14.111Z"
+    "lastChecked": "2026-08-27T16:48:01.577Z"
   },
   "ALP": {
     "name": "Alappuzha",
@@ -53,7 +53,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-27T05:37:14.227Z"
+    "lastChecked": "2026-08-27T16:48:01.674Z"
   },
   "KTM": {
     "name": "Kottayam",
@@ -67,7 +67,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-27T05:37:14.344Z"
+    "lastChecked": "2026-08-27T16:48:02.904Z"
   },
   "IDK": {
     "name": "Idukki",
@@ -81,21 +81,21 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-27T05:37:14.462Z"
+    "lastChecked": "2026-08-27T16:48:03.004Z"
   },
   "EKM": {
     "name": "Ernakulam",
     "handle": "@ernakulamdc",
-    "isHoliday": true,
-    "announcementText": "ലാവണ്യം 2026 ദർബാർ ഹാൾ ഗ്രൗണ്ടിൽ ബഹു. ഉന്നത വിദ്യാഭ്യാസ വകുപ്പ് മന്ത്രി ശ്രീ.റോജി റോജി എം ജോൺ ഉദ്ഘാടനം ചെയ്യുന്നു. തുടർന്ന് വിവിധ കലാപരിപാടികൾ അരങ്ങേറി ....",
-    "originalPostUrl": "https://www.facebook.com/233008147097016_1809364977333578",
-    "announcedAt": "Tue, 25 Aug 2026 09:27:11 +0000",
-    "holidayDate": "26/08/2026",
+    "isHoliday": false,
+    "announcementText": "Normal working day",
+    "originalPostUrl": "",
+    "announcedAt": "",
+    "holidayDate": "",
     "hasConfiguredFeed": true,
-    "sourceBadge": "District Collector Official (FB)",
+    "sourceBadge": "",
     "metStatus": "",
-    "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-08-27T05:37:14.581Z"
+    "holidayScope": "",
+    "lastChecked": "2026-08-27T16:48:03.102Z"
   },
   "PKD": {
     "name": "Palakkad",
@@ -109,7 +109,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-27T05:37:14.815Z"
+    "lastChecked": "2026-08-27T16:48:04.215Z"
   },
   "KKD": {
     "name": "Kozhikode",
@@ -123,7 +123,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-27T05:37:15.050Z"
+    "lastChecked": "2026-08-27T16:48:05.860Z"
   },
   "WYD": {
     "name": "Wayanad",
@@ -137,7 +137,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-27T05:37:15.168Z"
+    "lastChecked": "2026-08-27T16:48:05.956Z"
   },
   "KNR": {
     "name": "Kannur",
@@ -151,7 +151,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-27T05:37:15.285Z"
+    "lastChecked": "2026-08-27T16:48:06.053Z"
   },
   "TSR": {
     "name": "Thrissur",
@@ -165,7 +165,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-27T05:37:14.698Z"
+    "lastChecked": "2026-08-27T16:48:03.199Z"
   },
   "MPM": {
     "name": "Malappuram",
@@ -179,7 +179,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-27T05:37:14.932Z"
+    "lastChecked": "2026-08-27T16:48:05.764Z"
   },
   "KSG": {
     "name": "Kasaragod",
@@ -193,6 +193,6 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-27T05:37:15.402Z"
+    "lastChecked": "2026-08-27T16:48:07.367Z"
   }
 }
