@@ -11,7 +11,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-27T16:48:01.380Z"
+    "lastChecked": "2026-08-28T01:13:00.493Z"
   },
   "KLM": {
     "name": "Kollam",
@@ -25,7 +25,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-27T16:48:01.479Z"
+    "lastChecked": "2026-08-28T01:13:01.936Z"
   },
   "PTA": {
     "name": "Pathanamthitta",
@@ -39,7 +39,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-27T16:48:01.577Z"
+    "lastChecked": "2026-08-28T01:13:02.950Z"
   },
   "ALP": {
     "name": "Alappuzha",
@@ -53,7 +53,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-27T16:48:01.674Z"
+    "lastChecked": "2026-08-28T01:13:04.120Z"
   },
   "KTM": {
     "name": "Kottayam",
@@ -67,7 +67,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-27T16:48:02.904Z"
+    "lastChecked": "2026-08-28T01:13:04.250Z"
   },
   "IDK": {
     "name": "Idukki",
@@ -81,7 +81,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-27T16:48:03.004Z"
+    "lastChecked": "2026-08-28T01:13:05.368Z"
   },
   "EKM": {
     "name": "Ernakulam",
@@ -95,7 +95,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-27T16:48:03.102Z"
+    "lastChecked": "2026-08-28T01:13:06.755Z"
   },
   "PKD": {
     "name": "Palakkad",
@@ -109,7 +109,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-27T16:48:04.215Z"
+    "lastChecked": "2026-08-28T01:13:08.211Z"
   },
   "KKD": {
     "name": "Kozhikode",
@@ -123,21 +123,21 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-27T16:48:05.860Z"
+    "lastChecked": "2026-08-28T01:13:09.531Z"
   },
   "WYD": {
     "name": "Wayanad",
     "handle": "@wayanadcollector",
-    "isHoliday": false,
-    "announcementText": "Normal working day",
-    "originalPostUrl": "",
-    "announcedAt": "",
-    "holidayDate": "",
+    "isHoliday": true,
+    "announcementText": "",
+    "originalPostUrl": "https://www.facebook.com/278429812621016_1370265021930899",
+    "announcedAt": "Thu, 27 Aug 2026 14:26:31 +0000",
+    "holidayDate": "28/08/2026",
     "hasConfiguredFeed": true,
-    "sourceBadge": "",
+    "sourceBadge": "District Collector Official (FB)",
     "metStatus": "",
-    "holidayScope": "",
-    "lastChecked": "2026-08-27T16:48:05.956Z"
+    "holidayScope": "Full District Holiday",
+    "lastChecked": "2026-08-28T01:13:11.119Z"
   },
   "KNR": {
     "name": "Kannur",
@@ -151,21 +151,21 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-27T16:48:06.053Z"
+    "lastChecked": "2026-08-28T01:13:12.653Z"
   },
   "TSR": {
     "name": "Thrissur",
     "handle": "@ThrissurCollector",
-    "isHoliday": false,
-    "announcementText": "Normal working day",
-    "originalPostUrl": "",
-    "announcedAt": "",
-    "holidayDate": "",
+    "isHoliday": true,
+    "announcementText": "പുലിക്കളി മഹോത്സവം: 29-08-2026 ഉച്ചയ്ക്ക് ശേഷം പ്രാദേശിക അവധി",
+    "originalPostUrl": "https://www.facebook.com/105782160780355_1391056579875496",
+    "announcedAt": "Thu, 27 Aug 2026 13:20:55 +0000",
+    "holidayDate": "28/08/2026",
     "hasConfiguredFeed": true,
-    "sourceBadge": "",
+    "sourceBadge": "District Collector Official (FB)",
     "metStatus": "",
-    "holidayScope": "",
-    "lastChecked": "2026-08-27T16:48:03.199Z"
+    "holidayScope": "Including Professional Colleges",
+    "lastChecked": "2026-08-28T01:13:08.080Z"
   },
   "MPM": {
     "name": "Malappuram",
@@ -179,7 +179,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-27T16:48:05.764Z"
+    "lastChecked": "2026-08-28T01:13:08.342Z"
   },
   "KSG": {
     "name": "Kasaragod",
@@ -193,6 +193,6 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-27T16:48:07.367Z"
+    "lastChecked": "2026-08-28T01:13:12.784Z"
   }
 }
