@@ -9,9 +9,9 @@
     "holidayDate": "",
     "hasConfiguredFeed": true,
     "sourceBadge": "",
-    "metStatus": "Yellow Alert",
+    "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-31T06:08:29.125Z"
+    "lastChecked": "2026-08-31T13:40:27.800Z"
   },
   "KLM": {
     "name": "Kollam",
@@ -23,9 +23,9 @@
     "holidayDate": "",
     "hasConfiguredFeed": true,
     "sourceBadge": "",
-    "metStatus": "Yellow Alert",
+    "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-31T06:08:29.260Z"
+    "lastChecked": "2026-08-31T13:40:28.749Z"
   },
   "PTA": {
     "name": "Pathanamthitta",
@@ -37,23 +37,23 @@
     "holidayDate": "",
     "hasConfiguredFeed": true,
     "sourceBadge": "",
-    "metStatus": "Yellow Alert",
+    "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-31T06:08:29.396Z"
+    "lastChecked": "2026-08-31T13:40:29.765Z"
   },
   "ALP": {
     "name": "Alappuzha",
     "handle": "@districtcollectoralappuzha",
-    "isHoliday": false,
-    "announcementText": "Normal working day",
-    "originalPostUrl": "",
-    "announcedAt": "",
-    "holidayDate": "",
+    "isHoliday": true,
+    "announcementText": "ഭാരതത്തിന്റെ ഉപരാഷ്ട്രപതിയെ സ്വീകരിച്ചു.",
+    "originalPostUrl": "https://www.facebook.com/186836925055143_1640829994067577",
+    "announcedAt": "Sun, 30 Aug 2026 09:07:46 +0000",
+    "holidayDate": "31/08/2026",
     "hasConfiguredFeed": true,
-    "sourceBadge": "",
-    "metStatus": "Yellow Alert",
-    "holidayScope": "",
-    "lastChecked": "2026-08-31T06:08:29.530Z"
+    "sourceBadge": "District Collector Official (FB)",
+    "metStatus": "",
+    "holidayScope": "Full District Holiday",
+    "lastChecked": "2026-08-31T13:40:31.038Z"
   },
   "KTM": {
     "name": "Kottayam",
@@ -65,9 +65,9 @@
     "holidayDate": "",
     "hasConfiguredFeed": true,
     "sourceBadge": "",
-    "metStatus": "Yellow Alert",
+    "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-31T06:08:29.664Z"
+    "lastChecked": "2026-08-31T13:40:31.131Z"
   },
   "IDK": {
     "name": "Idukki",
@@ -79,23 +79,23 @@
     "holidayDate": "",
     "hasConfiguredFeed": true,
     "sourceBadge": "",
-    "metStatus": "Yellow Alert",
+    "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-31T06:08:29.800Z"
+    "lastChecked": "2026-08-31T13:40:32.218Z"
   },
   "EKM": {
     "name": "Ernakulam",
     "handle": "@ernakulamdc",
     "isHoliday": true,
-    "announcementText": "രണ്ടു ദിവസത്തെ സന്ദർശനത്തിന് കേരളത്തിൽ എത്തിയ ബഹു.ഉപരാഷ്ട്രപതി ശ്രീ. സി.പി.രാധാകൃഷ്ണനെ ബഹു.ഗവർണ്ണർ ശ്രീ.രാജേന്ദ്ര ആർലേക്കർ സ്വീകരിക്കുന്നു. ബഹു.ഉന്നത വിദ്യാഭ്യാസ വകുപ്പ് മന്ത്രി ശ്രീ.റോജി എം. ജോൺ സമീപം",
-    "originalPostUrl": "https://www.facebook.com/233008147097016_1814307140172695",
-    "announcedAt": "Sun, 30 Aug 2026 06:23:55 +0000",
-    "holidayDate": "30/08/2026",
+    "announcementText": "രാജഗിരി സ്കൂൾ ഓഫ് എൻജിനീയറിങ് ആൻഡ് ടെക്നോളജി സിൽവർ ജൂബിലി ആഘോഷം ബഹു. ഉപരാഷ്ട്രപതി ശ്രീ.സി.പി. രാധാകൃഷ്ണൻ ഉദ്ഘാടനം ചെയ്യുന്നു. ബഹു.ഗവർണർ ശ്രീ. രാജേന്ദ്ര വിശ്വനാഥ് ആർലേകർ ,   ബഹു.മുഖ്യമന്ത്രി ശ്രീ.വി ഡി സതീശൻ , ബഹു.കേന്ദ്ര മന്ത്രി ശ്രീ.സുരേഷ് ഗോപി, ബഹു. ഉന്നത വിദ്യാഭ്യാസ വകുപ്പ് മന്ത്രി ശ്രീ.റോജി എം ജോൺ, തുടങ്ങിയവർ സമീപം .",
+    "originalPostUrl": "https://www.facebook.com/233008147097016_1815600560043353",
+    "announcedAt": "Mon, 31 Aug 2026 13:00:21 +0000",
+    "holidayDate": "01/09/2026",
     "hasConfiguredFeed": true,
     "sourceBadge": "District Collector Official (FB)",
-    "metStatus": "Yellow Alert",
+    "metStatus": "",
     "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-08-31T06:08:29.936Z"
+    "lastChecked": "2026-08-31T13:40:33.425Z"
   },
   "PKD": {
     "name": "Palakkad",
@@ -107,9 +107,9 @@
     "holidayDate": "",
     "hasConfiguredFeed": true,
     "sourceBadge": "",
-    "metStatus": "Yellow Alert",
+    "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-31T06:08:30.203Z"
+    "lastChecked": "2026-08-31T13:40:34.599Z"
   },
   "KKD": {
     "name": "Kozhikode",
@@ -121,9 +121,9 @@
     "holidayDate": "",
     "hasConfiguredFeed": true,
     "sourceBadge": "",
-    "metStatus": "Yellow Alert",
+    "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-31T06:08:30.471Z"
+    "lastChecked": "2026-08-31T13:40:35.688Z"
   },
   "WYD": {
     "name": "Wayanad",
@@ -135,9 +135,9 @@
     "holidayDate": "",
     "hasConfiguredFeed": true,
     "sourceBadge": "",
-    "metStatus": "Yellow Alert",
+    "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-31T06:08:30.604Z"
+    "lastChecked": "2026-08-31T13:40:36.769Z"
   },
   "KNR": {
     "name": "Kannur",
@@ -149,9 +149,9 @@
     "holidayDate": "",
     "hasConfiguredFeed": true,
     "sourceBadge": "",
-    "metStatus": "Yellow Alert",
+    "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-31T06:08:30.738Z"
+    "lastChecked": "2026-08-31T13:40:37.780Z"
   },
   "TSR": {
     "name": "Thrissur",
@@ -163,9 +163,9 @@
     "holidayDate": "",
     "hasConfiguredFeed": true,
     "sourceBadge": "",
-    "metStatus": "Yellow Alert",
+    "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-31T06:08:30.069Z"
+    "lastChecked": "2026-08-31T13:40:34.506Z"
   },
   "MPM": {
     "name": "Malappuram",
@@ -177,9 +177,9 @@
     "holidayDate": "",
     "hasConfiguredFeed": true,
     "sourceBadge": "",
-    "metStatus": "Yellow Alert",
+    "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-08-31T06:08:30.337Z"
+    "lastChecked": "2026-08-31T13:40:34.693Z"
   },
   "KSG": {
     "name": "Kasaragod",
@@ -191,8 +191,8 @@
     "holidayDate": "30/08/2026",
     "hasConfiguredFeed": true,
     "sourceBadge": "District Collector Official (FB)",
-    "metStatus": "Yellow Alert",
+    "metStatus": "",
     "holidayScope": "Excluding Professional Colleges",
-    "lastChecked": "2026-08-31T06:08:30.872Z"
+    "lastChecked": "2026-08-31T13:40:37.873Z"
   }
 }
