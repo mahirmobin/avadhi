@@ -11,7 +11,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-01T06:56:56.790Z"
+    "lastChecked": "2026-09-01T12:16:37.128Z"
   },
   "KLM": {
     "name": "Kollam",
@@ -25,7 +25,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-01T06:56:56.925Z"
+    "lastChecked": "2026-09-01T12:16:37.226Z"
   },
   "PTA": {
     "name": "Pathanamthitta",
@@ -39,21 +39,21 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-01T06:56:57.062Z"
+    "lastChecked": "2026-09-01T12:16:37.325Z"
   },
   "ALP": {
     "name": "Alappuzha",
     "handle": "@districtcollectoralappuzha",
-    "isHoliday": true,
-    "announcementText": "ഭാരതത്തിന്റെ ഉപരാഷ്ട്രപതിയെ സ്വീകരിച്ചു.",
-    "originalPostUrl": "https://www.facebook.com/186836925055143_1640829994067577",
-    "announcedAt": "Sun, 30 Aug 2026 09:07:46 +0000",
-    "holidayDate": "31/08/2026",
+    "isHoliday": false,
+    "announcementText": "Normal working day",
+    "originalPostUrl": "",
+    "announcedAt": "",
+    "holidayDate": "",
     "hasConfiguredFeed": true,
-    "sourceBadge": "District Collector Official (FB)",
+    "sourceBadge": "",
     "metStatus": "",
-    "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-09-01T06:56:57.196Z"
+    "holidayScope": "",
+    "lastChecked": "2026-09-01T12:16:37.422Z"
   },
   "KTM": {
     "name": "Kottayam",
@@ -67,7 +67,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-01T06:56:57.329Z"
+    "lastChecked": "2026-09-01T12:16:37.519Z"
   },
   "IDK": {
     "name": "Idukki",
@@ -81,7 +81,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-01T06:56:57.465Z"
+    "lastChecked": "2026-09-01T12:16:37.619Z"
   },
   "EKM": {
     "name": "Ernakulam",
@@ -95,7 +95,7 @@
     "sourceBadge": "District Collector Official (FB)",
     "metStatus": "",
     "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-09-01T06:56:57.601Z"
+    "lastChecked": "2026-09-01T12:16:37.718Z"
   },
   "PKD": {
     "name": "Palakkad",
@@ -109,7 +109,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-01T06:56:57.868Z"
+    "lastChecked": "2026-09-01T12:16:37.912Z"
   },
   "KKD": {
     "name": "Kozhikode",
@@ -123,7 +123,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-01T06:56:58.136Z"
+    "lastChecked": "2026-09-01T12:16:38.105Z"
   },
   "WYD": {
     "name": "Wayanad",
@@ -137,7 +137,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-01T06:56:58.269Z"
+    "lastChecked": "2026-09-01T12:16:38.202Z"
   },
   "KNR": {
     "name": "Kannur",
@@ -151,7 +151,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-01T06:56:58.402Z"
+    "lastChecked": "2026-09-01T12:16:38.299Z"
   },
   "TSR": {
     "name": "Thrissur",
@@ -165,7 +165,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-01T06:56:57.734Z"
+    "lastChecked": "2026-09-01T12:16:37.815Z"
   },
   "MPM": {
     "name": "Malappuram",
@@ -179,7 +179,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-01T06:56:58.003Z"
+    "lastChecked": "2026-09-01T12:16:38.009Z"
   },
   "KSG": {
     "name": "Kasaragod",
@@ -193,6 +193,6 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-01T06:56:58.535Z"
+    "lastChecked": "2026-09-01T12:16:38.395Z"
   }
 }
