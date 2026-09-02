@@ -11,7 +11,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-02T08:53:40.704Z"
+    "lastChecked": "2026-09-02T13:03:42.347Z"
   },
   "KLM": {
     "name": "Kollam",
@@ -25,7 +25,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-02T08:53:40.859Z"
+    "lastChecked": "2026-09-02T13:03:42.504Z"
   },
   "PTA": {
     "name": "Pathanamthitta",
@@ -39,7 +39,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-02T08:53:41.016Z"
+    "lastChecked": "2026-09-02T13:03:42.661Z"
   },
   "ALP": {
     "name": "Alappuzha",
@@ -53,7 +53,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-02T08:53:41.170Z"
+    "lastChecked": "2026-09-02T13:03:42.816Z"
   },
   "KTM": {
     "name": "Kottayam",
@@ -67,7 +67,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-02T08:53:41.325Z"
+    "lastChecked": "2026-09-02T13:03:42.970Z"
   },
   "IDK": {
     "name": "Idukki",
@@ -81,21 +81,21 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-02T08:53:41.481Z"
+    "lastChecked": "2026-09-02T13:03:43.126Z"
   },
   "EKM": {
     "name": "Ernakulam",
     "handle": "@ernakulamdc",
-    "isHoliday": true,
-    "announcementText": "രാജഗിരി സ്കൂൾ ഓഫ് എൻജിനീയറിങ് ആൻഡ് ടെക്നോളജി സിൽവർ ജൂബിലി ആഘോഷം ബഹു. ഉപരാഷ്ട്രപതി ശ്രീ.സി.പി. രാധാകൃഷ്ണൻ ഉദ്ഘാടനം ചെയ്യുന്നു. ബഹു.ഗവർണർ ശ്രീ. രാജേന്ദ്ര വിശ്വനാഥ് ആർലേകർ ,   ബഹു.മുഖ്യമന്ത്രി ശ്രീ.വി ഡി സതീശൻ , ബഹു.കേന്ദ്ര മന്ത്രി ശ്രീ.സുരേഷ് ഗോപി, ബഹു. ഉന്നത വിദ്യാഭ്യാസ വകുപ്പ് മന്ത്രി ശ്രീ.റോജി എം ജോൺ, തുടങ്ങിയവർ സമീപം .",
-    "originalPostUrl": "https://www.facebook.com/233008147097016_1815600560043353",
-    "announcedAt": "Mon, 31 Aug 2026 13:00:21 +0000",
-    "holidayDate": "01/09/2026",
+    "isHoliday": false,
+    "announcementText": "Normal working day",
+    "originalPostUrl": "",
+    "announcedAt": "",
+    "holidayDate": "",
     "hasConfiguredFeed": true,
-    "sourceBadge": "District Collector Official (FB)",
+    "sourceBadge": "",
     "metStatus": "",
-    "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-09-02T08:53:41.639Z"
+    "holidayScope": "",
+    "lastChecked": "2026-09-02T13:03:43.283Z"
   },
   "PKD": {
     "name": "Palakkad",
@@ -109,7 +109,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-02T08:53:41.948Z"
+    "lastChecked": "2026-09-02T13:03:43.594Z"
   },
   "KKD": {
     "name": "Kozhikode",
@@ -123,7 +123,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-02T08:53:42.257Z"
+    "lastChecked": "2026-09-02T13:03:43.903Z"
   },
   "WYD": {
     "name": "Wayanad",
@@ -137,7 +137,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-02T08:53:42.411Z"
+    "lastChecked": "2026-09-02T13:03:44.057Z"
   },
   "KNR": {
     "name": "Kannur",
@@ -151,7 +151,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-02T08:53:42.566Z"
+    "lastChecked": "2026-09-02T13:03:44.213Z"
   },
   "TSR": {
     "name": "Thrissur",
@@ -165,7 +165,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-02T08:53:41.793Z"
+    "lastChecked": "2026-09-02T13:03:43.439Z"
   },
   "MPM": {
     "name": "Malappuram",
@@ -179,7 +179,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-02T08:53:42.103Z"
+    "lastChecked": "2026-09-02T13:03:43.749Z"
   },
   "KSG": {
     "name": "Kasaragod",
@@ -193,6 +193,6 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-02T08:53:42.719Z"
+    "lastChecked": "2026-09-02T13:03:44.367Z"
   }
 }
