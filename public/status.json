@@ -2,16 +2,16 @@
   "TVM": {
     "name": "Thiruvananthapuram",
     "handle": "@Dist_Admin_Tvm",
-    "isHoliday": false,
-    "announcementText": "Normal working day",
-    "originalPostUrl": "",
-    "announcedAt": "",
-    "holidayDate": "",
+    "isHoliday": true,
+    "announcementText": "ഹരിതസമൃദ്ധിയിലേക്ക് മാതൃകാപരമായ മുന്നേറ്റം: 'ഗ്രീൻ ചാംപ്സ്' ഒന്നാം സ്ഥാനക്കാരായ AMTTI വിളബ്ഭാഗം സ്കൂളിൽ സന്ദർശനം നടത്തി 🌱🏆",
+    "originalPostUrl": "https://www.facebook.com/1491635491151987_1607173784111645",
+    "announcedAt": "Tue, 01 Sep 2026 15:43:41 +0000",
+    "holidayDate": "02/09/2026",
     "hasConfiguredFeed": true,
-    "sourceBadge": "",
+    "sourceBadge": "District Collector Official (FB)",
     "metStatus": "",
-    "holidayScope": "",
-    "lastChecked": "2026-09-02T13:03:42.347Z"
+    "holidayScope": "Full District Holiday",
+    "lastChecked": "2026-09-02T17:08:03.017Z"
   },
   "KLM": {
     "name": "Kollam",
@@ -25,7 +25,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-02T13:03:42.504Z"
+    "lastChecked": "2026-09-02T17:08:05.202Z"
   },
   "PTA": {
     "name": "Pathanamthitta",
@@ -39,7 +39,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-02T13:03:42.661Z"
+    "lastChecked": "2026-09-02T17:08:06.362Z"
   },
   "ALP": {
     "name": "Alappuzha",
@@ -53,7 +53,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-02T13:03:42.816Z"
+    "lastChecked": "2026-09-02T17:08:07.814Z"
   },
   "KTM": {
     "name": "Kottayam",
@@ -67,7 +67,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-02T13:03:42.970Z"
+    "lastChecked": "2026-09-02T17:08:07.927Z"
   },
   "IDK": {
     "name": "Idukki",
@@ -81,7 +81,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-02T13:03:43.126Z"
+    "lastChecked": "2026-09-02T17:08:09.162Z"
   },
   "EKM": {
     "name": "Ernakulam",
@@ -95,7 +95,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-02T13:03:43.283Z"
+    "lastChecked": "2026-09-02T17:08:10.831Z"
   },
   "PKD": {
     "name": "Palakkad",
@@ -109,21 +109,21 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-02T13:03:43.594Z"
+    "lastChecked": "2026-09-02T17:08:12.135Z"
   },
   "KKD": {
     "name": "Kozhikode",
     "handle": "@collectorkozhikode",
-    "isHoliday": false,
-    "announcementText": "Normal working day",
-    "originalPostUrl": "",
-    "announcedAt": "",
-    "holidayDate": "",
+    "isHoliday": true,
+    "announcementText": "🏆 സംസ്ഥാന അധ്യാപക അവാർഡ് 2025-26 നേടിയ കോഴിക്കോട് ജില്ലയിലെ അഭിമാനങ്ങൾക്ക് അഭിനന്ദനങ്ങൾ.",
+    "originalPostUrl": "https://www.facebook.com/1588733288030112_1387734260134578",
+    "announcedAt": "Wed, 02 Sep 2026 14:52:19 +0000",
+    "holidayDate": "03/09/2026",
     "hasConfiguredFeed": true,
-    "sourceBadge": "",
+    "sourceBadge": "District Collector Official (FB)",
     "metStatus": "",
-    "holidayScope": "",
-    "lastChecked": "2026-09-02T13:03:43.903Z"
+    "holidayScope": "Full District Holiday",
+    "lastChecked": "2026-09-02T17:08:14.866Z"
   },
   "WYD": {
     "name": "Wayanad",
@@ -137,7 +137,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-02T13:03:44.057Z"
+    "lastChecked": "2026-09-02T17:08:16.719Z"
   },
   "KNR": {
     "name": "Kannur",
@@ -151,7 +151,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-02T13:03:44.213Z"
+    "lastChecked": "2026-09-02T17:08:18.652Z"
   },
   "TSR": {
     "name": "Thrissur",
@@ -165,7 +165,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-02T13:03:43.439Z"
+    "lastChecked": "2026-09-02T17:08:12.021Z"
   },
   "MPM": {
     "name": "Malappuram",
@@ -179,7 +179,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-02T13:03:43.749Z"
+    "lastChecked": "2026-09-02T17:08:12.248Z"
   },
   "KSG": {
     "name": "Kasaragod",
@@ -193,6 +193,6 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-02T13:03:44.367Z"
+    "lastChecked": "2026-09-02T17:08:18.765Z"
   }
 }
