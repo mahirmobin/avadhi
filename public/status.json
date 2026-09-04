@@ -11,21 +11,21 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-04T15:06:27.425Z"
+    "lastChecked": "2026-09-04T18:21:31.793Z"
   },
   "KLM": {
     "name": "Kollam",
     "handle": "@dckollam",
-    "isHoliday": false,
-    "announcementText": "Normal working day",
-    "originalPostUrl": "",
-    "announcedAt": "",
-    "holidayDate": "",
+    "isHoliday": true,
+    "announcementText": "വൈ ഐ പി 9.0 (YIP 9.0): കൊല്ലം ചാമ്പ്യൻ",
+    "originalPostUrl": "https://www.facebook.com/462119120606972_1628509361963900",
+    "announcedAt": "Fri, 04 Sep 2026 00:31:04 +0000",
+    "holidayDate": "04/09/2026",
     "hasConfiguredFeed": true,
-    "sourceBadge": "",
+    "sourceBadge": "District Collector Official (FB)",
     "metStatus": "",
-    "holidayScope": "",
-    "lastChecked": "2026-09-04T15:06:27.523Z"
+    "holidayScope": "Full District Holiday",
+    "lastChecked": "2026-09-04T18:21:32.972Z"
   },
   "PTA": {
     "name": "Pathanamthitta",
@@ -39,7 +39,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-04T15:06:27.620Z"
+    "lastChecked": "2026-09-04T18:21:34.043Z"
   },
   "ALP": {
     "name": "Alappuzha",
@@ -53,7 +53,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-04T15:06:27.716Z"
+    "lastChecked": "2026-09-04T18:21:35.187Z"
   },
   "KTM": {
     "name": "Kottayam",
@@ -67,7 +67,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-04T15:06:27.811Z"
+    "lastChecked": "2026-09-04T18:21:35.278Z"
   },
   "IDK": {
     "name": "Idukki",
@@ -81,7 +81,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-04T15:06:27.909Z"
+    "lastChecked": "2026-09-04T18:21:36.493Z"
   },
   "EKM": {
     "name": "Ernakulam",
@@ -95,7 +95,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-04T15:06:28.006Z"
+    "lastChecked": "2026-09-04T18:21:37.830Z"
   },
   "PKD": {
     "name": "Palakkad",
@@ -109,7 +109,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-04T15:06:28.197Z"
+    "lastChecked": "2026-09-04T18:21:38.893Z"
   },
   "KKD": {
     "name": "Kozhikode",
@@ -123,21 +123,21 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-04T15:06:28.388Z"
+    "lastChecked": "2026-09-04T18:21:39.941Z"
   },
   "WYD": {
     "name": "Wayanad",
     "handle": "@wayanadcollector",
-    "isHoliday": false,
-    "announcementText": "Normal working day",
-    "originalPostUrl": "",
-    "announcedAt": "",
-    "holidayDate": "",
+    "isHoliday": true,
+    "announcementText": "",
+    "originalPostUrl": "https://www.facebook.com/278429812621016_1376726037951464",
+    "announcedAt": "Fri, 04 Sep 2026 06:28:08 +0000",
+    "holidayDate": "04/09/2026",
     "hasConfiguredFeed": true,
-    "sourceBadge": "",
+    "sourceBadge": "District Collector Official (FB)",
     "metStatus": "",
-    "holidayScope": "",
-    "lastChecked": "2026-09-04T15:06:28.483Z"
+    "holidayScope": "Full District Holiday",
+    "lastChecked": "2026-09-04T18:21:41.055Z"
   },
   "KNR": {
     "name": "Kannur",
@@ -151,7 +151,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-04T15:06:28.579Z"
+    "lastChecked": "2026-09-04T18:21:42.204Z"
   },
   "TSR": {
     "name": "Thrissur",
@@ -165,7 +165,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-04T15:06:28.102Z"
+    "lastChecked": "2026-09-04T18:21:38.801Z"
   },
   "MPM": {
     "name": "Malappuram",
@@ -179,7 +179,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-04T15:06:28.293Z"
+    "lastChecked": "2026-09-04T18:21:38.986Z"
   },
   "KSG": {
     "name": "Kasaragod",
@@ -193,6 +193,6 @@
     "sourceBadge": "District Collector Official (FB)",
     "metStatus": "",
     "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-09-04T15:06:28.675Z"
+    "lastChecked": "2026-09-04T18:21:42.298Z"
   }
 }
