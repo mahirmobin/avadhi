@@ -11,7 +11,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-06T09:01:50.131Z"
+    "lastChecked": "2026-09-06T12:52:01.687Z"
   },
   "KLM": {
     "name": "Kollam",
@@ -25,7 +25,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-06T09:01:50.225Z"
+    "lastChecked": "2026-09-06T12:52:01.822Z"
   },
   "PTA": {
     "name": "Pathanamthitta",
@@ -39,7 +39,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-06T09:01:50.318Z"
+    "lastChecked": "2026-09-06T12:52:01.956Z"
   },
   "ALP": {
     "name": "Alappuzha",
@@ -53,7 +53,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-06T09:01:50.410Z"
+    "lastChecked": "2026-09-06T12:52:02.089Z"
   },
   "KTM": {
     "name": "Kottayam",
@@ -67,7 +67,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-06T09:01:50.501Z"
+    "lastChecked": "2026-09-06T12:52:03.563Z"
   },
   "IDK": {
     "name": "Idukki",
@@ -81,7 +81,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-06T09:01:50.595Z"
+    "lastChecked": "2026-09-06T12:52:03.698Z"
   },
   "EKM": {
     "name": "Ernakulam",
@@ -95,7 +95,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-06T09:01:50.689Z"
+    "lastChecked": "2026-09-06T12:52:03.836Z"
   },
   "PKD": {
     "name": "Palakkad",
@@ -109,7 +109,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-06T09:01:50.873Z"
+    "lastChecked": "2026-09-06T12:52:05.219Z"
   },
   "KKD": {
     "name": "Kozhikode",
@@ -123,7 +123,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-06T09:01:51.056Z"
+    "lastChecked": "2026-09-06T12:52:06.893Z"
   },
   "WYD": {
     "name": "Wayanad",
@@ -137,7 +137,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-06T09:01:51.148Z"
+    "lastChecked": "2026-09-06T12:52:07.028Z"
   },
   "KNR": {
     "name": "Kannur",
@@ -151,7 +151,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-06T09:01:51.239Z"
+    "lastChecked": "2026-09-06T12:52:07.165Z"
   },
   "TSR": {
     "name": "Thrissur",
@@ -165,7 +165,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-06T09:01:50.781Z"
+    "lastChecked": "2026-09-06T12:52:03.970Z"
   },
   "MPM": {
     "name": "Malappuram",
@@ -179,20 +179,20 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-06T09:01:50.965Z"
+    "lastChecked": "2026-09-06T12:52:06.759Z"
   },
   "KSG": {
     "name": "Kasaragod",
     "handle": "@CollectorKasaragod",
-    "isHoliday": false,
-    "announcementText": "Normal working day",
-    "originalPostUrl": "",
-    "announcedAt": "",
-    "holidayDate": "",
+    "isHoliday": true,
+    "announcementText": "കേരള പോലീസിന്റെ ലഹരിവിരുദ്ധ മാരത്തോണും ദീപശിഖാ പ്രയാണവും സെപ്റ്റംബർ 5-ന് കാസർഗോഡ് നിന്ന് ആരംഭിച്ചു, 'സ്‌പോർട്‌സിനൊപ്പം നിൽക്കൂ, ലഹരിയെ അകറ്റൂ' (Yes to Sports, No to Drugs) എന്ന മുദ്രാവാക്യവുമായി കേരള പോലീസ് മീറ്റ് 2026-ന്റെ ഭാഗമായി സംഘടിപ്പിക്കുന്ന സംസ്ഥാനതല മാരത്തോണും ദീപശിഖാ പ്രയാണവും 2026 സെപ്റ്റംബർ 5-ന് രാവിലെ കാസർഗോഡ് പുതിയ ബസ് സ്റ്റാൻഡ് പരിസരത്ത് തുടക്കമായി സെപ്റ്റംബർ എട്ടു വരെ കാസർഗോഡ് മുതൽ തിരുവനന്തപുരം വരെ നീളുന്നതാണ് ഈ ലഹരിവിരുദ്ധ ജനകീയ മുന്നേറ്റം. ചടങ്ങിൽ കാസർഗോഡ് എം.പി രാജ്‌മോഹൻ ഉണ്ണിത്താൻ പരിപാടിയുടെ ഔദ്യോഗിക ഉദ്ഘാടനം നിർവഹിച്ചു.",
+    "originalPostUrl": "https://www.facebook.com/362232614156637_1633637741457840",
+    "announcedAt": "Sun, 06 Sep 2026 12:45:17 +0000",
+    "holidayDate": "07/09/2026",
     "hasConfiguredFeed": true,
-    "sourceBadge": "",
+    "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Yellow Alert",
-    "holidayScope": "",
-    "lastChecked": "2026-09-06T09:01:51.331Z"
+    "holidayScope": "Full District Holiday",
+    "lastChecked": "2026-09-06T12:52:08.721Z"
   }
 }
