@@ -11,7 +11,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-10T13:56:34.696Z"
+    "lastChecked": "2026-09-10T17:25:25.704Z"
   },
   "KLM": {
     "name": "Kollam",
@@ -25,7 +25,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-10T13:56:34.790Z"
+    "lastChecked": "2026-09-10T17:25:25.836Z"
   },
   "PTA": {
     "name": "Pathanamthitta",
@@ -39,7 +39,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-10T13:56:34.884Z"
+    "lastChecked": "2026-09-10T17:25:25.968Z"
   },
   "ALP": {
     "name": "Alappuzha",
@@ -53,7 +53,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-10T13:56:34.976Z"
+    "lastChecked": "2026-09-10T17:25:26.098Z"
   },
   "KTM": {
     "name": "Kottayam",
@@ -67,7 +67,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-10T13:56:35.068Z"
+    "lastChecked": "2026-09-10T17:25:26.227Z"
   },
   "IDK": {
     "name": "Idukki",
@@ -81,7 +81,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-10T13:56:35.162Z"
+    "lastChecked": "2026-09-10T17:25:26.360Z"
   },
   "EKM": {
     "name": "Ernakulam",
@@ -95,7 +95,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-10T13:56:35.255Z"
+    "lastChecked": "2026-09-10T17:25:26.491Z"
   },
   "PKD": {
     "name": "Palakkad",
@@ -109,7 +109,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-10T13:56:35.439Z"
+    "lastChecked": "2026-09-10T17:25:26.749Z"
   },
   "KKD": {
     "name": "Kozhikode",
@@ -123,7 +123,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-10T13:56:35.623Z"
+    "lastChecked": "2026-09-10T17:25:27.008Z"
   },
   "WYD": {
     "name": "Wayanad",
@@ -137,7 +137,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-10T13:56:35.715Z"
+    "lastChecked": "2026-09-10T17:25:27.138Z"
   },
   "KNR": {
     "name": "Kannur",
@@ -151,21 +151,21 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-10T13:56:35.808Z"
+    "lastChecked": "2026-09-10T17:25:27.267Z"
   },
   "TSR": {
     "name": "Thrissur",
     "handle": "@ThrissurCollector",
-    "isHoliday": true,
-    "announcementText": "മുഖാമുഖം: മീറ്റ് യുവർ കളക്ടർ 2.0 പരിപാടിയുടെ 11-ാം അധ്യായത്തിൽ സെപ്റ്റംബർ രണ്ടിന് കുരിയച്ചിറ സെന്റ് പോൾസ് പബ്ലിക് സ്കൂളിലെ വിദ്യാർത്ഥികളും അധ്യാപകരും   പങ്കെടുത്തു. വിദ്യാർത്ഥികളുടെ സ്വയംപരിചയപ്പെടുത്തലോടെയാണ് പരിപാടി ആരംഭിച്ചത്.",
-    "originalPostUrl": "https://www.facebook.com/105782160780355_1401496172164870",
-    "announcedAt": "Tue, 08 Sep 2026 16:12:16 +0000",
-    "holidayDate": "09/09/2026",
+    "isHoliday": false,
+    "announcementText": "Normal working day",
+    "originalPostUrl": "",
+    "announcedAt": "",
+    "holidayDate": "",
     "hasConfiguredFeed": true,
-    "sourceBadge": "District Collector Official (FB)",
+    "sourceBadge": "",
     "metStatus": "Yellow Alert",
-    "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-09-10T13:56:35.347Z"
+    "holidayScope": "",
+    "lastChecked": "2026-09-10T17:25:26.620Z"
   },
   "MPM": {
     "name": "Malappuram",
@@ -179,7 +179,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-10T13:56:35.531Z"
+    "lastChecked": "2026-09-10T17:25:26.879Z"
   },
   "KSG": {
     "name": "Kasaragod",
@@ -193,6 +193,6 @@
     "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Yellow Alert",
     "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-09-10T13:56:35.900Z"
+    "lastChecked": "2026-09-10T17:25:27.398Z"
   }
 }
