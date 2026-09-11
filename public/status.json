@@ -2,16 +2,16 @@
   "TVM": {
     "name": "Thiruvananthapuram",
     "handle": "@Dist_Admin_Tvm",
-    "isHoliday": false,
-    "announcementText": "Normal working day",
-    "originalPostUrl": "",
-    "announcedAt": "",
-    "holidayDate": "",
+    "isHoliday": true,
+    "announcementText": "തിരുവനന്തപുരം ജില്ലാ ഭരണകൂടം, ജില്ലാ ശുചിത്വ മിഷൻ, വിദ്യാഭ്യാസ വകുപ്പ് എന്നിവയുടെ സംയുക്താഭിമുഖ്യത്തിൽ നടപ്പിലാക്കിയ 'ഗ്രീൻ ചാംപ്സ്' പദ്ധതിയിൽ ജില്ലാ ഭരണകൂടം, ജില്ലാ ശുചിത്വ മിഷൻ, വിദ്യാഭ്യാസ വകുപ്പ് എന്നിവയുടെ സംയുക്താഭിമുഖ്യത്തിൽ നടപ്പിലാക്കിയ 'ഗ്രീൻ ചാംപ്സ്' പദ്ധതിയിൽ ജില്ലയിൽ ഒന്നാം സ്ഥാനം കരസ്ഥമാക്കിയ",
+    "originalPostUrl": "https://www.facebook.com/1491635491151987_1614555690040121",
+    "announcedAt": "Thu, 10 Sep 2026 05:06:57 +0000",
+    "holidayDate": "10/09/2026",
     "hasConfiguredFeed": true,
-    "sourceBadge": "",
+    "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Yellow Alert",
-    "holidayScope": "",
-    "lastChecked": "2026-09-11T21:55:34.699Z"
+    "holidayScope": "Full District Holiday",
+    "lastChecked": "2026-09-11T23:40:58.905Z"
   },
   "KLM": {
     "name": "Kollam",
@@ -25,7 +25,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-11T21:55:34.836Z"
+    "lastChecked": "2026-09-11T23:41:00.323Z"
   },
   "PTA": {
     "name": "Pathanamthitta",
@@ -39,7 +39,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-11T21:55:34.970Z"
+    "lastChecked": "2026-09-11T23:41:01.638Z"
   },
   "ALP": {
     "name": "Alappuzha",
@@ -53,7 +53,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-11T21:55:35.103Z"
+    "lastChecked": "2026-09-11T23:41:03.257Z"
   },
   "KTM": {
     "name": "Kottayam",
@@ -67,7 +67,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-11T21:55:37.171Z"
+    "lastChecked": "2026-09-11T23:41:03.420Z"
   },
   "IDK": {
     "name": "Idukki",
@@ -81,7 +81,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-11T21:55:37.306Z"
+    "lastChecked": "2026-09-11T23:41:05.055Z"
   },
   "EKM": {
     "name": "Ernakulam",
@@ -95,7 +95,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-11T21:55:37.442Z"
+    "lastChecked": "2026-09-11T23:41:06.738Z"
   },
   "PKD": {
     "name": "Palakkad",
@@ -109,35 +109,35 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-11T21:55:39.348Z"
+    "lastChecked": "2026-09-11T23:41:08.346Z"
   },
   "KKD": {
     "name": "Kozhikode",
     "handle": "@collectorkozhikode",
-    "isHoliday": false,
-    "announcementText": "Normal working day",
-    "originalPostUrl": "",
-    "announcedAt": "",
-    "holidayDate": "",
+    "isHoliday": true,
+    "announcementText": "‘ഹാപ്പി ഹിൽ’ പദ്ധതി പുതിയ അധ്യായത്തിലേക്ക്...",
+    "originalPostUrl": "https://www.facebook.com/1588733288030112_1395036419404362",
+    "announcedAt": "Fri, 11 Sep 2026 09:12:45 +0000",
+    "holidayDate": "12/09/2026",
     "hasConfiguredFeed": true,
-    "sourceBadge": "",
+    "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Yellow Alert",
-    "holidayScope": "",
-    "lastChecked": "2026-09-11T21:55:40.496Z"
+    "holidayScope": "Full District Holiday",
+    "lastChecked": "2026-09-11T23:41:09.708Z"
   },
   "WYD": {
     "name": "Wayanad",
     "handle": "@wayanadcollector",
-    "isHoliday": false,
-    "announcementText": "Normal working day",
-    "originalPostUrl": "",
-    "announcedAt": "",
-    "holidayDate": "",
+    "isHoliday": true,
+    "announcementText": "",
+    "originalPostUrl": "https://www.facebook.com/278429812621016_1382494627374605",
+    "announcedAt": "Fri, 11 Sep 2026 02:17:42 +0000",
+    "holidayDate": "11/09/2026",
     "hasConfiguredFeed": true,
-    "sourceBadge": "",
+    "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Yellow Alert",
-    "holidayScope": "",
-    "lastChecked": "2026-09-11T21:55:40.630Z"
+    "holidayScope": "Full District Holiday",
+    "lastChecked": "2026-09-11T23:41:12.264Z"
   },
   "KNR": {
     "name": "Kannur",
@@ -151,21 +151,21 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-11T21:55:40.763Z"
+    "lastChecked": "2026-09-11T23:41:14.131Z"
   },
   "TSR": {
     "name": "Thrissur",
     "handle": "@ThrissurCollector",
-    "isHoliday": true,
-    "announcementText": "വടക്കാഞ്ചേരി ഗവണ്മെന്റ് ബോയ്സ് ഹയർ സെക്കൻഡറി സ്കൂൾ, ചാവക്കാട് മണത്തല ഗവണ്മെന്റ് ഹയർ സെക്കൻഡറി സ്കൂൾ എന്നിവിടങ്ങളിൽ വിദ്യാകിരണം പദ്ധതിയുടെ ഭാഗമായി നടന്നു വരുന്ന നിർമ്മാണ പ്രവർത്തനങ്ങൾ സന്ദർശിച്ചു വിലയിരുത്തി.നിശ്ചിത സമയപരിധിക്കുള്ളിൽ തന്നെ പണികൾ വേഗത്തിൽ പൂർത്തിയാക്കാൻ ബന്ധപ്പെട്ട ഉദ്യോഗസ്ഥർക്കും കരാറുകാർക്കും നിർദ്ദേശം നൽകി. ഇതുമായി ബന്ധപ്പെട്ട അടിയന്തര ഇടപെടലുകൾക്കായി വിദ്യാഭ്യാസ വകുപ്പിനും കത്ത് നൽകിയിട്ടുണ്ട്.",
-    "originalPostUrl": "https://www.facebook.com/105782160780355_1403236661990821",
-    "announcedAt": "Thu, 10 Sep 2026 15:36:31 +0000",
-    "holidayDate": "11/09/2026",
+    "isHoliday": false,
+    "announcementText": "Normal working day",
+    "originalPostUrl": "",
+    "announcedAt": "",
+    "holidayDate": "",
     "hasConfiguredFeed": true,
-    "sourceBadge": "District Collector Official (FB)",
+    "sourceBadge": "",
     "metStatus": "Yellow Alert",
-    "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-09-11T21:55:37.576Z"
+    "holidayScope": "",
+    "lastChecked": "2026-09-11T23:41:08.183Z"
   },
   "MPM": {
     "name": "Malappuram",
@@ -179,7 +179,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-11T21:55:40.363Z"
+    "lastChecked": "2026-09-11T23:41:08.510Z"
   },
   "KSG": {
     "name": "Kasaragod",
@@ -193,6 +193,6 @@
     "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Yellow Alert",
     "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-09-11T21:55:42.313Z"
+    "lastChecked": "2026-09-11T23:41:14.294Z"
   }
 }
