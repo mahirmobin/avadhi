@@ -9,9 +9,9 @@
     "holidayDate": "",
     "hasConfiguredFeed": true,
     "sourceBadge": "",
-    "metStatus": "Yellow Alert",
+    "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-11T00:06:38.963Z"
+    "lastChecked": "2026-09-11T04:33:36.797Z"
   },
   "KLM": {
     "name": "Kollam",
@@ -23,9 +23,9 @@
     "holidayDate": "",
     "hasConfiguredFeed": true,
     "sourceBadge": "",
-    "metStatus": "Yellow Alert",
+    "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-11T00:06:39.091Z"
+    "lastChecked": "2026-09-11T04:33:36.955Z"
   },
   "PTA": {
     "name": "Pathanamthitta",
@@ -39,7 +39,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-11T00:06:39.217Z"
+    "lastChecked": "2026-09-11T04:33:37.112Z"
   },
   "ALP": {
     "name": "Alappuzha",
@@ -51,9 +51,9 @@
     "holidayDate": "",
     "hasConfiguredFeed": true,
     "sourceBadge": "",
-    "metStatus": "Yellow Alert",
+    "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-11T00:06:39.342Z"
+    "lastChecked": "2026-09-11T04:33:37.268Z"
   },
   "KTM": {
     "name": "Kottayam",
@@ -67,7 +67,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-11T00:06:39.466Z"
+    "lastChecked": "2026-09-11T04:33:37.424Z"
   },
   "IDK": {
     "name": "Idukki",
@@ -81,7 +81,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-11T00:06:39.592Z"
+    "lastChecked": "2026-09-11T04:33:37.582Z"
   },
   "EKM": {
     "name": "Ernakulam",
@@ -95,7 +95,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-11T00:06:39.718Z"
+    "lastChecked": "2026-09-11T04:33:37.742Z"
   },
   "PKD": {
     "name": "Palakkad",
@@ -107,9 +107,9 @@
     "holidayDate": "",
     "hasConfiguredFeed": true,
     "sourceBadge": "",
-    "metStatus": "Yellow Alert",
+    "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-11T00:06:39.967Z"
+    "lastChecked": "2026-09-11T04:33:38.054Z"
   },
   "KKD": {
     "name": "Kozhikode",
@@ -121,9 +121,9 @@
     "holidayDate": "",
     "hasConfiguredFeed": true,
     "sourceBadge": "",
-    "metStatus": "Yellow Alert",
+    "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-11T00:06:40.216Z"
+    "lastChecked": "2026-09-11T04:33:38.365Z"
   },
   "WYD": {
     "name": "Wayanad",
@@ -135,9 +135,9 @@
     "holidayDate": "",
     "hasConfiguredFeed": true,
     "sourceBadge": "",
-    "metStatus": "Yellow Alert",
+    "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-11T00:06:40.341Z"
+    "lastChecked": "2026-09-11T04:33:38.520Z"
   },
   "KNR": {
     "name": "Kannur",
@@ -149,9 +149,9 @@
     "holidayDate": "",
     "hasConfiguredFeed": true,
     "sourceBadge": "",
-    "metStatus": "Yellow Alert",
+    "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-11T00:06:40.465Z"
+    "lastChecked": "2026-09-11T04:33:38.676Z"
   },
   "TSR": {
     "name": "Thrissur",
@@ -163,9 +163,9 @@
     "holidayDate": "11/09/2026",
     "hasConfiguredFeed": true,
     "sourceBadge": "District Collector Official (FB)",
-    "metStatus": "Yellow Alert",
+    "metStatus": "",
     "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-09-11T00:06:39.843Z"
+    "lastChecked": "2026-09-11T04:33:37.899Z"
   },
   "MPM": {
     "name": "Malappuram",
@@ -177,9 +177,9 @@
     "holidayDate": "",
     "hasConfiguredFeed": true,
     "sourceBadge": "",
-    "metStatus": "Yellow Alert",
+    "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-11T00:06:40.092Z"
+    "lastChecked": "2026-09-11T04:33:38.210Z"
   },
   "KSG": {
     "name": "Kasaragod",
@@ -191,8 +191,8 @@
     "holidayDate": "10/09/2026",
     "hasConfiguredFeed": true,
     "sourceBadge": "District Collector Official (FB)",
-    "metStatus": "Yellow Alert",
+    "metStatus": "",
     "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-09-11T00:06:40.590Z"
+    "lastChecked": "2026-09-11T04:33:38.832Z"
   }
 }
