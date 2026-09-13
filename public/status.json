@@ -11,7 +11,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-12T23:20:05.439Z"
+    "lastChecked": "2026-09-13T01:13:59.735Z"
   },
   "KLM": {
     "name": "Kollam",
@@ -25,7 +25,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-12T23:20:05.532Z"
+    "lastChecked": "2026-09-13T01:14:00.838Z"
   },
   "PTA": {
     "name": "Pathanamthitta",
@@ -39,21 +39,21 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-12T23:20:05.624Z"
+    "lastChecked": "2026-09-13T01:14:01.863Z"
   },
   "ALP": {
     "name": "Alappuzha",
     "handle": "@districtcollectoralappuzha",
-    "isHoliday": false,
-    "announcementText": "Normal working day",
-    "originalPostUrl": "",
-    "announcedAt": "",
-    "holidayDate": "",
+    "isHoliday": true,
+    "announcementText": "ശ്രീ സത്യസായി സേവാസമിതിയുടെ നേതൃത്വത്തിൽ ആലപ്പുഴ ചന്ദനക്കാവിൽ സംഘടിപ്പിച്ച 'ഗ്രാമസ്പർശം' പദ്ധതി ഉദ്ഘാടനം ചെയ്‌തു. വ്യക്തിഗത പരിചരണം, വിദ്യാഭ്യാസം, സ്വയംതൊഴിൽ, ആരോഗ്യപരിചരണം എന്നീ നാല് പ്രധാന മേഖലകളെ കേന്ദ്രീകരിച്ച് ജനക്ഷേമം ലക്ഷ്യമിട്ട് നടപ്പിലാക്കുന്ന ഈ മികച്ച സംരംഭത്തിന് എല്ലാവിധ ആശംസകളും നേരുന്നു.",
+    "originalPostUrl": "https://www.facebook.com/186836925055143_1652570289560214",
+    "announcedAt": "Sat, 12 Sep 2026 05:57:38 +0000",
+    "holidayDate": "12/09/2026",
     "hasConfiguredFeed": true,
-    "sourceBadge": "",
+    "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Yellow Alert",
-    "holidayScope": "",
-    "lastChecked": "2026-09-12T23:20:05.715Z"
+    "holidayScope": "Full District Holiday",
+    "lastChecked": "2026-09-13T01:14:03.009Z"
   },
   "KTM": {
     "name": "Kottayam",
@@ -67,7 +67,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-12T23:20:06.667Z"
+    "lastChecked": "2026-09-13T01:14:03.146Z"
   },
   "IDK": {
     "name": "Idukki",
@@ -81,7 +81,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-12T23:20:06.761Z"
+    "lastChecked": "2026-09-13T01:14:04.274Z"
   },
   "EKM": {
     "name": "Ernakulam",
@@ -95,7 +95,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-12T23:20:06.853Z"
+    "lastChecked": "2026-09-13T01:14:05.533Z"
   },
   "PKD": {
     "name": "Palakkad",
@@ -109,7 +109,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-12T23:20:07.892Z"
+    "lastChecked": "2026-09-13T01:14:06.904Z"
   },
   "KKD": {
     "name": "Kozhikode",
@@ -123,7 +123,7 @@
     "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Yellow Alert",
     "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-09-12T23:20:09.260Z"
+    "lastChecked": "2026-09-13T01:14:08.244Z"
   },
   "WYD": {
     "name": "Wayanad",
@@ -137,7 +137,7 @@
     "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Yellow Alert",
     "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-09-12T23:20:09.350Z"
+    "lastChecked": "2026-09-13T01:14:09.919Z"
   },
   "KNR": {
     "name": "Kannur",
@@ -151,21 +151,21 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-12T23:20:09.442Z"
+    "lastChecked": "2026-09-13T01:14:11.373Z"
   },
   "TSR": {
     "name": "Thrissur",
     "handle": "@ThrissurCollector",
-    "isHoliday": false,
-    "announcementText": "Normal working day",
-    "originalPostUrl": "",
-    "announcedAt": "",
-    "holidayDate": "",
+    "isHoliday": true,
+    "announcementText": "സംസ്ഥാനത്ത് പൊതുവെ ചൂട് വർധിച്ചു വരുന്ന സാഹചര്യത്തിൽ പൊതുജനങ്ങൾക്കായി സംസ്ഥാന ദുരന്ത നിവാരണ അതോറിറ്റി പുറപ്പെടുവിക്കുന്ന ജാഗ്രത നിർദേശങ്ങൾ.",
+    "originalPostUrl": "https://www.facebook.com/105782160780355_1404657065182114",
+    "announcedAt": "Sat, 12 Sep 2026 07:28:56 +0000",
+    "holidayDate": "13/09/2026",
     "hasConfiguredFeed": true,
-    "sourceBadge": "",
+    "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Yellow Alert",
-    "holidayScope": "",
-    "lastChecked": "2026-09-12T23:20:06.945Z"
+    "holidayScope": "Full District Holiday",
+    "lastChecked": "2026-09-13T01:14:06.770Z"
   },
   "MPM": {
     "name": "Malappuram",
@@ -179,7 +179,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-12T23:20:09.170Z"
+    "lastChecked": "2026-09-13T01:14:07.040Z"
   },
   "KSG": {
     "name": "Kasaragod",
@@ -193,6 +193,6 @@
     "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Yellow Alert",
     "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-09-12T23:20:10.863Z"
+    "lastChecked": "2026-09-13T01:14:11.507Z"
   }
 }
