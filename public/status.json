@@ -11,7 +11,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-13T01:13:59.735Z"
+    "lastChecked": "2026-09-13T06:09:48.527Z"
   },
   "KLM": {
     "name": "Kollam",
@@ -25,7 +25,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-13T01:14:00.838Z"
+    "lastChecked": "2026-09-13T06:09:48.625Z"
   },
   "PTA": {
     "name": "Pathanamthitta",
@@ -39,7 +39,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-13T01:14:01.863Z"
+    "lastChecked": "2026-09-13T06:09:48.722Z"
   },
   "ALP": {
     "name": "Alappuzha",
@@ -53,7 +53,7 @@
     "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Yellow Alert",
     "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-09-13T01:14:03.009Z"
+    "lastChecked": "2026-09-13T06:09:48.818Z"
   },
   "KTM": {
     "name": "Kottayam",
@@ -67,7 +67,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-13T01:14:03.146Z"
+    "lastChecked": "2026-09-13T06:09:48.915Z"
   },
   "IDK": {
     "name": "Idukki",
@@ -81,7 +81,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-13T01:14:04.274Z"
+    "lastChecked": "2026-09-13T06:09:49.012Z"
   },
   "EKM": {
     "name": "Ernakulam",
@@ -95,7 +95,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-13T01:14:05.533Z"
+    "lastChecked": "2026-09-13T06:09:49.108Z"
   },
   "PKD": {
     "name": "Palakkad",
@@ -109,7 +109,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-13T01:14:06.904Z"
+    "lastChecked": "2026-09-13T06:09:49.300Z"
   },
   "KKD": {
     "name": "Kozhikode",
@@ -123,21 +123,21 @@
     "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Yellow Alert",
     "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-09-13T01:14:08.244Z"
+    "lastChecked": "2026-09-13T06:09:49.492Z"
   },
   "WYD": {
     "name": "Wayanad",
     "handle": "@wayanadcollector",
-    "isHoliday": true,
-    "announcementText": "",
-    "originalPostUrl": "https://www.facebook.com/278429812621016_1382494627374605",
-    "announcedAt": "Fri, 11 Sep 2026 02:17:42 +0000",
-    "holidayDate": "11/09/2026",
+    "isHoliday": false,
+    "announcementText": "Normal working day",
+    "originalPostUrl": "",
+    "announcedAt": "",
+    "holidayDate": "",
     "hasConfiguredFeed": true,
-    "sourceBadge": "District Collector Official (FB)",
+    "sourceBadge": "",
     "metStatus": "Yellow Alert",
-    "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-09-13T01:14:09.919Z"
+    "holidayScope": "",
+    "lastChecked": "2026-09-13T06:09:49.588Z"
   },
   "KNR": {
     "name": "Kannur",
@@ -151,7 +151,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-13T01:14:11.373Z"
+    "lastChecked": "2026-09-13T06:09:49.684Z"
   },
   "TSR": {
     "name": "Thrissur",
@@ -165,7 +165,7 @@
     "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Yellow Alert",
     "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-09-13T01:14:06.770Z"
+    "lastChecked": "2026-09-13T06:09:49.204Z"
   },
   "MPM": {
     "name": "Malappuram",
@@ -179,20 +179,20 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-13T01:14:07.040Z"
+    "lastChecked": "2026-09-13T06:09:49.397Z"
   },
   "KSG": {
     "name": "Kasaragod",
     "handle": "@CollectorKasaragod",
-    "isHoliday": true,
-    "announcementText": "പിആർഡിയിൽ ഇൻഫർമേഷൻ അസിസ്റ്റൻറുമാരുടെ പാനലിലേക്ക് അപേക്ഷിക്കാം",
-    "originalPostUrl": "https://www.facebook.com/362232614156637_1637746211046993",
-    "announcedAt": "Fri, 11 Sep 2026 06:00:10 +0000",
-    "holidayDate": "11/09/2026",
+    "isHoliday": false,
+    "announcementText": "Normal working day",
+    "originalPostUrl": "",
+    "announcedAt": "",
+    "holidayDate": "",
     "hasConfiguredFeed": true,
-    "sourceBadge": "District Collector Official (FB)",
+    "sourceBadge": "",
     "metStatus": "Yellow Alert",
-    "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-09-13T01:14:11.507Z"
+    "holidayScope": "",
+    "lastChecked": "2026-09-13T06:09:49.780Z"
   }
 }
