@@ -11,7 +11,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-14T23:27:38.549Z"
+    "lastChecked": "2026-09-15T01:39:52.205Z"
   },
   "KLM": {
     "name": "Kollam",
@@ -25,7 +25,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-14T23:27:38.645Z"
+    "lastChecked": "2026-09-15T01:39:52.330Z"
   },
   "PTA": {
     "name": "Pathanamthitta",
@@ -39,7 +39,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-14T23:27:38.740Z"
+    "lastChecked": "2026-09-15T01:39:52.453Z"
   },
   "ALP": {
     "name": "Alappuzha",
@@ -53,7 +53,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-14T23:27:38.833Z"
+    "lastChecked": "2026-09-15T01:39:52.575Z"
   },
   "KTM": {
     "name": "Kottayam",
@@ -67,7 +67,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-14T23:27:38.926Z"
+    "lastChecked": "2026-09-15T01:39:53.518Z"
   },
   "IDK": {
     "name": "Idukki",
@@ -81,7 +81,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-14T23:27:39.021Z"
+    "lastChecked": "2026-09-15T01:39:53.641Z"
   },
   "EKM": {
     "name": "Ernakulam",
@@ -95,7 +95,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-14T23:27:39.115Z"
+    "lastChecked": "2026-09-15T01:39:53.764Z"
   },
   "PKD": {
     "name": "Palakkad",
@@ -109,7 +109,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-14T23:27:39.301Z"
+    "lastChecked": "2026-09-15T01:39:54.793Z"
   },
   "KKD": {
     "name": "Kozhikode",
@@ -123,7 +123,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-14T23:27:39.487Z"
+    "lastChecked": "2026-09-15T01:39:56.314Z"
   },
   "WYD": {
     "name": "Wayanad",
@@ -137,7 +137,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-14T23:27:39.580Z"
+    "lastChecked": "2026-09-15T01:39:56.435Z"
   },
   "KNR": {
     "name": "Kannur",
@@ -151,7 +151,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-14T23:27:39.673Z"
+    "lastChecked": "2026-09-15T01:39:56.557Z"
   },
   "TSR": {
     "name": "Thrissur",
@@ -165,34 +165,34 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-14T23:27:39.208Z"
+    "lastChecked": "2026-09-15T01:39:53.886Z"
   },
   "MPM": {
     "name": "Malappuram",
     "handle": "@malappuramcollector",
-    "isHoliday": false,
-    "announcementText": "Normal working day",
-    "originalPostUrl": "",
-    "announcedAt": "",
-    "holidayDate": "",
+    "isHoliday": true,
+    "announcementText": "മലേഷ്യൻ പ്രധാനമന്ത്രി ബഹുമാനപ്പെട്ട അൻവർ ഇബ്രാഹിമിനെയും ബഹുമാനപ്പെട്ട സംസ്ഥാന മുഖ്യമന്ത്രി ശ്രീ. വി.ഡി. സതീശനെയും ചേലേമ്പ്ര 'തുല' വെൽനെസ്സ് സെന്ററിൽ വരവേൽക്കാൻ സാധിച്ചതിൽ ഏറെ സന്തോഷമുണ്ട്. ജില്ലാ ഭരണകൂടത്തിന്റെ നേതൃത്വത്തിൽ ഇരുവരെയും ഔദ്യോഗികമായി സ്വീകരിച്ചു.",
+    "originalPostUrl": "https://www.facebook.com/990649497647157_1643501750467940",
+    "announcedAt": "Mon, 14 Sep 2026 12:09:42 +0000",
+    "holidayDate": "15/09/2026",
     "hasConfiguredFeed": true,
-    "sourceBadge": "",
+    "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Yellow Alert",
-    "holidayScope": "",
-    "lastChecked": "2026-09-14T23:27:39.394Z"
+    "holidayScope": "Full District Holiday",
+    "lastChecked": "2026-09-15T01:39:56.193Z"
   },
   "KSG": {
     "name": "Kasaragod",
     "handle": "@CollectorKasaragod",
-    "isHoliday": false,
-    "announcementText": "Normal working day",
-    "originalPostUrl": "",
-    "announcedAt": "",
-    "holidayDate": "",
+    "isHoliday": true,
+    "announcementText": "പരപ്പആസ്പിരേഷന്‍ ബ്ലോക്ക് പ്രോഗ്രാം അവലോകനം ചെയ്തു",
+    "originalPostUrl": "https://www.facebook.com/362232614156637_1640738584081089",
+    "announcedAt": "Mon, 14 Sep 2026 16:02:58 +0000",
+    "holidayDate": "15/09/2026",
     "hasConfiguredFeed": true,
-    "sourceBadge": "",
+    "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Yellow Alert",
-    "holidayScope": "",
-    "lastChecked": "2026-09-14T23:27:39.766Z"
+    "holidayScope": "Full District Holiday",
+    "lastChecked": "2026-09-15T01:39:57.827Z"
   }
 }
