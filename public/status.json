@@ -11,7 +11,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-16T10:09:20.776Z"
+    "lastChecked": "2026-09-16T14:56:11.667Z"
   },
   "KLM": {
     "name": "Kollam",
@@ -25,7 +25,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-16T10:09:21.814Z"
+    "lastChecked": "2026-09-16T14:56:11.784Z"
   },
   "PTA": {
     "name": "Pathanamthitta",
@@ -39,7 +39,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-16T10:09:22.799Z"
+    "lastChecked": "2026-09-16T14:56:11.898Z"
   },
   "ALP": {
     "name": "Alappuzha",
@@ -53,7 +53,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-16T10:09:23.792Z"
+    "lastChecked": "2026-09-16T14:56:12.011Z"
   },
   "KTM": {
     "name": "Kottayam",
@@ -67,7 +67,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-16T10:09:23.884Z"
+    "lastChecked": "2026-09-16T14:56:12.124Z"
   },
   "IDK": {
     "name": "Idukki",
@@ -81,7 +81,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-16T10:09:24.723Z"
+    "lastChecked": "2026-09-16T14:56:12.238Z"
   },
   "EKM": {
     "name": "Ernakulam",
@@ -95,7 +95,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-16T10:09:25.790Z"
+    "lastChecked": "2026-09-16T14:56:12.352Z"
   },
   "PKD": {
     "name": "Palakkad",
@@ -109,7 +109,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-16T10:09:26.914Z"
+    "lastChecked": "2026-09-16T14:56:12.577Z"
   },
   "KKD": {
     "name": "Kozhikode",
@@ -123,7 +123,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-16T10:09:27.950Z"
+    "lastChecked": "2026-09-16T14:56:12.801Z"
   },
   "WYD": {
     "name": "Wayanad",
@@ -137,7 +137,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-16T10:09:29.099Z"
+    "lastChecked": "2026-09-16T14:56:12.913Z"
   },
   "KNR": {
     "name": "Kannur",
@@ -151,7 +151,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-16T10:09:30.230Z"
+    "lastChecked": "2026-09-16T14:56:13.027Z"
   },
   "TSR": {
     "name": "Thrissur",
@@ -165,21 +165,21 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-16T10:09:26.822Z"
+    "lastChecked": "2026-09-16T14:56:12.464Z"
   },
   "MPM": {
     "name": "Malappuram",
     "handle": "@malappuramcollector",
-    "isHoliday": true,
-    "announcementText": "മലേഷ്യൻ പ്രധാനമന്ത്രി ബഹുമാനപ്പെട്ട അൻവർ ഇബ്രാഹിമിനെയും ബഹുമാനപ്പെട്ട സംസ്ഥാന മുഖ്യമന്ത്രി ശ്രീ. വി.ഡി. സതീശനെയും ചേലേമ്പ്ര 'തുല' വെൽനെസ്സ് സെന്ററിൽ വരവേൽക്കാൻ സാധിച്ചതിൽ ഏറെ സന്തോഷമുണ്ട്. ജില്ലാ ഭരണകൂടത്തിന്റെ നേതൃത്വത്തിൽ ഇരുവരെയും ഔദ്യോഗികമായി സ്വീകരിച്ചു.",
-    "originalPostUrl": "https://www.facebook.com/990649497647157_1643501750467940",
-    "announcedAt": "Mon, 14 Sep 2026 12:09:42 +0000",
-    "holidayDate": "15/09/2026",
+    "isHoliday": false,
+    "announcementText": "Normal working day",
+    "originalPostUrl": "",
+    "announcedAt": "",
+    "holidayDate": "",
     "hasConfiguredFeed": true,
-    "sourceBadge": "District Collector Official (FB)",
+    "sourceBadge": "",
     "metStatus": "",
-    "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-09-16T10:09:27.006Z"
+    "holidayScope": "",
+    "lastChecked": "2026-09-16T14:56:12.689Z"
   },
   "KSG": {
     "name": "Kasaragod",
@@ -193,6 +193,6 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-16T10:09:30.321Z"
+    "lastChecked": "2026-09-16T14:56:13.139Z"
   }
 }
