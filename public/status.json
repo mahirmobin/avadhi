@@ -11,7 +11,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-23T14:27:03.779Z"
+    "lastChecked": "2026-09-23T18:29:56.466Z"
   },
   "KLM": {
     "name": "Kollam",
@@ -25,7 +25,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-23T14:27:03.938Z"
+    "lastChecked": "2026-09-23T18:29:56.591Z"
   },
   "PTA": {
     "name": "Pathanamthitta",
@@ -39,7 +39,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-23T14:27:04.092Z"
+    "lastChecked": "2026-09-23T18:29:56.714Z"
   },
   "ALP": {
     "name": "Alappuzha",
@@ -53,7 +53,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-23T14:27:04.248Z"
+    "lastChecked": "2026-09-23T18:29:56.836Z"
   },
   "KTM": {
     "name": "Kottayam",
@@ -67,7 +67,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-23T14:27:04.402Z"
+    "lastChecked": "2026-09-23T18:29:57.835Z"
   },
   "IDK": {
     "name": "Idukki",
@@ -81,7 +81,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-23T14:27:04.558Z"
+    "lastChecked": "2026-09-23T18:29:57.959Z"
   },
   "EKM": {
     "name": "Ernakulam",
@@ -95,7 +95,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-23T14:27:04.714Z"
+    "lastChecked": "2026-09-23T18:29:58.082Z"
   },
   "PKD": {
     "name": "Palakkad",
@@ -109,7 +109,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-23T14:27:05.023Z"
+    "lastChecked": "2026-09-23T18:29:59.128Z"
   },
   "KKD": {
     "name": "Kozhikode",
@@ -123,7 +123,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-23T14:27:05.332Z"
+    "lastChecked": "2026-09-23T18:30:00.666Z"
   },
   "WYD": {
     "name": "Wayanad",
@@ -137,7 +137,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-23T14:27:05.487Z"
+    "lastChecked": "2026-09-23T18:30:00.787Z"
   },
   "KNR": {
     "name": "Kannur",
@@ -151,7 +151,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-23T14:27:05.642Z"
+    "lastChecked": "2026-09-23T18:30:00.910Z"
   },
   "TSR": {
     "name": "Thrissur",
@@ -165,7 +165,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-23T14:27:04.869Z"
+    "lastChecked": "2026-09-23T18:29:58.205Z"
   },
   "MPM": {
     "name": "Malappuram",
@@ -179,20 +179,20 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-23T14:27:05.178Z"
+    "lastChecked": "2026-09-23T18:30:00.544Z"
   },
   "KSG": {
     "name": "Kasaragod",
     "handle": "@CollectorKasaragod",
-    "isHoliday": false,
-    "announcementText": "Normal working day",
-    "originalPostUrl": "",
-    "announcedAt": "",
-    "holidayDate": "",
+    "isHoliday": true,
+    "announcementText": "മുഖ്യ തെരഞ്ഞെടുപ്പ് ഓഫീസർ ഇലക്ഷൻ വെയർഹൗസ് സന്ദർശിച്ചു അവലോകന യോഗം ചേർന്നു",
+    "originalPostUrl": "https://www.facebook.com/362232614156637_1648467323308215",
+    "announcedAt": "Wed, 23 Sep 2026 14:12:40 +0000",
+    "holidayDate": "24/09/2026",
     "hasConfiguredFeed": true,
-    "sourceBadge": "",
+    "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Yellow Alert",
-    "holidayScope": "",
-    "lastChecked": "2026-09-23T14:27:05.796Z"
+    "holidayScope": "Full District Holiday",
+    "lastChecked": "2026-09-23T18:30:02.049Z"
   }
 }
