@@ -11,7 +11,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-24T23:39:34.041Z"
+    "lastChecked": "2026-09-25T01:53:27.875Z"
   },
   "KLM": {
     "name": "Kollam",
@@ -25,7 +25,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-24T23:39:34.307Z"
+    "lastChecked": "2026-09-25T01:53:28.999Z"
   },
   "PTA": {
     "name": "Pathanamthitta",
@@ -39,7 +39,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-24T23:39:34.443Z"
+    "lastChecked": "2026-09-25T01:53:30.153Z"
   },
   "ALP": {
     "name": "Alappuzha",
@@ -53,7 +53,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-24T23:39:34.577Z"
+    "lastChecked": "2026-09-25T01:53:31.821Z"
   },
   "KTM": {
     "name": "Kottayam",
@@ -67,7 +67,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-24T23:39:34.710Z"
+    "lastChecked": "2026-09-25T01:53:31.929Z"
   },
   "IDK": {
     "name": "Idukki",
@@ -81,21 +81,21 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-24T23:39:34.845Z"
+    "lastChecked": "2026-09-25T01:53:33.031Z"
   },
   "EKM": {
     "name": "Ernakulam",
     "handle": "@ernakulamdc",
-    "isHoliday": false,
-    "announcementText": "Normal working day",
-    "originalPostUrl": "",
-    "announcedAt": "",
-    "holidayDate": "",
+    "isHoliday": true,
+    "announcementText": "ജനകീയ പങ്കാളിത്തവും മൂലധന നിക്ഷേപവും വഴി കേരളത്തെ പുതിയൊരു വികസന യുഗത്തിലേക്ക് നയിക്കുകയാണ് സർക്കാരിന്റെ പ്രധാന ലക്ഷ്യമെന്ന് ബഹു.മുഖ്യമന്ത്രി ശ്രീ.വി. ഡി. സതീശൻ പറഞ്ഞു. സംസ്ഥാന പതിനഞ്ചാം പഞ്ചവത്സര പദ്ധതിയുടെ  ആദ്യ വർഷമായ 2027-28-ലെ പദ്ധതി നിർദ്ദേശങ്ങൾ ജനപങ്കാളിത്തത്തോടെ രൂപീകരിക്കുന്നതിനായി എറണാകുളം ജില്ലാ ഉന്നത തല യോഗം  കാക്കനാട് ഇൻഫോപാർക്കിലെ അതുല്യ ഓഡിറ്റോറിയത്തിൽ ഉദ്ഘാടനം നിർവഹിച്ചു സംസാരിക്കുകയായിരുന്നു അദ്ദേഹം.",
+    "originalPostUrl": "https://www.facebook.com/233008147097016_1840214674248608",
+    "announcedAt": "Thu, 24 Sep 2026 13:29:26 +0000",
+    "holidayDate": "25/09/2026",
     "hasConfiguredFeed": true,
-    "sourceBadge": "",
+    "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Yellow Alert",
-    "holidayScope": "",
-    "lastChecked": "2026-09-24T23:39:34.979Z"
+    "holidayScope": "Full District Holiday",
+    "lastChecked": "2026-09-25T01:53:34.216Z"
   },
   "PKD": {
     "name": "Palakkad",
@@ -109,7 +109,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-24T23:39:35.247Z"
+    "lastChecked": "2026-09-25T01:53:35.798Z"
   },
   "KKD": {
     "name": "Kozhikode",
@@ -123,7 +123,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-24T23:39:35.513Z"
+    "lastChecked": "2026-09-25T01:53:36.693Z"
   },
   "WYD": {
     "name": "Wayanad",
@@ -137,7 +137,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-24T23:39:35.646Z"
+    "lastChecked": "2026-09-25T01:53:37.867Z"
   },
   "KNR": {
     "name": "Kannur",
@@ -151,7 +151,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-24T23:39:35.780Z"
+    "lastChecked": "2026-09-25T01:53:40.739Z"
   },
   "TSR": {
     "name": "Thrissur",
@@ -165,7 +165,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-24T23:39:35.113Z"
+    "lastChecked": "2026-09-25T01:53:35.689Z"
   },
   "MPM": {
     "name": "Malappuram",
@@ -179,7 +179,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-24T23:39:35.380Z"
+    "lastChecked": "2026-09-25T01:53:35.908Z"
   },
   "KSG": {
     "name": "Kasaragod",
@@ -193,6 +193,6 @@
     "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Yellow Alert",
     "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-09-24T23:39:35.913Z"
+    "lastChecked": "2026-09-25T01:53:40.848Z"
   }
 }
