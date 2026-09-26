@@ -11,7 +11,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-25T23:32:05.349Z"
+    "lastChecked": "2026-09-26T01:58:20.757Z"
   },
   "KLM": {
     "name": "Kollam",
@@ -25,7 +25,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-25T23:32:05.533Z"
+    "lastChecked": "2026-09-26T01:58:22.058Z"
   },
   "PTA": {
     "name": "Pathanamthitta",
@@ -39,7 +39,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-25T23:32:05.625Z"
+    "lastChecked": "2026-09-26T01:58:23.196Z"
   },
   "ALP": {
     "name": "Alappuzha",
@@ -53,7 +53,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-25T23:32:05.716Z"
+    "lastChecked": "2026-09-26T01:58:24.369Z"
   },
   "KTM": {
     "name": "Kottayam",
@@ -67,7 +67,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-25T23:32:06.609Z"
+    "lastChecked": "2026-09-26T01:58:24.494Z"
   },
   "IDK": {
     "name": "Idukki",
@@ -81,21 +81,21 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-25T23:32:06.702Z"
+    "lastChecked": "2026-09-26T01:58:25.449Z"
   },
   "EKM": {
     "name": "Ernakulam",
     "handle": "@ernakulamdc",
     "isHoliday": true,
-    "announcementText": "ജനകീയ പങ്കാളിത്തവും മൂലധന നിക്ഷേപവും വഴി കേരളത്തെ പുതിയൊരു വികസന യുഗത്തിലേക്ക് നയിക്കുകയാണ് സർക്കാരിന്റെ പ്രധാന ലക്ഷ്യമെന്ന് ബഹു.മുഖ്യമന്ത്രി ശ്രീ.വി. ഡി. സതീശൻ പറഞ്ഞു. സംസ്ഥാന പതിനഞ്ചാം പഞ്ചവത്സര പദ്ധതിയുടെ  ആദ്യ വർഷമായ 2027-28-ലെ പദ്ധതി നിർദ്ദേശങ്ങൾ ജനപങ്കാളിത്തത്തോടെ രൂപീകരിക്കുന്നതിനായി എറണാകുളം ജില്ലാ ഉന്നത തല യോഗം  കാക്കനാട് ഇൻഫോപാർക്കിലെ അതുല്യ ഓഡിറ്റോറിയത്തിൽ ഉദ്ഘാടനം നിർവഹിച്ചു സംസാരിക്കുകയായിരുന്നു അദ്ദേഹം.",
-    "originalPostUrl": "https://www.facebook.com/233008147097016_1840214674248608",
-    "announcedAt": "Thu, 24 Sep 2026 13:29:26 +0000",
-    "holidayDate": "25/09/2026",
+    "announcementText": "ജില്ലയിലെ 48 ശിശു സംരക്ഷണ സ്ഥാപനങ്ങളിൽ നിന്നും കഴിഞ്ഞ അധ്യയന വർഷത്തിൽ എസ് എസ് എൽ സി, പ്ലസ് ടു പരീക്ഷകളിൽ മികച്ച വിജയം കൈവരിച്ച വിദ്യാർത്ഥികളെ  ആദരിക്കുന്ന ചടങ്ങ് 'ചിറക്' കാക്കനാട് കളക്ടറേറ്റ് കോൺഫറൻസ് ഹാളിൽ ബഹു. ഉന്നത വിദ്യാഭ്യാസ വകുപ്പ് മന്ത്രി ശ്രീ. റോജി എം ജോൺ ഉദ്ഘാടനം ചെയ്തു .",
+    "originalPostUrl": "https://www.facebook.com/233008147097016_1841558794114196",
+    "announcedAt": "Fri, 25 Sep 2026 16:43:38 +0000",
+    "holidayDate": "26/09/2026",
     "hasConfiguredFeed": true,
     "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Yellow Alert",
     "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-09-25T23:32:06.795Z"
+    "lastChecked": "2026-09-26T01:58:26.763Z"
   },
   "PKD": {
     "name": "Palakkad",
@@ -109,7 +109,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-25T23:32:07.617Z"
+    "lastChecked": "2026-09-26T01:58:28.320Z"
   },
   "KKD": {
     "name": "Kozhikode",
@@ -123,7 +123,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-25T23:32:08.872Z"
+    "lastChecked": "2026-09-26T01:58:29.236Z"
   },
   "WYD": {
     "name": "Wayanad",
@@ -137,7 +137,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-25T23:32:08.965Z"
+    "lastChecked": "2026-09-26T01:58:30.621Z"
   },
   "KNR": {
     "name": "Kannur",
@@ -151,7 +151,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-25T23:32:09.058Z"
+    "lastChecked": "2026-09-26T01:58:32.205Z"
   },
   "TSR": {
     "name": "Thrissur",
@@ -165,7 +165,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-25T23:32:06.887Z"
+    "lastChecked": "2026-09-26T01:58:28.197Z"
   },
   "MPM": {
     "name": "Malappuram",
@@ -179,7 +179,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-25T23:32:08.778Z"
+    "lastChecked": "2026-09-26T01:58:28.444Z"
   },
   "KSG": {
     "name": "Kasaragod",
@@ -193,6 +193,6 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-25T23:32:09.917Z"
+    "lastChecked": "2026-09-26T01:58:32.329Z"
   }
 }
