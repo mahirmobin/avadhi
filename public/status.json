@@ -2,16 +2,16 @@
   "TVM": {
     "name": "Thiruvananthapuram",
     "handle": "@Dist_Admin_Tvm",
-    "isHoliday": true,
-    "announcementText": "കളക്ടേഴ്‌സ് സൂപ്പര്‍ 100: രക്ഷാകര്‍തൃ സംഗമം സംഘടിപ്പിച്ചു*",
-    "originalPostUrl": "https://www.facebook.com/1491635491151987_1629161268579563",
-    "announcedAt": "Sat, 26 Sep 2026 15:10:56 +0000",
-    "holidayDate": "27/09/2026",
+    "isHoliday": false,
+    "announcementText": "Normal working day",
+    "originalPostUrl": "",
+    "announcedAt": "",
+    "holidayDate": "",
     "hasConfiguredFeed": true,
-    "sourceBadge": "District Collector Official (FB)",
+    "sourceBadge": "",
     "metStatus": "Yellow Alert",
-    "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-09-28T12:17:24.131Z"
+    "holidayScope": "",
+    "lastChecked": "2026-09-28T19:45:24.167Z"
   },
   "KLM": {
     "name": "Kollam",
@@ -25,7 +25,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-28T12:17:24.250Z"
+    "lastChecked": "2026-09-28T19:45:24.263Z"
   },
   "PTA": {
     "name": "Pathanamthitta",
@@ -39,7 +39,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-28T12:17:24.367Z"
+    "lastChecked": "2026-09-28T19:45:24.355Z"
   },
   "ALP": {
     "name": "Alappuzha",
@@ -53,7 +53,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-28T12:17:24.484Z"
+    "lastChecked": "2026-09-28T19:45:24.446Z"
   },
   "KTM": {
     "name": "Kottayam",
@@ -67,7 +67,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-28T12:17:24.601Z"
+    "lastChecked": "2026-09-28T19:45:24.537Z"
   },
   "IDK": {
     "name": "Idukki",
@@ -81,21 +81,21 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-28T12:17:24.719Z"
+    "lastChecked": "2026-09-28T19:45:24.633Z"
   },
   "EKM": {
     "name": "Ernakulam",
     "handle": "@ernakulamdc",
-    "isHoliday": true,
-    "announcementText": "കേരള വാട്ടർ അതോറിറ്റി കുടിവെളളം വിതരണം ചെയ്യുമ്പോൾ വെള്ളത്തിൻ്റെ ചാർജ് കൂടാതെ അഡ്‌മിനിസ്‌ട്രേറ്റീവ് ചാർജും ഈടാക്കുന്നത് ഒഴിവാക്കണമെന്ന് ജില്ലാ വികസന സമിതി യോഗത്തിൽ പ്രമേയം. ബഹു. എം എൽ എ ശ്രീ.ടി ജെ വിനോദ്  അവതരിപ്പിച്ച പ്രമേയം ബഹു. എം എൽ എ ശ്രീ.ഷിബു തെക്കുംപുറം  പിന്താങ്ങി. പ്രമേയം വ്യക്തമാക്കി സർക്കാരിലേക്ക് അടിയന്തരമായി കത്ത് അയക്കുമെന്നും ടി ജെ വിനോദ് എം എൽ എ  പറഞ്ഞു. വടുതല, പച്ചാളം, ചേരാനല്ലൂർ, അയ്യപ്പൻകാവ് എന്നീ മേഖലകളിലെ ജലക്ഷാമത്തിന് വേഗത്തിൽ പരിഹാരം കാണണമെന്നും അദ്ദേഹം ആവശ്യപ്പെട്ടു.",
-    "originalPostUrl": "https://www.facebook.com/233008147097016_1842670520669690",
-    "announcedAt": "Sat, 26 Sep 2026 16:26:59 +0000",
-    "holidayDate": "27/09/2026",
+    "isHoliday": false,
+    "announcementText": "Normal working day",
+    "originalPostUrl": "",
+    "announcedAt": "",
+    "holidayDate": "",
     "hasConfiguredFeed": true,
-    "sourceBadge": "District Collector Official (FB)",
+    "sourceBadge": "",
     "metStatus": "Yellow Alert",
-    "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-09-28T12:17:24.837Z"
+    "holidayScope": "",
+    "lastChecked": "2026-09-28T19:45:24.728Z"
   },
   "PKD": {
     "name": "Palakkad",
@@ -109,7 +109,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-28T12:17:25.072Z"
+    "lastChecked": "2026-09-28T19:45:24.911Z"
   },
   "KKD": {
     "name": "Kozhikode",
@@ -123,7 +123,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-28T12:17:25.306Z"
+    "lastChecked": "2026-09-28T19:45:25.094Z"
   },
   "WYD": {
     "name": "Wayanad",
@@ -137,7 +137,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-28T12:17:25.422Z"
+    "lastChecked": "2026-09-28T19:45:25.184Z"
   },
   "KNR": {
     "name": "Kannur",
@@ -151,7 +151,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-28T12:17:25.539Z"
+    "lastChecked": "2026-09-28T19:45:25.277Z"
   },
   "TSR": {
     "name": "Thrissur",
@@ -165,7 +165,7 @@
     "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Yellow Alert",
     "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-09-28T12:17:24.954Z"
+    "lastChecked": "2026-09-28T19:45:24.821Z"
   },
   "MPM": {
     "name": "Malappuram",
@@ -179,7 +179,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-28T12:17:25.188Z"
+    "lastChecked": "2026-09-28T19:45:25.003Z"
   },
   "KSG": {
     "name": "Kasaragod",
@@ -193,6 +193,6 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-28T12:17:25.655Z"
+    "lastChecked": "2026-09-28T19:45:25.367Z"
   }
 }
