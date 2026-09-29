@@ -11,7 +11,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-29T03:55:33.032Z"
+    "lastChecked": "2026-09-29T10:13:52.507Z"
   },
   "KLM": {
     "name": "Kollam",
@@ -25,7 +25,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-29T03:55:33.140Z"
+    "lastChecked": "2026-09-29T10:13:53.674Z"
   },
   "PTA": {
     "name": "Pathanamthitta",
@@ -39,7 +39,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-29T03:55:33.247Z"
+    "lastChecked": "2026-09-29T10:13:54.936Z"
   },
   "ALP": {
     "name": "Alappuzha",
@@ -53,7 +53,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-29T03:55:33.354Z"
+    "lastChecked": "2026-09-29T10:13:56.110Z"
   },
   "KTM": {
     "name": "Kottayam",
@@ -67,7 +67,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-29T03:55:34.101Z"
+    "lastChecked": "2026-09-29T10:13:56.232Z"
   },
   "IDK": {
     "name": "Idukki",
@@ -81,7 +81,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-29T03:55:34.208Z"
+    "lastChecked": "2026-09-29T10:13:57.566Z"
   },
   "EKM": {
     "name": "Ernakulam",
@@ -95,7 +95,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-29T03:55:34.316Z"
+    "lastChecked": "2026-09-29T10:13:58.931Z"
   },
   "PKD": {
     "name": "Palakkad",
@@ -109,7 +109,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-29T03:55:36.076Z"
+    "lastChecked": "2026-09-29T10:14:00.792Z"
   },
   "KKD": {
     "name": "Kozhikode",
@@ -123,7 +123,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-29T03:55:38.632Z"
+    "lastChecked": "2026-09-29T10:14:01.862Z"
   },
   "WYD": {
     "name": "Wayanad",
@@ -137,21 +137,21 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-29T03:55:38.739Z"
+    "lastChecked": "2026-09-29T10:14:03.184Z"
   },
   "KNR": {
     "name": "Kannur",
     "handle": "@collector.kannur",
-    "isHoliday": false,
-    "announcementText": "Normal working day",
-    "originalPostUrl": "",
-    "announcedAt": "",
-    "holidayDate": "",
+    "isHoliday": true,
+    "announcementText": "സംസ്ഥാന ടെക്നിക്കൽ ഹൈസ്കൂൾ കലോത്സവം; ലോഗോ പ്രകാശനം ചെയ്തു.",
+    "originalPostUrl": "https://www.facebook.com/745473162216207_1528364239333087",
+    "announcedAt": "Mon, 28 Sep 2026 16:49:36 +0000",
+    "holidayDate": "29/09/2026",
     "hasConfiguredFeed": true,
-    "sourceBadge": "",
+    "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Yellow Alert",
-    "holidayScope": "",
-    "lastChecked": "2026-09-29T03:55:38.847Z"
+    "holidayScope": "Full District Holiday",
+    "lastChecked": "2026-09-29T10:14:05.053Z"
   },
   "TSR": {
     "name": "Thrissur",
@@ -165,7 +165,7 @@
     "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Yellow Alert",
     "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-09-29T03:55:34.423Z"
+    "lastChecked": "2026-09-29T10:14:00.670Z"
   },
   "MPM": {
     "name": "Malappuram",
@@ -179,7 +179,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-29T03:55:38.524Z"
+    "lastChecked": "2026-09-29T10:14:00.916Z"
   },
   "KSG": {
     "name": "Kasaragod",
@@ -193,6 +193,6 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-09-29T03:55:40.107Z"
+    "lastChecked": "2026-09-29T10:14:05.176Z"
   }
 }
