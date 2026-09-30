@@ -9,9 +9,9 @@
     "holidayDate": "",
     "hasConfiguredFeed": true,
     "sourceBadge": "",
-    "metStatus": "Yellow Alert",
+    "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-30T05:46:04.433Z"
+    "lastChecked": "2026-09-30T11:32:11.487Z"
   },
   "KLM": {
     "name": "Kollam",
@@ -23,9 +23,9 @@
     "holidayDate": "",
     "hasConfiguredFeed": true,
     "sourceBadge": "",
-    "metStatus": "Yellow Alert",
+    "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-30T05:46:04.530Z"
+    "lastChecked": "2026-09-30T11:32:13.119Z"
   },
   "PTA": {
     "name": "Pathanamthitta",
@@ -37,9 +37,9 @@
     "holidayDate": "",
     "hasConfiguredFeed": true,
     "sourceBadge": "",
-    "metStatus": "Yellow Alert",
+    "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-30T05:46:04.625Z"
+    "lastChecked": "2026-09-30T11:32:14.536Z"
   },
   "ALP": {
     "name": "Alappuzha",
@@ -51,9 +51,9 @@
     "holidayDate": "",
     "hasConfiguredFeed": true,
     "sourceBadge": "",
-    "metStatus": "Yellow Alert",
+    "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-30T05:46:04.720Z"
+    "lastChecked": "2026-09-30T11:32:16.776Z"
   },
   "KTM": {
     "name": "Kottayam",
@@ -65,9 +65,9 @@
     "holidayDate": "",
     "hasConfiguredFeed": true,
     "sourceBadge": "",
-    "metStatus": "Yellow Alert",
+    "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-30T05:46:05.663Z"
+    "lastChecked": "2026-09-30T11:32:16.866Z"
   },
   "IDK": {
     "name": "Idukki",
@@ -79,23 +79,23 @@
     "holidayDate": "",
     "hasConfiguredFeed": true,
     "sourceBadge": "",
-    "metStatus": "Yellow Alert",
+    "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-30T05:46:05.760Z"
+    "lastChecked": "2026-09-30T11:32:18.321Z"
   },
   "EKM": {
     "name": "Ernakulam",
     "handle": "@ernakulamdc",
-    "isHoliday": false,
-    "announcementText": "Normal working day",
-    "originalPostUrl": "",
-    "announcedAt": "",
-    "holidayDate": "",
+    "isHoliday": true,
+    "announcementText": "നീണ്ട രണ്ട് പതിറ്റാണ്ടുകൾക്ക് ശേഷം ഏഷ്യയിലെ ഏറ്റവും വലിയ കൗമാര കലാമാമാങ്കമായ സംസ്ഥാന സ്കൂൾ കലോത്സവത്തിന് നമ്മുടെ എറണാകുളം ആതിഥേയത്വം വഹിക്കുന്നു. ബഹുമാനപ്പെട്ട പൊതുവിദ്യാഭ്യാസ വകുപ്പുമന്ത്രി ശ്രീ. എൻ. ഷംസുദ്ദീന്റെ അധ്യക്ഷതയിലും ജനപ്രതിനിധികളുടെയും പ്രമുഖരുടെയും സാന്നിധ്യത്തിലും ചേർന്ന സംഘാടക സമിതി രൂപീകരണ യോഗത്തോടെ മേളയുടെ പ്രവർത്തനങ്ങൾക്ക് ഔദ്യോഗികമായി തുടക്കമായി. ജനുവരി 4 മുതൽ 8 വരെയുള്ള അഞ്ച് ദിവസങ്ങളിലായി മറൈൻ ഡ്രൈവ് പ്രധാന വേദിയായും മറ്റ് 27 കേന്ദ്രങ്ങൾ ഉപവേദികളായും പ്രവർത്തിക്കും. നാടിന്റെ വിവിധ ഭാഗങ്ങളിൽ നിന്നായി 249 ഇനങ്ങളിലായി പതിനാലായിരത്തോളം യുവകലാപ്രതിഭകളാണ് എറണാകുളത്ത് മാറ്റുരയ്ക്കാനെത്തുന്നത്. സ്കൂൾ തലം മുതലുള്ള പ്രാഥമിക മത്സരങ്ങൾ സമയബന്ധിതമായി പൂർത്തിയാക്കി, കച്ചേരിപ്പടിയിൽ നിന്ന് ആരംഭിച്ച 65 മുത്തുക്കുടകൾ ഏന്തിയ വർണാഭമായ സാംസ്കാരിക ഘോഷയാത്ര നൽകിയ ഊർജ്ജത്തോടെ, കൊച്ചിയുടെ മണ്ണിലേക്ക് എത്തുന്ന മുഴുവൻ കലാപ്രതിഭകളെയും ജനങ്ങളെയും ഹൃദയപൂർവ്വം സ്വാഗതം ചെയ്യാൻ എറണാകുളം സജ്ജമായിക്കഴിഞ്ഞു.",
+    "originalPostUrl": "https://www.facebook.com/233008147097016_1846535976949811",
+    "announcedAt": "Wed, 30 Sep 2026 07:09:49 +0000",
+    "holidayDate": "01/10/2026",
     "hasConfiguredFeed": true,
-    "sourceBadge": "",
-    "metStatus": "Yellow Alert",
-    "holidayScope": "",
-    "lastChecked": "2026-09-30T05:46:05.858Z"
+    "sourceBadge": "District Collector Official (FB)",
+    "metStatus": "",
+    "holidayScope": "Full District Holiday",
+    "lastChecked": "2026-09-30T11:32:19.943Z"
   },
   "PKD": {
     "name": "Palakkad",
@@ -107,9 +107,9 @@
     "holidayDate": "",
     "hasConfiguredFeed": true,
     "sourceBadge": "",
-    "metStatus": "Yellow Alert",
+    "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-30T05:46:06.960Z"
+    "lastChecked": "2026-09-30T11:32:21.579Z"
   },
   "KKD": {
     "name": "Kozhikode",
@@ -121,9 +121,9 @@
     "holidayDate": "",
     "hasConfiguredFeed": true,
     "sourceBadge": "",
-    "metStatus": "Yellow Alert",
+    "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-30T05:46:10.676Z"
+    "lastChecked": "2026-09-30T11:32:22.934Z"
   },
   "WYD": {
     "name": "Wayanad",
@@ -135,9 +135,9 @@
     "holidayDate": "",
     "hasConfiguredFeed": true,
     "sourceBadge": "",
-    "metStatus": "Yellow Alert",
+    "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-30T05:46:10.771Z"
+    "lastChecked": "2026-09-30T11:32:26.471Z"
   },
   "KNR": {
     "name": "Kannur",
@@ -149,23 +149,23 @@
     "holidayDate": "29/09/2026",
     "hasConfiguredFeed": true,
     "sourceBadge": "District Collector Official (FB)",
-    "metStatus": "Yellow Alert",
+    "metStatus": "",
     "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-09-30T05:46:10.866Z"
+    "lastChecked": "2026-09-30T11:32:28.205Z"
   },
   "TSR": {
     "name": "Thrissur",
     "handle": "@ThrissurCollector",
-    "isHoliday": false,
-    "announcementText": "Normal working day",
-    "originalPostUrl": "",
-    "announcedAt": "",
-    "holidayDate": "",
+    "isHoliday": true,
+    "announcementText": "സ്‌കൂളുകളിലെ നിർമാണപ്രവൃത്തികൾ സമയബന്ധിതമായി പൂർത്തിയാക്കണം: ജില്ലാ കളക്ടർ.",
+    "originalPostUrl": "https://www.facebook.com/105782160780355_1419945296986624",
+    "announcedAt": "Tue, 29 Sep 2026 12:58:36 +0000",
+    "holidayDate": "30/09/2026",
     "hasConfiguredFeed": true,
-    "sourceBadge": "",
-    "metStatus": "Yellow Alert",
-    "holidayScope": "",
-    "lastChecked": "2026-09-30T05:46:05.953Z"
+    "sourceBadge": "District Collector Official (FB)",
+    "metStatus": "",
+    "holidayScope": "Full District Holiday",
+    "lastChecked": "2026-09-30T11:32:21.490Z"
   },
   "MPM": {
     "name": "Malappuram",
@@ -177,9 +177,9 @@
     "holidayDate": "",
     "hasConfiguredFeed": true,
     "sourceBadge": "",
-    "metStatus": "Yellow Alert",
+    "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-30T05:46:10.580Z"
+    "lastChecked": "2026-09-30T11:32:21.669Z"
   },
   "KSG": {
     "name": "Kasaragod",
@@ -191,8 +191,8 @@
     "holidayDate": "",
     "hasConfiguredFeed": true,
     "sourceBadge": "",
-    "metStatus": "Yellow Alert",
+    "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-09-30T05:46:12.555Z"
+    "lastChecked": "2026-09-30T11:32:28.378Z"
   }
 }
