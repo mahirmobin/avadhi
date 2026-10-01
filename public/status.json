@@ -11,7 +11,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-01T06:32:00.441Z"
+    "lastChecked": "2026-10-01T13:53:00.313Z"
   },
   "KLM": {
     "name": "Kollam",
@@ -25,7 +25,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-01T06:32:00.536Z"
+    "lastChecked": "2026-10-01T13:53:02.323Z"
   },
   "PTA": {
     "name": "Pathanamthitta",
@@ -37,9 +37,9 @@
     "holidayDate": "",
     "hasConfiguredFeed": true,
     "sourceBadge": "",
-    "metStatus": "Yellow Alert",
+    "metStatus": "Orange Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-01T06:32:00.629Z"
+    "lastChecked": "2026-10-01T13:53:04.061Z"
   },
   "ALP": {
     "name": "Alappuzha",
@@ -53,7 +53,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-01T06:32:00.721Z"
+    "lastChecked": "2026-10-01T13:53:05.370Z"
   },
   "KTM": {
     "name": "Kottayam",
@@ -65,9 +65,9 @@
     "holidayDate": "",
     "hasConfiguredFeed": true,
     "sourceBadge": "",
-    "metStatus": "Yellow Alert",
+    "metStatus": "Orange Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-01T06:32:01.618Z"
+    "lastChecked": "2026-10-01T13:53:05.524Z"
   },
   "IDK": {
     "name": "Idukki",
@@ -79,9 +79,9 @@
     "holidayDate": "",
     "hasConfiguredFeed": true,
     "sourceBadge": "",
-    "metStatus": "Yellow Alert",
+    "metStatus": "Orange Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-01T06:32:01.712Z"
+    "lastChecked": "2026-10-01T13:53:07.418Z"
   },
   "EKM": {
     "name": "Ernakulam",
@@ -95,7 +95,7 @@
     "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Yellow Alert",
     "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-10-01T06:32:01.806Z"
+    "lastChecked": "2026-10-01T13:53:09.408Z"
   },
   "PKD": {
     "name": "Palakkad",
@@ -109,7 +109,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-01T06:32:02.607Z"
+    "lastChecked": "2026-10-01T13:53:12.440Z"
   },
   "KKD": {
     "name": "Kozhikode",
@@ -123,7 +123,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-01T06:32:04.094Z"
+    "lastChecked": "2026-10-01T13:53:13.837Z"
   },
   "WYD": {
     "name": "Wayanad",
@@ -137,7 +137,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-01T06:32:04.186Z"
+    "lastChecked": "2026-10-01T13:53:15.829Z"
   },
   "KNR": {
     "name": "Kannur",
@@ -151,21 +151,21 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-01T06:32:04.278Z"
+    "lastChecked": "2026-10-01T13:53:18.160Z"
   },
   "TSR": {
     "name": "Thrissur",
     "handle": "@ThrissurCollector",
     "isHoliday": true,
-    "announcementText": "സ്‌കൂളുകളിലെ നിർമാണപ്രവൃത്തികൾ സമയബന്ധിതമായി പൂർത്തിയാക്കണം: ജില്ലാ കളക്ടർ.",
-    "originalPostUrl": "https://www.facebook.com/105782160780355_1419945296986624",
-    "announcedAt": "Tue, 29 Sep 2026 12:58:36 +0000",
-    "holidayDate": "30/09/2026",
+    "announcementText": "മുഖാമുഖം 2.0: മീറ്റ് യുവർ കളക്ടർ പരിപാടിയുടെ 13-ാം അധ്യായത്തിൽ സെപ്റ്റംബർ 30-ന് അമ്മാടം സെന്റ് ആന്റണീസ് ഹയർ സെക്കൻഡറി സ്കൂളിലെ  വിദ്യാർത്ഥികളും അധ്യാപകരും പങ്കെടുത്തു. ജില്ലാ കളക്ടറുമായി നേരിട്ട് സംവദിക്കാനും ജില്ലാ ഭരണസംവിധാനത്തിന്റെ പ്രവർത്തനങ്ങളെക്കുറിച്ച് മനസ്സിലാക്കാനും വിദ്യാർത്ഥികൾക്ക് അവസരം ലഭിച്ചു.",
+    "originalPostUrl": "https://www.facebook.com/105782160780355_1421077016873452",
+    "announcedAt": "Wed, 30 Sep 2026 16:34:42 +0000",
+    "holidayDate": "01/10/2026",
     "hasConfiguredFeed": true,
     "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Yellow Alert",
     "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-10-01T06:32:01.898Z"
+    "lastChecked": "2026-10-01T13:53:12.287Z"
   },
   "MPM": {
     "name": "Malappuram",
@@ -179,7 +179,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-01T06:32:04.003Z"
+    "lastChecked": "2026-10-01T13:53:12.594Z"
   },
   "KSG": {
     "name": "Kasaragod",
@@ -193,6 +193,6 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-01T06:32:05.369Z"
+    "lastChecked": "2026-10-01T13:53:18.463Z"
   }
 }
