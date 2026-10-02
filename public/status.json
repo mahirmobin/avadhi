@@ -11,7 +11,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-02T02:11:45.178Z"
+    "lastChecked": "2026-10-02T08:28:11.374Z"
   },
   "KLM": {
     "name": "Kollam",
@@ -25,7 +25,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-02T02:11:45.313Z"
+    "lastChecked": "2026-10-02T08:28:11.469Z"
   },
   "PTA": {
     "name": "Pathanamthitta",
@@ -37,9 +37,9 @@
     "holidayDate": "",
     "hasConfiguredFeed": true,
     "sourceBadge": "",
-    "metStatus": "Orange Alert",
+    "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-02T02:11:45.448Z"
+    "lastChecked": "2026-10-02T08:28:11.564Z"
   },
   "ALP": {
     "name": "Alappuzha",
@@ -53,7 +53,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-02T02:11:45.584Z"
+    "lastChecked": "2026-10-02T08:28:11.658Z"
   },
   "KTM": {
     "name": "Kottayam",
@@ -65,9 +65,9 @@
     "holidayDate": "",
     "hasConfiguredFeed": true,
     "sourceBadge": "",
-    "metStatus": "Orange Alert",
+    "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-02T02:11:45.717Z"
+    "lastChecked": "2026-10-02T08:28:12.652Z"
   },
   "IDK": {
     "name": "Idukki",
@@ -79,23 +79,23 @@
     "holidayDate": "",
     "hasConfiguredFeed": true,
     "sourceBadge": "",
-    "metStatus": "Orange Alert",
+    "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-02T02:11:45.852Z"
+    "lastChecked": "2026-10-02T08:28:12.746Z"
   },
   "EKM": {
     "name": "Ernakulam",
     "handle": "@ernakulamdc",
-    "isHoliday": true,
-    "announcementText": "നീണ്ട രണ്ട് പതിറ്റാണ്ടുകൾക്ക് ശേഷം ഏഷ്യയിലെ ഏറ്റവും വലിയ കൗമാര കലാമാമാങ്കമായ സംസ്ഥാന സ്കൂൾ കലോത്സവത്തിന് നമ്മുടെ എറണാകുളം ആതിഥേയത്വം വഹിക്കുന്നു. ബഹുമാനപ്പെട്ട പൊതുവിദ്യാഭ്യാസ വകുപ്പുമന്ത്രി ശ്രീ. എൻ. ഷംസുദ്ദീന്റെ അധ്യക്ഷതയിലും ജനപ്രതിനിധികളുടെയും പ്രമുഖരുടെയും സാന്നിധ്യത്തിലും ചേർന്ന സംഘാടക സമിതി രൂപീകരണ യോഗത്തോടെ മേളയുടെ പ്രവർത്തനങ്ങൾക്ക് ഔദ്യോഗികമായി തുടക്കമായി. ജനുവരി 4 മുതൽ 8 വരെയുള്ള അഞ്ച് ദിവസങ്ങളിലായി മറൈൻ ഡ്രൈവ് പ്രധാന വേദിയായും മറ്റ് 27 കേന്ദ്രങ്ങൾ ഉപവേദികളായും പ്രവർത്തിക്കും. നാടിന്റെ വിവിധ ഭാഗങ്ങളിൽ നിന്നായി 249 ഇനങ്ങളിലായി പതിനാലായിരത്തോളം യുവകലാപ്രതിഭകളാണ് എറണാകുളത്ത് മാറ്റുരയ്ക്കാനെത്തുന്നത്. സ്കൂൾ തലം മുതലുള്ള പ്രാഥമിക മത്സരങ്ങൾ സമയബന്ധിതമായി പൂർത്തിയാക്കി, കച്ചേരിപ്പടിയിൽ നിന്ന് ആരംഭിച്ച 65 മുത്തുക്കുടകൾ ഏന്തിയ വർണാഭമായ സാംസ്കാരിക ഘോഷയാത്ര നൽകിയ ഊർജ്ജത്തോടെ, കൊച്ചിയുടെ മണ്ണിലേക്ക് എത്തുന്ന മുഴുവൻ കലാപ്രതിഭകളെയും ജനങ്ങളെയും ഹൃദയപൂർവ്വം സ്വാഗതം ചെയ്യാൻ എറണാകുളം സജ്ജമായിക്കഴിഞ്ഞു.",
-    "originalPostUrl": "https://www.facebook.com/233008147097016_1846535976949811",
-    "announcedAt": "Wed, 30 Sep 2026 07:09:49 +0000",
-    "holidayDate": "01/10/2026",
+    "isHoliday": false,
+    "announcementText": "Normal working day",
+    "originalPostUrl": "",
+    "announcedAt": "",
+    "holidayDate": "",
     "hasConfiguredFeed": true,
-    "sourceBadge": "District Collector Official (FB)",
+    "sourceBadge": "",
     "metStatus": "Yellow Alert",
-    "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-10-02T02:11:45.988Z"
+    "holidayScope": "",
+    "lastChecked": "2026-10-02T08:28:12.840Z"
   },
   "PKD": {
     "name": "Palakkad",
@@ -109,7 +109,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-02T02:11:46.257Z"
+    "lastChecked": "2026-10-02T08:28:13.869Z"
   },
   "KKD": {
     "name": "Kozhikode",
@@ -123,7 +123,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-02T02:11:46.524Z"
+    "lastChecked": "2026-10-02T08:28:15.490Z"
   },
   "WYD": {
     "name": "Wayanad",
@@ -137,7 +137,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-02T02:11:46.657Z"
+    "lastChecked": "2026-10-02T08:28:15.582Z"
   },
   "KNR": {
     "name": "Kannur",
@@ -151,7 +151,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-02T02:11:46.791Z"
+    "lastChecked": "2026-10-02T08:28:15.674Z"
   },
   "TSR": {
     "name": "Thrissur",
@@ -165,21 +165,21 @@
     "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Yellow Alert",
     "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-10-02T02:11:46.123Z"
+    "lastChecked": "2026-10-02T08:28:12.933Z"
   },
   "MPM": {
     "name": "Malappuram",
     "handle": "@malappuramcollector",
-    "isHoliday": false,
-    "announcementText": "Normal working day",
-    "originalPostUrl": "",
-    "announcedAt": "",
-    "holidayDate": "",
+    "isHoliday": true,
+    "announcementText": "സംസ്ഥാന സർക്കാരിന്റെ നൂറുദിന കർമ്മപദ്ധതി മലപ്പുറത്ത് മികച്ച നേട്ടങ്ങളോടെ മുന്നേറുന്നു! ജില്ലയിൽ ലക്ഷ്യമിട്ട 598 പദ്ധതികളിൽ 371 എണ്ണവും വിജയകരമായി പൂർത്തിയാക്കാൻ നമുക്ക് സാധിച്ചു. പല വകുപ്പുകളും 100% നേട്ടം ഇതിനകം കൈവരിച്ചു എന്നത് ഏറെ അഭിമാനകരമാണ്.",
+    "originalPostUrl": "https://www.facebook.com/990649497647157_1659593875525394",
+    "announcedAt": "Thu, 01 Oct 2026 23:51:00 +0000",
+    "holidayDate": "02/10/2026",
     "hasConfiguredFeed": true,
-    "sourceBadge": "",
+    "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Yellow Alert",
-    "holidayScope": "",
-    "lastChecked": "2026-10-02T02:11:46.391Z"
+    "holidayScope": "Full District Holiday",
+    "lastChecked": "2026-10-02T08:28:15.398Z"
   },
   "KSG": {
     "name": "Kasaragod",
@@ -193,6 +193,6 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-02T02:11:46.924Z"
+    "lastChecked": "2026-10-02T08:28:16.841Z"
   }
 }
