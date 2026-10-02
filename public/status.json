@@ -11,7 +11,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-02T14:52:23.289Z"
+    "lastChecked": "2026-10-02T19:39:18.999Z"
   },
   "KLM": {
     "name": "Kollam",
@@ -25,7 +25,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-02T14:52:24.708Z"
+    "lastChecked": "2026-10-02T19:39:19.121Z"
   },
   "PTA": {
     "name": "Pathanamthitta",
@@ -39,7 +39,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-02T14:52:26.227Z"
+    "lastChecked": "2026-10-02T19:39:19.244Z"
   },
   "ALP": {
     "name": "Alappuzha",
@@ -53,7 +53,7 @@
     "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Yellow Alert",
     "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-10-02T14:52:27.405Z"
+    "lastChecked": "2026-10-02T19:39:19.364Z"
   },
   "KTM": {
     "name": "Kottayam",
@@ -67,7 +67,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-02T14:52:27.540Z"
+    "lastChecked": "2026-10-02T19:39:19.485Z"
   },
   "IDK": {
     "name": "Idukki",
@@ -81,7 +81,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-02T14:52:28.930Z"
+    "lastChecked": "2026-10-02T19:39:19.607Z"
   },
   "EKM": {
     "name": "Ernakulam",
@@ -95,7 +95,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-02T14:52:30.040Z"
+    "lastChecked": "2026-10-02T19:39:19.729Z"
   },
   "PKD": {
     "name": "Palakkad",
@@ -109,7 +109,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-02T14:52:31.568Z"
+    "lastChecked": "2026-10-02T19:39:19.969Z"
   },
   "KKD": {
     "name": "Kozhikode",
@@ -123,7 +123,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-02T14:52:32.994Z"
+    "lastChecked": "2026-10-02T19:39:20.210Z"
   },
   "WYD": {
     "name": "Wayanad",
@@ -137,7 +137,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-02T14:52:34.479Z"
+    "lastChecked": "2026-10-02T19:39:20.329Z"
   },
   "KNR": {
     "name": "Kannur",
@@ -151,21 +151,21 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-02T14:52:36.730Z"
+    "lastChecked": "2026-10-02T19:39:20.450Z"
   },
   "TSR": {
     "name": "Thrissur",
     "handle": "@ThrissurCollector",
-    "isHoliday": true,
-    "announcementText": "മുഖാമുഖം 2.0: മീറ്റ് യുവർ കളക്ടർ പരിപാടിയുടെ 13-ാം അധ്യായത്തിൽ സെപ്റ്റംബർ 30-ന് അമ്മാടം സെന്റ് ആന്റണീസ് ഹയർ സെക്കൻഡറി സ്കൂളിലെ  വിദ്യാർത്ഥികളും അധ്യാപകരും പങ്കെടുത്തു. ജില്ലാ കളക്ടറുമായി നേരിട്ട് സംവദിക്കാനും ജില്ലാ ഭരണസംവിധാനത്തിന്റെ പ്രവർത്തനങ്ങളെക്കുറിച്ച് മനസ്സിലാക്കാനും വിദ്യാർത്ഥികൾക്ക് അവസരം ലഭിച്ചു.",
-    "originalPostUrl": "https://www.facebook.com/105782160780355_1421077016873452",
-    "announcedAt": "Wed, 30 Sep 2026 16:34:42 +0000",
-    "holidayDate": "01/10/2026",
+    "isHoliday": false,
+    "announcementText": "Normal working day",
+    "originalPostUrl": "",
+    "announcedAt": "",
+    "holidayDate": "",
     "hasConfiguredFeed": true,
-    "sourceBadge": "District Collector Official (FB)",
+    "sourceBadge": "",
     "metStatus": "Yellow Alert",
-    "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-10-02T14:52:31.433Z"
+    "holidayScope": "",
+    "lastChecked": "2026-10-02T19:39:19.849Z"
   },
   "MPM": {
     "name": "Malappuram",
@@ -179,7 +179,7 @@
     "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Yellow Alert",
     "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-10-02T14:52:31.702Z"
+    "lastChecked": "2026-10-02T19:39:20.089Z"
   },
   "KSG": {
     "name": "Kasaragod",
@@ -193,6 +193,6 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-02T14:52:36.864Z"
+    "lastChecked": "2026-10-02T19:39:20.571Z"
   }
 }
