@@ -11,7 +11,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-04T13:20:37.392Z"
+    "lastChecked": "2026-10-04T17:42:44.989Z"
   },
   "KLM": {
     "name": "Kollam",
@@ -25,7 +25,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-04T13:20:37.490Z"
+    "lastChecked": "2026-10-04T17:42:46.852Z"
   },
   "PTA": {
     "name": "Pathanamthitta",
@@ -39,21 +39,21 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-04T13:20:37.588Z"
+    "lastChecked": "2026-10-04T17:42:48.143Z"
   },
   "ALP": {
     "name": "Alappuzha",
     "handle": "@districtcollectoralappuzha",
-    "isHoliday": false,
-    "announcementText": "Normal working day",
-    "originalPostUrl": "",
-    "announcedAt": "",
-    "holidayDate": "",
+    "isHoliday": true,
+    "announcementText": "ഇന്ത്യയിലെ ഏറ്റവും പ്രശസ്‌തമായ ക്രിസ്തീയ തീർത്ഥാടന കേന്ദ്രങ്ങളിൽ ഒന്നായ ആലപ്പുഴ ജില്ലയിലെ എടത്വ സെന്റ് ജോർജ് ഫൊറോന പള്ളി സന്ദർശിച്ചു.",
+    "originalPostUrl": "https://www.facebook.com/186836925055143_1673268534157056",
+    "announcedAt": "Sun, 04 Oct 2026 06:00:56 +0000",
+    "holidayDate": "04/10/2026",
     "hasConfiguredFeed": true,
-    "sourceBadge": "",
+    "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Yellow Alert",
-    "holidayScope": "",
-    "lastChecked": "2026-10-04T13:20:37.684Z"
+    "holidayScope": "Full District Holiday",
+    "lastChecked": "2026-10-04T17:42:49.092Z"
   },
   "KTM": {
     "name": "Kottayam",
@@ -67,7 +67,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-04T13:20:38.544Z"
+    "lastChecked": "2026-10-04T17:42:49.209Z"
   },
   "IDK": {
     "name": "Idukki",
@@ -81,7 +81,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-04T13:20:38.641Z"
+    "lastChecked": "2026-10-04T17:42:50.029Z"
   },
   "EKM": {
     "name": "Ernakulam",
@@ -95,7 +95,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-04T13:20:38.738Z"
+    "lastChecked": "2026-10-04T17:42:51.208Z"
   },
   "PKD": {
     "name": "Palakkad",
@@ -109,7 +109,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-04T13:20:40.459Z"
+    "lastChecked": "2026-10-04T17:42:52.843Z"
   },
   "KKD": {
     "name": "Kozhikode",
@@ -123,7 +123,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-04T13:20:42.806Z"
+    "lastChecked": "2026-10-04T17:42:53.877Z"
   },
   "WYD": {
     "name": "Wayanad",
@@ -137,7 +137,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-04T13:20:42.903Z"
+    "lastChecked": "2026-10-04T17:42:55.106Z"
   },
   "KNR": {
     "name": "Kannur",
@@ -151,7 +151,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-04T13:20:43.000Z"
+    "lastChecked": "2026-10-04T17:42:57.658Z"
   },
   "TSR": {
     "name": "Thrissur",
@@ -165,7 +165,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-04T13:20:38.834Z"
+    "lastChecked": "2026-10-04T17:42:52.724Z"
   },
   "MPM": {
     "name": "Malappuram",
@@ -179,7 +179,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-04T13:20:42.707Z"
+    "lastChecked": "2026-10-04T17:42:52.960Z"
   },
   "KSG": {
     "name": "Kasaragod",
@@ -193,6 +193,6 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-04T13:20:44.066Z"
+    "lastChecked": "2026-10-04T17:42:57.775Z"
   }
 }
