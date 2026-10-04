@@ -11,7 +11,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-03T22:15:41.886Z"
+    "lastChecked": "2026-10-04T01:44:14.693Z"
   },
   "KLM": {
     "name": "Kollam",
@@ -25,7 +25,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-03T22:15:42.008Z"
+    "lastChecked": "2026-10-04T01:44:14.787Z"
   },
   "PTA": {
     "name": "Pathanamthitta",
@@ -39,7 +39,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-03T22:15:42.131Z"
+    "lastChecked": "2026-10-04T01:44:14.882Z"
   },
   "ALP": {
     "name": "Alappuzha",
@@ -53,7 +53,7 @@
     "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Yellow Alert",
     "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-10-03T22:15:42.252Z"
+    "lastChecked": "2026-10-04T01:44:14.974Z"
   },
   "KTM": {
     "name": "Kottayam",
@@ -67,7 +67,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-03T22:15:42.372Z"
+    "lastChecked": "2026-10-04T01:44:15.066Z"
   },
   "IDK": {
     "name": "Idukki",
@@ -81,7 +81,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-03T22:15:42.495Z"
+    "lastChecked": "2026-10-04T01:44:15.160Z"
   },
   "EKM": {
     "name": "Ernakulam",
@@ -95,7 +95,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-03T22:15:42.618Z"
+    "lastChecked": "2026-10-04T01:44:15.254Z"
   },
   "PKD": {
     "name": "Palakkad",
@@ -109,7 +109,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-03T22:15:42.859Z"
+    "lastChecked": "2026-10-04T01:44:15.438Z"
   },
   "KKD": {
     "name": "Kozhikode",
@@ -123,7 +123,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-03T22:15:43.100Z"
+    "lastChecked": "2026-10-04T01:44:15.622Z"
   },
   "WYD": {
     "name": "Wayanad",
@@ -137,7 +137,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-03T22:15:43.221Z"
+    "lastChecked": "2026-10-04T01:44:15.714Z"
   },
   "KNR": {
     "name": "Kannur",
@@ -151,7 +151,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-03T22:15:43.342Z"
+    "lastChecked": "2026-10-04T01:44:15.807Z"
   },
   "TSR": {
     "name": "Thrissur",
@@ -165,21 +165,21 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-03T22:15:42.738Z"
+    "lastChecked": "2026-10-04T01:44:15.346Z"
   },
   "MPM": {
     "name": "Malappuram",
     "handle": "@malappuramcollector",
-    "isHoliday": true,
-    "announcementText": "സംസ്ഥാന സർക്കാരിന്റെ നൂറുദിന കർമ്മപദ്ധതി മലപ്പുറത്ത് മികച്ച നേട്ടങ്ങളോടെ മുന്നേറുന്നു! ജില്ലയിൽ ലക്ഷ്യമിട്ട 598 പദ്ധതികളിൽ 371 എണ്ണവും വിജയകരമായി പൂർത്തിയാക്കാൻ നമുക്ക് സാധിച്ചു. പല വകുപ്പുകളും 100% നേട്ടം ഇതിനകം കൈവരിച്ചു എന്നത് ഏറെ അഭിമാനകരമാണ്.",
-    "originalPostUrl": "https://www.facebook.com/990649497647157_1659593875525394",
-    "announcedAt": "Thu, 01 Oct 2026 23:51:00 +0000",
-    "holidayDate": "02/10/2026",
+    "isHoliday": false,
+    "announcementText": "Normal working day",
+    "originalPostUrl": "",
+    "announcedAt": "",
+    "holidayDate": "",
     "hasConfiguredFeed": true,
-    "sourceBadge": "District Collector Official (FB)",
+    "sourceBadge": "",
     "metStatus": "Yellow Alert",
-    "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-10-03T22:15:42.980Z"
+    "holidayScope": "",
+    "lastChecked": "2026-10-04T01:44:15.530Z"
   },
   "KSG": {
     "name": "Kasaragod",
@@ -193,6 +193,6 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-03T22:15:43.463Z"
+    "lastChecked": "2026-10-04T01:44:15.899Z"
   }
 }
