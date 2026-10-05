@@ -11,7 +11,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-05T17:38:01.936Z"
+    "lastChecked": "2026-10-05T23:21:39.756Z"
   },
   "KLM": {
     "name": "Kollam",
@@ -25,7 +25,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-05T17:38:02.073Z"
+    "lastChecked": "2026-10-05T23:21:40.754Z"
   },
   "PTA": {
     "name": "Pathanamthitta",
@@ -39,21 +39,21 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-05T17:38:02.212Z"
+    "lastChecked": "2026-10-05T23:21:41.695Z"
   },
   "ALP": {
     "name": "Alappuzha",
     "handle": "@districtcollectoralappuzha",
-    "isHoliday": true,
-    "announcementText": "ഇന്ത്യയിലെ ഏറ്റവും പ്രശസ്‌തമായ ക്രിസ്തീയ തീർത്ഥാടന കേന്ദ്രങ്ങളിൽ ഒന്നായ ആലപ്പുഴ ജില്ലയിലെ എടത്വ സെന്റ് ജോർജ് ഫൊറോന പള്ളി സന്ദർശിച്ചു.",
-    "originalPostUrl": "https://www.facebook.com/186836925055143_1673268534157056",
-    "announcedAt": "Sun, 04 Oct 2026 06:00:56 +0000",
-    "holidayDate": "04/10/2026",
+    "isHoliday": false,
+    "announcementText": "Normal working day",
+    "originalPostUrl": "",
+    "announcedAt": "",
+    "holidayDate": "",
     "hasConfiguredFeed": true,
-    "sourceBadge": "District Collector Official (FB)",
+    "sourceBadge": "",
     "metStatus": "Yellow Alert",
-    "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-10-05T17:38:02.348Z"
+    "holidayScope": "",
+    "lastChecked": "2026-10-05T23:21:42.712Z"
   },
   "KTM": {
     "name": "Kottayam",
@@ -67,7 +67,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-05T17:38:02.489Z"
+    "lastChecked": "2026-10-05T23:21:42.827Z"
   },
   "IDK": {
     "name": "Idukki",
@@ -81,7 +81,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-05T17:38:02.626Z"
+    "lastChecked": "2026-10-05T23:21:43.828Z"
   },
   "EKM": {
     "name": "Ernakulam",
@@ -95,7 +95,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-05T17:38:02.763Z"
+    "lastChecked": "2026-10-05T23:21:44.896Z"
   },
   "PKD": {
     "name": "Palakkad",
@@ -109,21 +109,21 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-05T17:38:03.076Z"
+    "lastChecked": "2026-10-05T23:21:45.987Z"
   },
   "KKD": {
     "name": "Kozhikode",
     "handle": "@collectorkozhikode",
-    "isHoliday": false,
-    "announcementText": "Normal working day",
-    "originalPostUrl": "",
-    "announcedAt": "",
-    "holidayDate": "",
+    "isHoliday": true,
+    "announcementText": "കോഴിക്കോട് ജില്ലയിൽ ഇനി അവധി നോക്കാൻ മാത്രമല്ല, ആംഗ്യഭാഷ (Sign Language) പഠിക്കാനും കളക്ടറുടെ പേജ് സന്ദർശിക്കാം! ✨",
+    "originalPostUrl": "https://www.facebook.com/1588733288030112_1416361990605138",
+    "announcedAt": "Mon, 05 Oct 2026 13:51:55 +0000",
+    "holidayDate": "06/10/2026",
     "hasConfiguredFeed": true,
-    "sourceBadge": "",
+    "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Yellow Alert",
-    "holidayScope": "",
-    "lastChecked": "2026-10-05T17:38:03.358Z"
+    "holidayScope": "Full District Holiday",
+    "lastChecked": "2026-10-05T23:21:47.133Z"
   },
   "WYD": {
     "name": "Wayanad",
@@ -137,7 +137,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-05T17:38:03.494Z"
+    "lastChecked": "2026-10-05T23:21:48.226Z"
   },
   "KNR": {
     "name": "Kannur",
@@ -151,21 +151,21 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-05T17:38:03.629Z"
+    "lastChecked": "2026-10-05T23:21:49.340Z"
   },
   "TSR": {
     "name": "Thrissur",
     "handle": "@ThrissurCollector",
-    "isHoliday": false,
-    "announcementText": "Normal working day",
-    "originalPostUrl": "",
-    "announcedAt": "",
-    "holidayDate": "",
+    "isHoliday": true,
+    "announcementText": "തൃശൂരിൽ സംയോജിത പൊതുജനാരോഗ്യ ലാബും വാക്സിൻ സ്റ്റോറും മന്ത്രി കെ. മുരളീധരൻ ഉദ്ഘാടനം ചെയ്തു.",
+    "originalPostUrl": "https://www.facebook.com/105782160780355_1425743953073425",
+    "announcedAt": "Mon, 05 Oct 2026 15:14:30 +0000",
+    "holidayDate": "06/10/2026",
     "hasConfiguredFeed": true,
-    "sourceBadge": "",
+    "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Yellow Alert",
-    "holidayScope": "",
-    "lastChecked": "2026-10-05T17:38:02.900Z"
+    "holidayScope": "Full District Holiday",
+    "lastChecked": "2026-10-05T23:21:45.872Z"
   },
   "MPM": {
     "name": "Malappuram",
@@ -179,7 +179,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-05T17:38:03.223Z"
+    "lastChecked": "2026-10-05T23:21:46.102Z"
   },
   "KSG": {
     "name": "Kasaragod",
@@ -193,6 +193,6 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-05T17:38:03.775Z"
+    "lastChecked": "2026-10-05T23:21:49.455Z"
   }
 }
