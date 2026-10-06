@@ -11,7 +11,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-06T16:46:33.303Z"
+    "lastChecked": "2026-10-06T21:21:35.316Z"
   },
   "KLM": {
     "name": "Kollam",
@@ -25,7 +25,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-06T16:46:33.405Z"
+    "lastChecked": "2026-10-06T21:21:35.418Z"
   },
   "PTA": {
     "name": "Pathanamthitta",
@@ -39,7 +39,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-06T16:46:33.507Z"
+    "lastChecked": "2026-10-06T21:21:35.520Z"
   },
   "ALP": {
     "name": "Alappuzha",
@@ -53,7 +53,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-06T16:46:33.607Z"
+    "lastChecked": "2026-10-06T21:21:35.620Z"
   },
   "KTM": {
     "name": "Kottayam",
@@ -67,7 +67,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-06T16:46:33.708Z"
+    "lastChecked": "2026-10-06T21:21:36.608Z"
   },
   "IDK": {
     "name": "Idukki",
@@ -81,7 +81,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-06T16:46:33.810Z"
+    "lastChecked": "2026-10-06T21:21:36.709Z"
   },
   "EKM": {
     "name": "Ernakulam",
@@ -95,7 +95,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-06T16:46:33.912Z"
+    "lastChecked": "2026-10-06T21:21:36.811Z"
   },
   "PKD": {
     "name": "Palakkad",
@@ -109,7 +109,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-06T16:46:34.113Z"
+    "lastChecked": "2026-10-06T21:21:37.897Z"
   },
   "KKD": {
     "name": "Kozhikode",
@@ -123,7 +123,7 @@
     "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Yellow Alert",
     "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-10-06T16:46:34.313Z"
+    "lastChecked": "2026-10-06T21:21:39.261Z"
   },
   "WYD": {
     "name": "Wayanad",
@@ -137,7 +137,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-06T16:46:34.412Z"
+    "lastChecked": "2026-10-06T21:21:39.361Z"
   },
   "KNR": {
     "name": "Kannur",
@@ -151,7 +151,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-06T16:46:34.513Z"
+    "lastChecked": "2026-10-06T21:21:39.461Z"
   },
   "TSR": {
     "name": "Thrissur",
@@ -165,21 +165,21 @@
     "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Yellow Alert",
     "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-10-06T16:46:34.013Z"
+    "lastChecked": "2026-10-06T21:21:36.912Z"
   },
   "MPM": {
     "name": "Malappuram",
     "handle": "@malappuramcollector",
-    "isHoliday": false,
-    "announcementText": "Normal working day",
-    "originalPostUrl": "",
-    "announcedAt": "",
-    "holidayDate": "",
+    "isHoliday": true,
+    "announcementText": "മലപ്പുറം ജില്ലയിലെ കേന്ദ്രാവിഷ്കൃത വികസന പദ്ധതികളുടെ പുരോഗതിയും നിർവഹണ നിലവാരവും വിലയിരുത്തുന്നതിനായി ചേർന്ന ജില്ലാതല കോർഡിനേഷൻ ആന്റ് മോണിട്ടറിങ് കമ്മിറ്റിയുടെ (ദിശ - DISHA) യോഗത്തിൽ ഇ.ടി. മുഹമ്മദ് ബഷീർ എം.പി, പി.വി. അബ്ദുൽ വഹാബ് എം.പി, ടി.പി. അഷ്റഫലി എം.എൽ.എ, ജില്ലാ പഞ്ചായത്ത് പ്രസിഡന്റ് പി.എ. ജബ്ബാർ ഹാജി, മറ്റ് ജനപ്രതിനിധികൾ, ഉദ്യോഗസ്ഥർ എന്നിവർക്കൊപ്പം പങ്കെടുത്തു.",
+    "originalPostUrl": "https://www.facebook.com/990649497647157_1663917675093014",
+    "announcedAt": "Tue, 06 Oct 2026 14:06:47 +0000",
+    "holidayDate": "07/10/2026",
     "hasConfiguredFeed": true,
-    "sourceBadge": "",
+    "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Yellow Alert",
-    "holidayScope": "",
-    "lastChecked": "2026-10-06T16:46:34.213Z"
+    "holidayScope": "Full District Holiday",
+    "lastChecked": "2026-10-06T21:21:39.161Z"
   },
   "KSG": {
     "name": "Kasaragod",
@@ -193,6 +193,6 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-06T16:46:34.613Z"
+    "lastChecked": "2026-10-06T21:21:40.505Z"
   }
 }
