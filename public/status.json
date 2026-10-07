@@ -11,7 +11,7 @@
     "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Yellow Alert",
     "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-10-07T13:54:34.500Z"
+    "lastChecked": "2026-10-07T19:38:15.012Z"
   },
   "KLM": {
     "name": "Kollam",
@@ -25,7 +25,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-07T13:54:34.628Z"
+    "lastChecked": "2026-10-07T19:38:15.110Z"
   },
   "PTA": {
     "name": "Pathanamthitta",
@@ -39,7 +39,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-07T13:54:34.755Z"
+    "lastChecked": "2026-10-07T19:38:15.205Z"
   },
   "ALP": {
     "name": "Alappuzha",
@@ -53,7 +53,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-07T13:54:34.880Z"
+    "lastChecked": "2026-10-07T19:38:15.299Z"
   },
   "KTM": {
     "name": "Kottayam",
@@ -67,7 +67,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-07T13:54:35.005Z"
+    "lastChecked": "2026-10-07T19:38:15.392Z"
   },
   "IDK": {
     "name": "Idukki",
@@ -81,7 +81,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-07T13:54:35.133Z"
+    "lastChecked": "2026-10-07T19:38:15.486Z"
   },
   "EKM": {
     "name": "Ernakulam",
@@ -95,7 +95,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-07T13:54:35.260Z"
+    "lastChecked": "2026-10-07T19:38:15.582Z"
   },
   "PKD": {
     "name": "Palakkad",
@@ -109,7 +109,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-07T13:54:35.511Z"
+    "lastChecked": "2026-10-07T19:38:15.769Z"
   },
   "KKD": {
     "name": "Kozhikode",
@@ -123,7 +123,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-07T13:54:35.761Z"
+    "lastChecked": "2026-10-07T19:38:15.956Z"
   },
   "WYD": {
     "name": "Wayanad",
@@ -137,7 +137,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-07T13:54:35.887Z"
+    "lastChecked": "2026-10-07T19:38:16.048Z"
   },
   "KNR": {
     "name": "Kannur",
@@ -151,21 +151,21 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-07T13:54:36.011Z"
+    "lastChecked": "2026-10-07T19:38:16.142Z"
   },
   "TSR": {
     "name": "Thrissur",
     "handle": "@ThrissurCollector",
-    "isHoliday": true,
-    "announcementText": "തൃശൂരിൽ സംയോജിത പൊതുജനാരോഗ്യ ലാബും വാക്സിൻ സ്റ്റോറും മന്ത്രി കെ. മുരളീധരൻ ഉദ്ഘാടനം ചെയ്തു.",
-    "originalPostUrl": "https://www.facebook.com/105782160780355_1425743953073425",
-    "announcedAt": "Mon, 05 Oct 2026 15:14:30 +0000",
-    "holidayDate": "06/10/2026",
+    "isHoliday": false,
+    "announcementText": "Normal working day",
+    "originalPostUrl": "",
+    "announcedAt": "",
+    "holidayDate": "",
     "hasConfiguredFeed": true,
-    "sourceBadge": "District Collector Official (FB)",
+    "sourceBadge": "",
     "metStatus": "Yellow Alert",
-    "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-10-07T13:54:35.386Z"
+    "holidayScope": "",
+    "lastChecked": "2026-10-07T19:38:15.676Z"
   },
   "MPM": {
     "name": "Malappuram",
@@ -179,7 +179,7 @@
     "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Yellow Alert",
     "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-10-07T13:54:35.637Z"
+    "lastChecked": "2026-10-07T19:38:15.862Z"
   },
   "KSG": {
     "name": "Kasaragod",
@@ -193,6 +193,6 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-07T13:54:36.135Z"
+    "lastChecked": "2026-10-07T19:38:16.234Z"
   }
 }
