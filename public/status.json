@@ -11,7 +11,7 @@
     "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Yellow Alert",
     "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-10-07T06:40:44.340Z"
+    "lastChecked": "2026-10-07T13:54:34.500Z"
   },
   "KLM": {
     "name": "Kollam",
@@ -25,7 +25,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-07T06:40:44.475Z"
+    "lastChecked": "2026-10-07T13:54:34.628Z"
   },
   "PTA": {
     "name": "Pathanamthitta",
@@ -39,7 +39,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-07T06:40:44.609Z"
+    "lastChecked": "2026-10-07T13:54:34.755Z"
   },
   "ALP": {
     "name": "Alappuzha",
@@ -53,7 +53,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-07T06:40:44.743Z"
+    "lastChecked": "2026-10-07T13:54:34.880Z"
   },
   "KTM": {
     "name": "Kottayam",
@@ -67,7 +67,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-07T06:40:44.876Z"
+    "lastChecked": "2026-10-07T13:54:35.005Z"
   },
   "IDK": {
     "name": "Idukki",
@@ -81,7 +81,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-07T06:40:45.010Z"
+    "lastChecked": "2026-10-07T13:54:35.133Z"
   },
   "EKM": {
     "name": "Ernakulam",
@@ -95,7 +95,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-07T06:40:45.145Z"
+    "lastChecked": "2026-10-07T13:54:35.260Z"
   },
   "PKD": {
     "name": "Palakkad",
@@ -109,21 +109,21 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-07T06:40:45.413Z"
+    "lastChecked": "2026-10-07T13:54:35.511Z"
   },
   "KKD": {
     "name": "Kozhikode",
     "handle": "@collectorkozhikode",
-    "isHoliday": true,
-    "announcementText": "കോഴിക്കോട് ജില്ലയിൽ ഇനി അവധി നോക്കാൻ മാത്രമല്ല, ആംഗ്യഭാഷ (Sign Language) പഠിക്കാനും കളക്ടറുടെ പേജ് സന്ദർശിക്കാം! ✨",
-    "originalPostUrl": "https://www.facebook.com/1588733288030112_1416361990605138",
-    "announcedAt": "Mon, 05 Oct 2026 13:51:55 +0000",
-    "holidayDate": "06/10/2026",
+    "isHoliday": false,
+    "announcementText": "Normal working day",
+    "originalPostUrl": "",
+    "announcedAt": "",
+    "holidayDate": "",
     "hasConfiguredFeed": true,
-    "sourceBadge": "District Collector Official (FB)",
+    "sourceBadge": "",
     "metStatus": "Yellow Alert",
-    "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-10-07T06:40:45.680Z"
+    "holidayScope": "",
+    "lastChecked": "2026-10-07T13:54:35.761Z"
   },
   "WYD": {
     "name": "Wayanad",
@@ -137,7 +137,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-07T06:40:45.813Z"
+    "lastChecked": "2026-10-07T13:54:35.887Z"
   },
   "KNR": {
     "name": "Kannur",
@@ -151,7 +151,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-07T06:40:45.947Z"
+    "lastChecked": "2026-10-07T13:54:36.011Z"
   },
   "TSR": {
     "name": "Thrissur",
@@ -165,7 +165,7 @@
     "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Yellow Alert",
     "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-10-07T06:40:45.280Z"
+    "lastChecked": "2026-10-07T13:54:35.386Z"
   },
   "MPM": {
     "name": "Malappuram",
@@ -179,7 +179,7 @@
     "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Yellow Alert",
     "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-10-07T06:40:45.546Z"
+    "lastChecked": "2026-10-07T13:54:35.637Z"
   },
   "KSG": {
     "name": "Kasaragod",
@@ -193,6 +193,6 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-07T06:40:46.080Z"
+    "lastChecked": "2026-10-07T13:54:36.135Z"
   }
 }
