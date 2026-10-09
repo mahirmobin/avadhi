@@ -11,7 +11,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-09T02:21:33.424Z"
+    "lastChecked": "2026-10-09T09:21:20.355Z"
   },
   "KLM": {
     "name": "Kollam",
@@ -25,7 +25,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-09T02:21:33.520Z"
+    "lastChecked": "2026-10-09T09:21:21.575Z"
   },
   "PTA": {
     "name": "Pathanamthitta",
@@ -39,7 +39,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-09T02:21:33.614Z"
+    "lastChecked": "2026-10-09T09:21:22.618Z"
   },
   "ALP": {
     "name": "Alappuzha",
@@ -53,7 +53,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-09T02:21:33.708Z"
+    "lastChecked": "2026-10-09T09:21:23.691Z"
   },
   "KTM": {
     "name": "Kottayam",
@@ -67,7 +67,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-09T02:21:33.806Z"
+    "lastChecked": "2026-10-09T09:21:23.807Z"
   },
   "IDK": {
     "name": "Idukki",
@@ -81,21 +81,21 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-09T02:21:33.901Z"
+    "lastChecked": "2026-10-09T09:21:24.932Z"
   },
   "EKM": {
     "name": "Ernakulam",
     "handle": "@ernakulamdc",
-    "isHoliday": false,
-    "announcementText": "Normal working day",
-    "originalPostUrl": "",
-    "announcedAt": "",
-    "holidayDate": "",
+    "isHoliday": true,
+    "announcementText": "കേരളത്തിന്റെ ജലകായിക പാരമ്പര്യത്തിന് ആവേശം പകരുന്ന ചാമ്പ്യൻസ് ബോട്ട് ലീഗ് 2026 (CBL 2026) ന്റെ ആറാം പാദ മത്സരങ്ങളും ഇന്ദിരാഗാന്ധി വള്ളംകളിയും ഒക്ടോബർ 10 ശനിയാഴ്ച എറണാകുളം മറൈൻ ഡ്രൈവിൽ നടക്കും. വിനോദ സഞ്ചാര വകുപ്പിന്റെ ആഭിമുഖ്യത്തിൽ സംഘടിപ്പിക്കുന്ന ജലോത്സവത്തിന്റെ ചടങ്ങുകൾ ഉച്ചയ്ക്ക് 1 മണിക്ക് ആരംഭിക്കും. പൊതുസമ്മേളനത്തിന് ശേഷം ഉച്ചയ്ക്ക് 2 മണിയോടെ മാസ്സ് ഡ്രില്ലിന്റെ അകമ്പടിയോടെ വള്ളംകളി മത്സരങ്ങൾ ആരംഭിക്കും.",
+    "originalPostUrl": "https://www.facebook.com/233008147097016_1855714762698599",
+    "announcedAt": "Thu, 08 Oct 2026 13:30:35 +0000",
+    "holidayDate": "09/10/2026",
     "hasConfiguredFeed": true,
-    "sourceBadge": "",
+    "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Yellow Alert",
-    "holidayScope": "",
-    "lastChecked": "2026-10-09T02:21:33.996Z"
+    "holidayScope": "Full District Holiday",
+    "lastChecked": "2026-10-09T09:21:26.237Z"
   },
   "PKD": {
     "name": "Palakkad",
@@ -109,7 +109,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-09T02:21:34.196Z"
+    "lastChecked": "2026-10-09T09:21:27.719Z"
   },
   "KKD": {
     "name": "Kozhikode",
@@ -123,7 +123,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-09T02:21:34.392Z"
+    "lastChecked": "2026-10-09T09:21:29.170Z"
   },
   "WYD": {
     "name": "Wayanad",
@@ -137,7 +137,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-09T02:21:34.485Z"
+    "lastChecked": "2026-10-09T09:21:30.316Z"
   },
   "KNR": {
     "name": "Kannur",
@@ -151,7 +151,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-09T02:21:34.579Z"
+    "lastChecked": "2026-10-09T09:21:31.707Z"
   },
   "TSR": {
     "name": "Thrissur",
@@ -165,7 +165,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-09T02:21:34.089Z"
+    "lastChecked": "2026-10-09T09:21:27.602Z"
   },
   "MPM": {
     "name": "Malappuram",
@@ -179,7 +179,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-09T02:21:34.299Z"
+    "lastChecked": "2026-10-09T09:21:27.836Z"
   },
   "KSG": {
     "name": "Kasaragod",
@@ -193,6 +193,6 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-09T02:21:34.685Z"
+    "lastChecked": "2026-10-09T09:21:31.823Z"
   }
 }
