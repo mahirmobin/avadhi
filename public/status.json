@@ -11,7 +11,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-13T01:51:30.700Z"
+    "lastChecked": "2026-10-13T08:40:46.446Z"
   },
   "KLM": {
     "name": "Kollam",
@@ -25,7 +25,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-13T01:51:30.840Z"
+    "lastChecked": "2026-10-13T08:40:46.565Z"
   },
   "PTA": {
     "name": "Pathanamthitta",
@@ -39,7 +39,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-13T01:51:30.979Z"
+    "lastChecked": "2026-10-13T08:40:46.681Z"
   },
   "ALP": {
     "name": "Alappuzha",
@@ -53,7 +53,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-13T01:51:31.118Z"
+    "lastChecked": "2026-10-13T08:40:46.798Z"
   },
   "KTM": {
     "name": "Kottayam",
@@ -67,7 +67,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-13T01:51:31.257Z"
+    "lastChecked": "2026-10-13T08:40:46.914Z"
   },
   "IDK": {
     "name": "Idukki",
@@ -81,21 +81,21 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-13T01:51:31.396Z"
+    "lastChecked": "2026-10-13T08:40:47.032Z"
   },
   "EKM": {
     "name": "Ernakulam",
     "handle": "@ernakulamdc",
-    "isHoliday": true,
-    "announcementText": "ചാമ്പ്യൻസ് ബോട്ട് ലീഗ് (CBL) ആറാം പതിപ്പിലെ അഞ്ചാം പാദ മത്സരങ്ങൾ കൊച്ചിയിൽ അരങ്ങേറി. കേരളത്തിന്റെ ടൂറിസം സാധ്യതകൾ വർദ്ധിപ്പിക്കുന്നതിൽ ചാമ്പ്യൻസ് ബോട്ട് ലീഗ് ഉൾപ്പെടെയുള്ള വള്ളംകളി മത്സരങ്ങൾ നിർണായക പങ്കുവഹിക്കുമെന്ന് അഞ്ചാം പാദ മത്സരം ഉദ്ഘാടനം ചെയ്തുകൊണ്ട്  ബഹു.ഉന്നത വിദ്യാഭ്യാസ വകുപ്പ് മന്ത്രി റോജി എം. ജോൺ പറഞ്ഞു. പ്രാദേശിക വള്ളംകളികൾക്കും ഇരുട്ടുകുത്തി വള്ളങ്ങളുടെ മത്സരങ്ങൾക്കും വേദിയൊരുക്കുന്നതിലൂടെ സന്ദർശകർക്ക് വ്യത്യസ്തമായ അനുഭവം സമ്മാനിക്കാൻ കഴിയുമെന്ന് അദ്ദേഹം കൂട്ടിച്ചേർത്തു.ചടങ്ങിൽ ഡെപ്യൂട്ടി മേയർ ശ്രീ.വി. ആർ. സുധീർ പതാക ഉയർത്തുകയും, കളക്ടർ ശ്രീമതി ജി. പ്രിയങ്ക വള്ളംകളി ഫ്ലാഗ് ഓഫ് ചെയ്യുകയും ചെയ്തു.",
-    "originalPostUrl": "https://www.facebook.com/233008147097016_1858520385751370",
-    "announcedAt": "Sun, 11 Oct 2026 02:42:46 +0000",
-    "holidayDate": "11/10/2026",
+    "isHoliday": false,
+    "announcementText": "Normal working day",
+    "originalPostUrl": "",
+    "announcedAt": "",
+    "holidayDate": "",
     "hasConfiguredFeed": true,
-    "sourceBadge": "District Collector Official (FB)",
+    "sourceBadge": "",
     "metStatus": "Yellow Alert",
-    "holidayScope": "Including Professional Colleges",
-    "lastChecked": "2026-10-13T01:51:31.536Z"
+    "holidayScope": "",
+    "lastChecked": "2026-10-13T08:40:47.150Z"
   },
   "PKD": {
     "name": "Palakkad",
@@ -109,7 +109,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-13T01:51:31.813Z"
+    "lastChecked": "2026-10-13T08:40:47.383Z"
   },
   "KKD": {
     "name": "Kozhikode",
@@ -123,7 +123,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-13T01:51:32.089Z"
+    "lastChecked": "2026-10-13T08:40:47.616Z"
   },
   "WYD": {
     "name": "Wayanad",
@@ -137,7 +137,7 @@
     "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Yellow Alert",
     "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-10-13T01:51:32.227Z"
+    "lastChecked": "2026-10-13T08:40:47.732Z"
   },
   "KNR": {
     "name": "Kannur",
@@ -151,7 +151,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-13T01:51:32.365Z"
+    "lastChecked": "2026-10-13T08:40:47.849Z"
   },
   "TSR": {
     "name": "Thrissur",
@@ -165,7 +165,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-13T01:51:31.675Z"
+    "lastChecked": "2026-10-13T08:40:47.267Z"
   },
   "MPM": {
     "name": "Malappuram",
@@ -179,7 +179,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-13T01:51:31.951Z"
+    "lastChecked": "2026-10-13T08:40:47.500Z"
   },
   "KSG": {
     "name": "Kasaragod",
@@ -193,6 +193,6 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-13T01:51:32.504Z"
+    "lastChecked": "2026-10-13T08:40:47.965Z"
   }
 }
