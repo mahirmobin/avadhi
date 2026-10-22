@@ -9,9 +9,9 @@
     "holidayDate": "",
     "hasConfiguredFeed": true,
     "sourceBadge": "",
-    "metStatus": "Orange Alert",
+    "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-22T01:32:30.281Z"
+    "lastChecked": "2026-10-22T06:33:57.044Z"
   },
   "KLM": {
     "name": "Kollam",
@@ -23,9 +23,9 @@
     "holidayDate": "",
     "hasConfiguredFeed": true,
     "sourceBadge": "",
-    "metStatus": "Orange Alert",
+    "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-22T01:32:30.400Z"
+    "lastChecked": "2026-10-22T06:33:57.163Z"
   },
   "PTA": {
     "name": "Pathanamthitta",
@@ -37,9 +37,9 @@
     "holidayDate": "",
     "hasConfiguredFeed": true,
     "sourceBadge": "",
-    "metStatus": "Orange Alert",
+    "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-22T01:32:30.518Z"
+    "lastChecked": "2026-10-22T06:33:57.282Z"
   },
   "ALP": {
     "name": "Alappuzha",
@@ -51,9 +51,9 @@
     "holidayDate": "",
     "hasConfiguredFeed": true,
     "sourceBadge": "",
-    "metStatus": "Orange Alert",
+    "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-22T01:32:30.635Z"
+    "lastChecked": "2026-10-22T06:33:57.401Z"
   },
   "KTM": {
     "name": "Kottayam",
@@ -65,9 +65,9 @@
     "holidayDate": "",
     "hasConfiguredFeed": true,
     "sourceBadge": "",
-    "metStatus": "Orange Alert",
+    "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-22T01:32:30.753Z"
+    "lastChecked": "2026-10-22T06:33:58.176Z"
   },
   "IDK": {
     "name": "Idukki",
@@ -81,7 +81,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-22T01:32:30.872Z"
+    "lastChecked": "2026-10-22T06:33:58.295Z"
   },
   "EKM": {
     "name": "Ernakulam",
@@ -93,9 +93,9 @@
     "holidayDate": "",
     "hasConfiguredFeed": true,
     "sourceBadge": "",
-    "metStatus": "Yellow Alert",
+    "metStatus": "Orange Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-22T01:32:30.990Z"
+    "lastChecked": "2026-10-22T06:33:58.415Z"
   },
   "PKD": {
     "name": "Palakkad",
@@ -109,7 +109,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-22T01:32:31.225Z"
+    "lastChecked": "2026-10-22T06:33:59.817Z"
   },
   "KKD": {
     "name": "Kozhikode",
@@ -121,9 +121,9 @@
     "holidayDate": "",
     "hasConfiguredFeed": true,
     "sourceBadge": "",
-    "metStatus": "Yellow Alert",
+    "metStatus": "Orange Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-22T01:32:31.460Z"
+    "lastChecked": "2026-10-22T06:34:02.255Z"
   },
   "WYD": {
     "name": "Wayanad",
@@ -137,7 +137,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-22T01:32:31.577Z"
+    "lastChecked": "2026-10-22T06:34:02.374Z"
   },
   "KNR": {
     "name": "Kannur",
@@ -151,7 +151,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-22T01:32:31.695Z"
+    "lastChecked": "2026-10-22T06:34:02.493Z"
   },
   "TSR": {
     "name": "Thrissur",
@@ -163,9 +163,9 @@
     "holidayDate": "",
     "hasConfiguredFeed": true,
     "sourceBadge": "",
-    "metStatus": "Yellow Alert",
+    "metStatus": "Orange Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-22T01:32:31.108Z"
+    "lastChecked": "2026-10-22T06:33:58.533Z"
   },
   "MPM": {
     "name": "Malappuram",
@@ -177,9 +177,9 @@
     "holidayDate": "",
     "hasConfiguredFeed": true,
     "sourceBadge": "",
-    "metStatus": "Yellow Alert",
+    "metStatus": "Orange Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-22T01:32:31.343Z"
+    "lastChecked": "2026-10-22T06:34:02.135Z"
   },
   "KSG": {
     "name": "Kasaragod",
@@ -193,6 +193,6 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-22T01:32:31.813Z"
+    "lastChecked": "2026-10-22T06:34:03.495Z"
   }
 }
