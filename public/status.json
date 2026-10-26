@@ -11,21 +11,21 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-26T17:20:12.517Z"
+    "lastChecked": "2026-10-26T21:43:29.883Z"
   },
   "KLM": {
     "name": "Kollam",
     "handle": "@dckollam",
-    "isHoliday": false,
-    "announcementText": "Normal working day",
-    "originalPostUrl": "",
-    "announcedAt": "",
-    "holidayDate": "",
+    "isHoliday": true,
+    "announcementText": "കൊല്ലം ജില്ലയിൽ എക്സ്ക്ലൂസീവ് ആധാർ സേവാ കേന്ദ്രം (ASK) ഔദ്യോഗികമായി പ്രവർത്തനം ആരംഭിച്ചു!",
+    "originalPostUrl": "https://www.facebook.com/462119120606972_1674565620691607",
+    "announcedAt": "Sun, 25 Oct 2026 05:51:45 +0000",
+    "holidayDate": "25/10/2026",
     "hasConfiguredFeed": true,
-    "sourceBadge": "",
+    "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Yellow Alert",
-    "holidayScope": "",
-    "lastChecked": "2026-10-26T17:20:12.621Z"
+    "holidayScope": "Including Professional Colleges",
+    "lastChecked": "2026-10-26T21:43:30.811Z"
   },
   "PTA": {
     "name": "Pathanamthitta",
@@ -39,7 +39,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-26T17:20:12.720Z"
+    "lastChecked": "2026-10-26T21:43:32.120Z"
   },
   "ALP": {
     "name": "Alappuzha",
@@ -53,7 +53,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-26T17:20:12.917Z"
+    "lastChecked": "2026-10-26T21:43:33.014Z"
   },
   "KTM": {
     "name": "Kottayam",
@@ -67,7 +67,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-26T17:20:13.020Z"
+    "lastChecked": "2026-10-26T21:43:33.141Z"
   },
   "IDK": {
     "name": "Idukki",
@@ -81,21 +81,21 @@
     "sourceBadge": "",
     "metStatus": "Orange Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-26T17:20:13.120Z"
+    "lastChecked": "2026-10-26T21:43:34.328Z"
   },
   "EKM": {
     "name": "Ernakulam",
     "handle": "@ernakulamdc",
-    "isHoliday": false,
-    "announcementText": "Normal working day",
-    "originalPostUrl": "",
-    "announcedAt": "",
-    "holidayDate": "",
+    "isHoliday": true,
+    "announcementText": "തൃപ്പൂണിത്തുറ നിയമസഭാ മണ്ഡലത്തിലെ വിദ്യാർഥികളുടെ വിദ്യാഭ്യാസ നിലവാരം, സാമൂഹിക പ്രതിബദ്ധത, കരിയർ സ്വപ്നങ്ങൾ എന്നിവ കൂടുതൽ മികവുറ്റതാക്കുന്നതിനായി നടപ്പിലാക്കുന്ന സമഗ്ര വിദ്യാഭ്യാസ വികസന പദ്ധതി 'ദീപം: ദി ലൈറ്റ് ഓഫ് തൃപ്പൂണിത്തുറ' ബഹു. ഉന്നത വിദ്യാഭ്യാസ വകുപ്പ് മന്ത്രി ശ്രീ. റോജി എം ജോൺ ഉദ്ഘാടനം ചെയ്തു.",
+    "originalPostUrl": "https://www.facebook.com/233008147097016_1873920574211351",
+    "announcedAt": "Sun, 25 Oct 2026 06:16:21 +0000",
+    "holidayDate": "25/10/2026",
     "hasConfiguredFeed": true,
-    "sourceBadge": "",
+    "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Yellow Alert",
-    "holidayScope": "",
-    "lastChecked": "2026-10-26T17:20:13.221Z"
+    "holidayScope": "Full District Holiday",
+    "lastChecked": "2026-10-26T21:43:35.355Z"
   },
   "PKD": {
     "name": "Palakkad",
@@ -109,7 +109,7 @@
     "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Yellow Alert",
     "holidayScope": "Includes Anganwadis",
-    "lastChecked": "2026-10-26T17:20:13.429Z"
+    "lastChecked": "2026-10-26T21:43:37.462Z"
   },
   "KKD": {
     "name": "Kozhikode",
@@ -123,35 +123,35 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-26T17:20:13.636Z"
+    "lastChecked": "2026-10-26T21:43:38.572Z"
   },
   "WYD": {
     "name": "Wayanad",
     "handle": "@wayanadcollector",
-    "isHoliday": false,
-    "announcementText": "Normal working day",
-    "originalPostUrl": "",
-    "announcedAt": "",
-    "holidayDate": "",
+    "isHoliday": true,
+    "announcementText": "കേന്ദ്ര കാലാവസ്ഥ വകുപ്പിന്റെ 25.10.2026-ലെ ജാഗ്രതാ നിർദ്ദേശത്തിന്റെ അടിസ്ഥാനത്തിലും, ജില്ലയിൽ നിലവിൽ മഴ കുറഞ്ഞ സാഹചര്യത്തിലും, ദുരിതാശ്വാസ ക്യാമ്പുകളായി പ്രവർത്തിക്കുന്ന സ്കൂളുകൾക്ക് മാത്രമായി നാളെ (26.10.2026, തിങ്കളാഴ്ച) അവധി പ്രഖ്യാപിച്ചിരിക്കുന്നു.",
+    "originalPostUrl": "https://www.facebook.com/278429812621016_1422627406694660",
+    "announcedAt": "Sun, 25 Oct 2026 13:33:53 +0000",
+    "holidayDate": "26/10/2026",
     "hasConfiguredFeed": true,
-    "sourceBadge": "",
+    "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Yellow Alert",
-    "holidayScope": "",
-    "lastChecked": "2026-10-26T17:20:13.735Z"
+    "holidayScope": "Full District Holiday",
+    "lastChecked": "2026-10-26T21:43:39.911Z"
   },
   "KNR": {
     "name": "Kannur",
     "handle": "@collector.kannur",
-    "isHoliday": false,
-    "announcementText": "Normal working day",
-    "originalPostUrl": "",
-    "announcedAt": "",
-    "holidayDate": "",
+    "isHoliday": true,
+    "announcementText": "പട്ടുവം എംആര്‍എസ്സ്; കളത്തിലെ പരാതികളില്‍ നടപടി സ്വീകരിച്ചു.",
+    "originalPostUrl": "https://www.facebook.com/745473162216207_1556200596549451",
+    "announcedAt": "Mon, 26 Oct 2026 14:59:05 +0000",
+    "holidayDate": "27/10/2026",
     "hasConfiguredFeed": true,
-    "sourceBadge": "",
+    "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Yellow Alert",
-    "holidayScope": "",
-    "lastChecked": "2026-10-26T17:20:13.834Z"
+    "holidayScope": "Full District Holiday",
+    "lastChecked": "2026-10-26T21:43:42.284Z"
   },
   "TSR": {
     "name": "Thrissur",
@@ -165,7 +165,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-26T17:20:13.319Z"
+    "lastChecked": "2026-10-26T21:43:37.335Z"
   },
   "MPM": {
     "name": "Malappuram",
@@ -179,7 +179,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-26T17:20:13.538Z"
+    "lastChecked": "2026-10-26T21:43:37.590Z"
   },
   "KSG": {
     "name": "Kasaragod",
@@ -193,6 +193,6 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-26T17:20:13.940Z"
+    "lastChecked": "2026-10-26T21:43:42.535Z"
   }
 }
