@@ -9,9 +9,9 @@
     "holidayDate": "",
     "hasConfiguredFeed": true,
     "sourceBadge": "",
-    "metStatus": "Orange Alert",
+    "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-26T00:18:03.197Z"
+    "lastChecked": "2026-10-26T05:03:55.618Z"
   },
   "KLM": {
     "name": "Kollam",
@@ -23,9 +23,9 @@
     "holidayDate": "",
     "hasConfiguredFeed": true,
     "sourceBadge": "",
-    "metStatus": "Orange Alert",
+    "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-26T00:18:03.294Z"
+    "lastChecked": "2026-10-26T05:03:55.759Z"
   },
   "PTA": {
     "name": "Pathanamthitta",
@@ -39,7 +39,7 @@
     "sourceBadge": "",
     "metStatus": "Orange Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-26T00:18:03.387Z"
+    "lastChecked": "2026-10-26T05:03:55.897Z"
   },
   "ALP": {
     "name": "Alappuzha",
@@ -51,9 +51,9 @@
     "holidayDate": "",
     "hasConfiguredFeed": true,
     "sourceBadge": "",
-    "metStatus": "Orange Alert",
+    "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-26T00:18:03.572Z"
+    "lastChecked": "2026-10-26T05:03:56.169Z"
   },
   "KTM": {
     "name": "Kottayam",
@@ -65,9 +65,9 @@
     "holidayDate": "",
     "hasConfiguredFeed": true,
     "sourceBadge": "",
-    "metStatus": "Orange Alert",
+    "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-26T00:18:03.665Z"
+    "lastChecked": "2026-10-26T05:03:56.305Z"
   },
   "IDK": {
     "name": "Idukki",
@@ -81,7 +81,7 @@
     "sourceBadge": "",
     "metStatus": "Orange Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-26T00:18:03.758Z"
+    "lastChecked": "2026-10-26T05:03:56.443Z"
   },
   "EKM": {
     "name": "Ernakulam",
@@ -93,9 +93,9 @@
     "holidayDate": "",
     "hasConfiguredFeed": true,
     "sourceBadge": "",
-    "metStatus": "Orange Alert",
+    "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-26T00:18:03.852Z"
+    "lastChecked": "2026-10-26T05:03:56.582Z"
   },
   "PKD": {
     "name": "Palakkad",
@@ -109,7 +109,7 @@
     "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Orange Alert",
     "holidayScope": "Includes Anganwadis",
-    "lastChecked": "2026-10-26T00:18:04.035Z"
+    "lastChecked": "2026-10-26T05:03:56.854Z"
   },
   "KKD": {
     "name": "Kozhikode",
@@ -123,7 +123,7 @@
     "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Red Alert",
     "holidayScope": "Including Professional Colleges",
-    "lastChecked": "2026-10-26T00:18:04.219Z"
+    "lastChecked": "2026-10-26T05:03:57.127Z"
   },
   "WYD": {
     "name": "Wayanad",
@@ -137,7 +137,7 @@
     "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Red Alert",
     "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-10-26T00:18:04.310Z"
+    "lastChecked": "2026-10-26T05:03:57.263Z"
   },
   "KNR": {
     "name": "Kannur",
@@ -149,9 +149,9 @@
     "holidayDate": "",
     "hasConfiguredFeed": true,
     "sourceBadge": "",
-    "metStatus": "Orange Alert",
+    "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-26T00:18:04.402Z"
+    "lastChecked": "2026-10-26T05:03:57.399Z"
   },
   "TSR": {
     "name": "Thrissur",
@@ -163,9 +163,9 @@
     "holidayDate": "",
     "hasConfiguredFeed": true,
     "sourceBadge": "",
-    "metStatus": "Orange Alert",
+    "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-26T00:18:03.943Z"
+    "lastChecked": "2026-10-26T05:03:56.718Z"
   },
   "MPM": {
     "name": "Malappuram",
@@ -177,9 +177,9 @@
     "holidayDate": "25/10/2026",
     "hasConfiguredFeed": true,
     "sourceBadge": "District Collector Official (FB)",
-    "metStatus": "Red Alert",
+    "metStatus": "Orange Alert",
     "holidayScope": "Including Professional Colleges",
-    "lastChecked": "2026-10-26T00:18:04.127Z"
+    "lastChecked": "2026-10-26T05:03:56.990Z"
   },
   "KSG": {
     "name": "Kasaragod",
@@ -193,6 +193,6 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-26T00:18:04.496Z"
+    "lastChecked": "2026-10-26T05:03:57.537Z"
   }
 }
