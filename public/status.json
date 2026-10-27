@@ -9,23 +9,23 @@
     "holidayDate": "",
     "hasConfiguredFeed": true,
     "sourceBadge": "",
-    "metStatus": "",
+    "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-27T05:47:39.327Z"
+    "lastChecked": "2026-10-27T11:14:07.676Z"
   },
   "KLM": {
     "name": "Kollam",
     "handle": "@dckollam",
-    "isHoliday": true,
-    "announcementText": "കൊല്ലം ജില്ലയിൽ എക്സ്ക്ലൂസീവ് ആധാർ സേവാ കേന്ദ്രം (ASK) ഔദ്യോഗികമായി പ്രവർത്തനം ആരംഭിച്ചു!",
-    "originalPostUrl": "https://www.facebook.com/462119120606972_1674565620691607",
-    "announcedAt": "Sun, 25 Oct 2026 05:51:45 +0000",
-    "holidayDate": "25/10/2026",
+    "isHoliday": false,
+    "announcementText": "Normal working day",
+    "originalPostUrl": "",
+    "announcedAt": "",
+    "holidayDate": "",
     "hasConfiguredFeed": true,
-    "sourceBadge": "District Collector Official (FB)",
-    "metStatus": "",
-    "holidayScope": "Including Professional Colleges",
-    "lastChecked": "2026-10-27T05:47:39.466Z"
+    "sourceBadge": "",
+    "metStatus": "Yellow Alert",
+    "holidayScope": "",
+    "lastChecked": "2026-10-27T11:14:07.774Z"
   },
   "PTA": {
     "name": "Pathanamthitta",
@@ -37,9 +37,9 @@
     "holidayDate": "",
     "hasConfiguredFeed": true,
     "sourceBadge": "",
-    "metStatus": "",
+    "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-27T05:47:39.604Z"
+    "lastChecked": "2026-10-27T11:14:07.869Z"
   },
   "ALP": {
     "name": "Alappuzha",
@@ -51,9 +51,9 @@
     "holidayDate": "",
     "hasConfiguredFeed": true,
     "sourceBadge": "",
-    "metStatus": "",
+    "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-27T05:47:39.741Z"
+    "lastChecked": "2026-10-27T11:14:07.964Z"
   },
   "KTM": {
     "name": "Kottayam",
@@ -65,9 +65,9 @@
     "holidayDate": "",
     "hasConfiguredFeed": true,
     "sourceBadge": "",
-    "metStatus": "",
+    "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-27T05:47:39.878Z"
+    "lastChecked": "2026-10-27T11:14:08.058Z"
   },
   "IDK": {
     "name": "Idukki",
@@ -79,23 +79,23 @@
     "holidayDate": "",
     "hasConfiguredFeed": true,
     "sourceBadge": "",
-    "metStatus": "",
+    "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-27T05:47:40.015Z"
+    "lastChecked": "2026-10-27T11:14:08.152Z"
   },
   "EKM": {
     "name": "Ernakulam",
     "handle": "@ernakulamdc",
-    "isHoliday": true,
-    "announcementText": "തൃപ്പൂണിത്തുറ നിയമസഭാ മണ്ഡലത്തിലെ വിദ്യാർഥികളുടെ വിദ്യാഭ്യാസ നിലവാരം, സാമൂഹിക പ്രതിബദ്ധത, കരിയർ സ്വപ്നങ്ങൾ എന്നിവ കൂടുതൽ മികവുറ്റതാക്കുന്നതിനായി നടപ്പിലാക്കുന്ന സമഗ്ര വിദ്യാഭ്യാസ വികസന പദ്ധതി 'ദീപം: ദി ലൈറ്റ് ഓഫ് തൃപ്പൂണിത്തുറ' ബഹു. ഉന്നത വിദ്യാഭ്യാസ വകുപ്പ് മന്ത്രി ശ്രീ. റോജി എം ജോൺ ഉദ്ഘാടനം ചെയ്തു.",
-    "originalPostUrl": "https://www.facebook.com/233008147097016_1873920574211351",
-    "announcedAt": "Sun, 25 Oct 2026 06:16:21 +0000",
-    "holidayDate": "25/10/2026",
+    "isHoliday": false,
+    "announcementText": "Normal working day",
+    "originalPostUrl": "",
+    "announcedAt": "",
+    "holidayDate": "",
     "hasConfiguredFeed": true,
-    "sourceBadge": "District Collector Official (FB)",
-    "metStatus": "",
-    "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-10-27T05:47:40.153Z"
+    "sourceBadge": "",
+    "metStatus": "Yellow Alert",
+    "holidayScope": "",
+    "lastChecked": "2026-10-27T11:14:08.248Z"
   },
   "PKD": {
     "name": "Palakkad",
@@ -107,9 +107,9 @@
     "holidayDate": "26/10/2026",
     "hasConfiguredFeed": true,
     "sourceBadge": "District Collector Official (FB)",
-    "metStatus": "",
+    "metStatus": "Yellow Alert",
     "holidayScope": "Includes Anganwadis",
-    "lastChecked": "2026-10-27T05:47:40.426Z"
+    "lastChecked": "2026-10-27T11:14:08.434Z"
   },
   "KKD": {
     "name": "Kozhikode",
@@ -121,9 +121,9 @@
     "holidayDate": "",
     "hasConfiguredFeed": true,
     "sourceBadge": "",
-    "metStatus": "",
+    "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-27T05:47:40.699Z"
+    "lastChecked": "2026-10-27T11:14:08.621Z"
   },
   "WYD": {
     "name": "Wayanad",
@@ -135,9 +135,9 @@
     "holidayDate": "26/10/2026",
     "hasConfiguredFeed": true,
     "sourceBadge": "District Collector Official (FB)",
-    "metStatus": "",
+    "metStatus": "Yellow Alert",
     "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-10-27T05:47:40.835Z"
+    "lastChecked": "2026-10-27T11:14:08.713Z"
   },
   "KNR": {
     "name": "Kannur",
@@ -149,9 +149,9 @@
     "holidayDate": "27/10/2026",
     "hasConfiguredFeed": true,
     "sourceBadge": "District Collector Official (FB)",
-    "metStatus": "",
+    "metStatus": "Yellow Alert",
     "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-10-27T05:47:40.972Z"
+    "lastChecked": "2026-10-27T11:14:08.807Z"
   },
   "TSR": {
     "name": "Thrissur",
@@ -163,9 +163,9 @@
     "holidayDate": "",
     "hasConfiguredFeed": true,
     "sourceBadge": "",
-    "metStatus": "",
+    "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-27T05:47:40.289Z"
+    "lastChecked": "2026-10-27T11:14:08.341Z"
   },
   "MPM": {
     "name": "Malappuram",
@@ -177,9 +177,9 @@
     "holidayDate": "",
     "hasConfiguredFeed": true,
     "sourceBadge": "",
-    "metStatus": "",
+    "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-27T05:47:40.563Z"
+    "lastChecked": "2026-10-27T11:14:08.527Z"
   },
   "KSG": {
     "name": "Kasaragod",
@@ -191,8 +191,8 @@
     "holidayDate": "",
     "hasConfiguredFeed": true,
     "sourceBadge": "",
-    "metStatus": "",
+    "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-27T05:47:41.111Z"
+    "lastChecked": "2026-10-27T11:14:08.902Z"
   }
 }
