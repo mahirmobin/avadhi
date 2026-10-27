@@ -11,7 +11,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-27T16:38:47.139Z"
+    "lastChecked": "2026-10-27T20:58:09.835Z"
   },
   "KLM": {
     "name": "Kollam",
@@ -25,7 +25,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-27T16:38:47.297Z"
+    "lastChecked": "2026-10-27T20:58:09.976Z"
   },
   "PTA": {
     "name": "Pathanamthitta",
@@ -39,7 +39,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-27T16:38:47.451Z"
+    "lastChecked": "2026-10-27T20:58:10.115Z"
   },
   "ALP": {
     "name": "Alappuzha",
@@ -53,7 +53,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-27T16:38:47.606Z"
+    "lastChecked": "2026-10-27T20:58:10.255Z"
   },
   "KTM": {
     "name": "Kottayam",
@@ -67,7 +67,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-27T16:38:47.759Z"
+    "lastChecked": "2026-10-27T20:58:11.193Z"
   },
   "IDK": {
     "name": "Idukki",
@@ -81,7 +81,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-27T16:38:47.913Z"
+    "lastChecked": "2026-10-27T20:58:11.332Z"
   },
   "EKM": {
     "name": "Ernakulam",
@@ -95,7 +95,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-27T16:38:48.068Z"
+    "lastChecked": "2026-10-27T20:58:11.471Z"
   },
   "PKD": {
     "name": "Palakkad",
@@ -109,7 +109,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-27T16:38:48.372Z"
+    "lastChecked": "2026-10-27T20:58:12.616Z"
   },
   "KKD": {
     "name": "Kozhikode",
@@ -123,7 +123,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-27T16:38:48.677Z"
+    "lastChecked": "2026-10-27T20:58:14.052Z"
   },
   "WYD": {
     "name": "Wayanad",
@@ -137,7 +137,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-27T16:38:48.828Z"
+    "lastChecked": "2026-10-27T20:58:14.189Z"
   },
   "KNR": {
     "name": "Kannur",
@@ -151,7 +151,7 @@
     "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Yellow Alert",
     "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-10-27T16:38:48.982Z"
+    "lastChecked": "2026-10-27T20:58:14.461Z"
   },
   "TSR": {
     "name": "Thrissur",
@@ -165,7 +165,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-27T16:38:48.220Z"
+    "lastChecked": "2026-10-27T20:58:11.609Z"
   },
   "MPM": {
     "name": "Malappuram",
@@ -179,20 +179,20 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-10-27T16:38:48.525Z"
+    "lastChecked": "2026-10-27T20:58:13.914Z"
   },
   "KSG": {
     "name": "Kasaragod",
     "handle": "@CollectorKasaragod",
-    "isHoliday": false,
-    "announcementText": "Normal working day",
-    "originalPostUrl": "",
-    "announcedAt": "",
-    "holidayDate": "",
+    "isHoliday": true,
+    "announcementText": "*ക്യാമ്പസുകളിൽനിന്ന് സംരംഭകത്വത്തിലേക്ക്; ജില്ലാഭരണകൂടം നേതൃത്വം നൽകുന്ന STEP UP പദ്ധതിക്ക് തുടക്കം*",
+    "originalPostUrl": "https://www.facebook.com/362232614156637_1680398913448389",
+    "announcedAt": "Mon, 26 Oct 2026 10:58:43 +0000",
+    "holidayDate": "27/10/2026",
     "hasConfiguredFeed": true,
-    "sourceBadge": "",
+    "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Yellow Alert",
-    "holidayScope": "",
-    "lastChecked": "2026-10-27T16:38:49.136Z"
+    "holidayScope": "Full District Holiday",
+    "lastChecked": "2026-10-27T20:58:15.635Z"
   }
 }
