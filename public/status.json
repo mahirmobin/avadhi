@@ -11,7 +11,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-11-02T02:29:27.408Z"
+    "lastChecked": "2026-11-02T09:48:19.001Z"
   },
   "KLM": {
     "name": "Kollam",
@@ -25,7 +25,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-11-02T02:29:27.527Z"
+    "lastChecked": "2026-11-02T09:48:19.972Z"
   },
   "PTA": {
     "name": "Pathanamthitta",
@@ -39,7 +39,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-11-02T02:29:27.644Z"
+    "lastChecked": "2026-11-02T09:48:21.324Z"
   },
   "ALP": {
     "name": "Alappuzha",
@@ -53,7 +53,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-11-02T02:29:27.761Z"
+    "lastChecked": "2026-11-02T09:48:22.515Z"
   },
   "KTM": {
     "name": "Kottayam",
@@ -67,7 +67,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-11-02T02:29:28.373Z"
+    "lastChecked": "2026-11-02T09:48:22.606Z"
   },
   "IDK": {
     "name": "Idukki",
@@ -81,7 +81,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-11-02T02:29:28.490Z"
+    "lastChecked": "2026-11-02T09:48:24.076Z"
   },
   "EKM": {
     "name": "Ernakulam",
@@ -95,7 +95,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-11-02T02:29:28.608Z"
+    "lastChecked": "2026-11-02T09:48:25.307Z"
   },
   "PKD": {
     "name": "Palakkad",
@@ -109,7 +109,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-11-02T02:29:29.460Z"
+    "lastChecked": "2026-11-02T09:48:27.054Z"
   },
   "KKD": {
     "name": "Kozhikode",
@@ -123,35 +123,35 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-11-02T02:29:31.490Z"
+    "lastChecked": "2026-11-02T09:48:28.431Z"
   },
   "WYD": {
     "name": "Wayanad",
     "handle": "@wayanadcollector",
-    "isHoliday": false,
-    "announcementText": "Normal working day",
-    "originalPostUrl": "",
-    "announcedAt": "",
-    "holidayDate": "",
+    "isHoliday": true,
+    "announcementText": "പുതിയ വോട്ടര്‍മാരെ ലക്ഷ്യമിട്ട് ക്യാമ്പസ് ടു ബൂത്ത് ഡ്രൈവ്.",
+    "originalPostUrl": "https://www.facebook.com/278429812621016_1429538616003539",
+    "announcedAt": "Sun, 01 Nov 2026 16:11:53 +0000",
+    "holidayDate": "02/11/2026",
     "hasConfiguredFeed": true,
-    "sourceBadge": "",
+    "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Yellow Alert",
-    "holidayScope": "",
-    "lastChecked": "2026-11-02T02:29:31.606Z"
+    "holidayScope": "Full District Holiday",
+    "lastChecked": "2026-11-02T09:48:30.393Z"
   },
   "KNR": {
     "name": "Kannur",
     "handle": "@collector.kannur",
-    "isHoliday": false,
-    "announcementText": "Normal working day",
-    "originalPostUrl": "",
-    "announcedAt": "",
-    "holidayDate": "",
+    "isHoliday": true,
+    "announcementText": "പുതിയ വോട്ടര്‍മാരെ ലക്ഷ്യമിട്ട് ക്യാമ്പസ് ടു ബൂത്ത് ഡ്രൈവ്.",
+    "originalPostUrl": "https://www.facebook.com/745473162216207_1562872739215570",
+    "announcedAt": "Sun, 01 Nov 2026 15:06:51 +0000",
+    "holidayDate": "02/11/2026",
     "hasConfiguredFeed": true,
-    "sourceBadge": "",
+    "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Yellow Alert",
-    "holidayScope": "",
-    "lastChecked": "2026-11-02T02:29:31.723Z"
+    "holidayScope": "Full District Holiday",
+    "lastChecked": "2026-11-02T09:48:31.947Z"
   },
   "TSR": {
     "name": "Thrissur",
@@ -165,7 +165,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-11-02T02:29:28.724Z"
+    "lastChecked": "2026-11-02T09:48:26.964Z"
   },
   "MPM": {
     "name": "Malappuram",
@@ -179,7 +179,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-11-02T02:29:31.373Z"
+    "lastChecked": "2026-11-02T09:48:27.146Z"
   },
   "KSG": {
     "name": "Kasaragod",
@@ -193,6 +193,6 @@
     "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Yellow Alert",
     "holidayScope": "Excluding Professional Colleges",
-    "lastChecked": "2026-11-02T02:29:32.679Z"
+    "lastChecked": "2026-11-02T09:48:32.126Z"
   }
 }
