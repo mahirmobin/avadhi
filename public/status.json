@@ -11,7 +11,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-11-03T08:47:26.781Z"
+    "lastChecked": "2026-11-03T16:42:52.709Z"
   },
   "KLM": {
     "name": "Kollam",
@@ -25,7 +25,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-11-03T08:47:26.911Z"
+    "lastChecked": "2026-11-03T16:42:53.636Z"
   },
   "PTA": {
     "name": "Pathanamthitta",
@@ -39,7 +39,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-11-03T08:47:27.039Z"
+    "lastChecked": "2026-11-03T16:42:54.815Z"
   },
   "ALP": {
     "name": "Alappuzha",
@@ -53,7 +53,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-11-03T08:47:27.167Z"
+    "lastChecked": "2026-11-03T16:42:55.665Z"
   },
   "KTM": {
     "name": "Kottayam",
@@ -67,7 +67,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-11-03T08:47:28.074Z"
+    "lastChecked": "2026-11-03T16:42:55.759Z"
   },
   "IDK": {
     "name": "Idukki",
@@ -81,21 +81,21 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-11-03T08:47:28.202Z"
+    "lastChecked": "2026-11-03T16:42:56.673Z"
   },
   "EKM": {
     "name": "Ernakulam",
     "handle": "@ernakulamdc",
-    "isHoliday": false,
-    "announcementText": "Normal working day",
-    "originalPostUrl": "",
-    "announcedAt": "",
-    "holidayDate": "",
+    "isHoliday": true,
+    "announcementText": "മാലിന്യസംസ്‌കരണത്തിന്റെ ഭാഗമായി പുനരുപയോഗത്തിന്റെയും വിഭവസംരക്ഷണത്തിന്റെയും പ്രാധാന്യം വിദ്യാർത്ഥികളിലേക്കും പൊതുസമൂഹത്തിലേക്കും എത്തിക്കുക എന്ന ലക്ഷ്യത്തോടെ എറണാകുളം ജില്ലാ ഭരണകൂടം നടത്തുന്ന ‘റീലൗ സ്വാപ് ഷോപ്പ് മേളയ്ക്ക് സെന്റ് തെരേസാസ് കോളേജിൽ തുടക്കമായി.  സംരംഭത്തിന്റെ ഉദ്ഘാടനം നിർവഹിച്ചു.",
+    "originalPostUrl": "https://www.facebook.com/233008147097016_1884903973113011",
+    "announcedAt": "Tue, 03 Nov 2026 04:40:30 +0000",
+    "holidayDate": "03/11/2026",
     "hasConfiguredFeed": true,
-    "sourceBadge": "",
+    "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Yellow Alert",
-    "holidayScope": "",
-    "lastChecked": "2026-11-03T08:47:28.332Z"
+    "holidayScope": "Full District Holiday",
+    "lastChecked": "2026-11-03T16:42:57.592Z"
   },
   "PKD": {
     "name": "Palakkad",
@@ -109,7 +109,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-11-03T08:47:29.438Z"
+    "lastChecked": "2026-11-03T16:42:58.829Z"
   },
   "KKD": {
     "name": "Kozhikode",
@@ -123,39 +123,11 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-11-03T08:47:31.556Z"
+    "lastChecked": "2026-11-03T16:43:00.761Z"
   },
   "WYD": {
     "name": "Wayanad",
     "handle": "@wayanadcollector",
-    "isHoliday": true,
-    "announcementText": "പുതിയ വോട്ടര്‍മാരെ ലക്ഷ്യമിട്ട് ക്യാമ്പസ് ടു ബൂത്ത് ഡ്രൈവ്.",
-    "originalPostUrl": "https://www.facebook.com/278429812621016_1429538616003539",
-    "announcedAt": "Sun, 01 Nov 2026 16:11:53 +0000",
-    "holidayDate": "02/11/2026",
-    "hasConfiguredFeed": true,
-    "sourceBadge": "District Collector Official (FB)",
-    "metStatus": "Yellow Alert",
-    "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-11-03T08:47:31.686Z"
-  },
-  "KNR": {
-    "name": "Kannur",
-    "handle": "@collector.kannur",
-    "isHoliday": true,
-    "announcementText": "പുതിയ വോട്ടര്‍മാരെ ലക്ഷ്യമിട്ട് ക്യാമ്പസ് ടു ബൂത്ത് ഡ്രൈവ്.",
-    "originalPostUrl": "https://www.facebook.com/745473162216207_1562872739215570",
-    "announcedAt": "Sun, 01 Nov 2026 15:06:51 +0000",
-    "holidayDate": "02/11/2026",
-    "hasConfiguredFeed": true,
-    "sourceBadge": "District Collector Official (FB)",
-    "metStatus": "Yellow Alert",
-    "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-11-03T08:47:31.816Z"
-  },
-  "TSR": {
-    "name": "Thrissur",
-    "handle": "@ThrissurCollector",
     "isHoliday": false,
     "announcementText": "Normal working day",
     "originalPostUrl": "",
@@ -165,7 +137,35 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-11-03T08:47:28.460Z"
+    "lastChecked": "2026-11-03T16:43:01.883Z"
+  },
+  "KNR": {
+    "name": "Kannur",
+    "handle": "@collector.kannur",
+    "isHoliday": true,
+    "announcementText": "പുതിയ വോട്ടര്‍മാരെ ലക്ഷ്യമിട്ട് ക്യാമ്പസ് ടു ബൂത്ത് ഡ്രൈവിന് ജില്ലയില്‍ തുടക്കം.",
+    "originalPostUrl": "https://www.facebook.com/745473162216207_1563729585796552",
+    "announcedAt": "Mon, 02 Nov 2026 11:05:31 +0000",
+    "holidayDate": "03/11/2026",
+    "hasConfiguredFeed": true,
+    "sourceBadge": "District Collector Official (FB)",
+    "metStatus": "Yellow Alert",
+    "holidayScope": "Full District Holiday",
+    "lastChecked": "2026-11-03T16:43:03.515Z"
+  },
+  "TSR": {
+    "name": "Thrissur",
+    "handle": "@ThrissurCollector",
+    "isHoliday": true,
+    "announcementText": "നൂതന ആശയങ്ങളിലൂടെ വികസനത്തിന് പുതിയ ചുവടുവെപ്പ്.",
+    "originalPostUrl": "https://www.facebook.com/105782160780355_1453300226984464",
+    "announcedAt": "Tue, 03 Nov 2026 13:44:24 +0000",
+    "holidayDate": "04/11/2026",
+    "hasConfiguredFeed": true,
+    "sourceBadge": "District Collector Official (FB)",
+    "metStatus": "Yellow Alert",
+    "holidayScope": "Full District Holiday",
+    "lastChecked": "2026-11-03T16:42:58.736Z"
   },
   "MPM": {
     "name": "Malappuram",
@@ -179,7 +179,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-11-03T08:47:31.428Z"
+    "lastChecked": "2026-11-03T16:42:58.922Z"
   },
   "KSG": {
     "name": "Kasaragod",
@@ -193,6 +193,6 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-11-03T08:47:32.836Z"
+    "lastChecked": "2026-11-03T16:43:03.609Z"
   }
 }
