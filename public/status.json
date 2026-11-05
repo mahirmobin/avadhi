@@ -11,7 +11,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-11-05T02:57:23.577Z"
+    "lastChecked": "2026-11-05T10:12:30.444Z"
   },
   "KLM": {
     "name": "Kollam",
@@ -25,7 +25,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-11-05T02:57:23.715Z"
+    "lastChecked": "2026-11-05T10:12:30.558Z"
   },
   "PTA": {
     "name": "Pathanamthitta",
@@ -39,7 +39,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-11-05T02:57:23.855Z"
+    "lastChecked": "2026-11-05T10:12:30.672Z"
   },
   "ALP": {
     "name": "Alappuzha",
@@ -53,7 +53,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-11-05T02:57:23.991Z"
+    "lastChecked": "2026-11-05T10:12:30.784Z"
   },
   "KTM": {
     "name": "Kottayam",
@@ -67,7 +67,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-11-05T02:57:24.127Z"
+    "lastChecked": "2026-11-05T10:12:32.043Z"
   },
   "IDK": {
     "name": "Idukki",
@@ -81,21 +81,21 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-11-05T02:57:24.266Z"
+    "lastChecked": "2026-11-05T10:12:32.156Z"
   },
   "EKM": {
     "name": "Ernakulam",
     "handle": "@ernakulamdc",
-    "isHoliday": true,
-    "announcementText": "മാലിന്യസംസ്‌കരണത്തിന്റെ ഭാഗമായി പുനരുപയോഗത്തിന്റെയും വിഭവസംരക്ഷണത്തിന്റെയും പ്രാധാന്യം വിദ്യാർത്ഥികളിലേക്കും പൊതുസമൂഹത്തിലേക്കും എത്തിക്കുക എന്ന ലക്ഷ്യത്തോടെ എറണാകുളം ജില്ലാ ഭരണകൂടം നടത്തുന്ന ‘റീലൗ സ്വാപ് ഷോപ്പ് മേളയ്ക്ക് സെന്റ് തെരേസാസ് കോളേജിൽ തുടക്കമായി.  സംരംഭത്തിന്റെ ഉദ്ഘാടനം നിർവഹിച്ചു.",
-    "originalPostUrl": "https://www.facebook.com/233008147097016_1884903973113011",
-    "announcedAt": "Tue, 03 Nov 2026 04:40:30 +0000",
-    "holidayDate": "03/11/2026",
+    "isHoliday": false,
+    "announcementText": "Normal working day",
+    "originalPostUrl": "",
+    "announcedAt": "",
+    "holidayDate": "",
     "hasConfiguredFeed": true,
-    "sourceBadge": "District Collector Official (FB)",
+    "sourceBadge": "",
     "metStatus": "Yellow Alert",
-    "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-11-05T02:57:24.404Z"
+    "holidayScope": "",
+    "lastChecked": "2026-11-05T10:12:32.270Z"
   },
   "PKD": {
     "name": "Palakkad",
@@ -109,7 +109,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-11-05T02:57:24.676Z"
+    "lastChecked": "2026-11-05T10:12:35.266Z"
   },
   "KKD": {
     "name": "Kozhikode",
@@ -123,7 +123,7 @@
     "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Yellow Alert",
     "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-11-05T02:57:24.949Z"
+    "lastChecked": "2026-11-05T10:12:36.922Z"
   },
   "WYD": {
     "name": "Wayanad",
@@ -137,7 +137,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-11-05T02:57:25.086Z"
+    "lastChecked": "2026-11-05T10:12:37.036Z"
   },
   "KNR": {
     "name": "Kannur",
@@ -151,7 +151,7 @@
     "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Yellow Alert",
     "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-11-05T02:57:25.224Z"
+    "lastChecked": "2026-11-05T10:12:37.148Z"
   },
   "TSR": {
     "name": "Thrissur",
@@ -165,7 +165,7 @@
     "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Yellow Alert",
     "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-11-05T02:57:24.541Z"
+    "lastChecked": "2026-11-05T10:12:32.382Z"
   },
   "MPM": {
     "name": "Malappuram",
@@ -179,7 +179,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-11-05T02:57:24.813Z"
+    "lastChecked": "2026-11-05T10:12:36.808Z"
   },
   "KSG": {
     "name": "Kasaragod",
@@ -193,6 +193,6 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-11-05T02:57:25.360Z"
+    "lastChecked": "2026-11-05T10:12:37.269Z"
   }
 }
