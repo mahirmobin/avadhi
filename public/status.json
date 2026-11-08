@@ -11,7 +11,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-11-08T15:59:01.522Z"
+    "lastChecked": "2026-11-08T20:12:52.149Z"
   },
   "KLM": {
     "name": "Kollam",
@@ -25,7 +25,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-11-08T15:59:01.619Z"
+    "lastChecked": "2026-11-08T20:12:53.376Z"
   },
   "PTA": {
     "name": "Pathanamthitta",
@@ -39,7 +39,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-11-08T15:59:01.712Z"
+    "lastChecked": "2026-11-08T20:12:54.759Z"
   },
   "ALP": {
     "name": "Alappuzha",
@@ -53,7 +53,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-11-08T15:59:01.805Z"
+    "lastChecked": "2026-11-08T20:12:55.841Z"
   },
   "KTM": {
     "name": "Kottayam",
@@ -67,7 +67,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-11-08T15:59:03.206Z"
+    "lastChecked": "2026-11-08T20:12:55.947Z"
   },
   "IDK": {
     "name": "Idukki",
@@ -81,7 +81,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-11-08T15:59:03.300Z"
+    "lastChecked": "2026-11-08T20:12:57.068Z"
   },
   "EKM": {
     "name": "Ernakulam",
@@ -95,7 +95,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-11-08T15:59:03.394Z"
+    "lastChecked": "2026-11-08T20:12:58.279Z"
   },
   "PKD": {
     "name": "Palakkad",
@@ -109,7 +109,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-11-08T15:59:05.689Z"
+    "lastChecked": "2026-11-08T20:12:59.649Z"
   },
   "KKD": {
     "name": "Kozhikode",
@@ -123,7 +123,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-11-08T15:59:07.734Z"
+    "lastChecked": "2026-11-08T20:13:00.982Z"
   },
   "WYD": {
     "name": "Wayanad",
@@ -137,7 +137,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-11-08T15:59:07.828Z"
+    "lastChecked": "2026-11-08T20:13:02.305Z"
   },
   "KNR": {
     "name": "Kannur",
@@ -151,21 +151,21 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-11-08T15:59:07.922Z"
+    "lastChecked": "2026-11-08T20:13:03.591Z"
   },
   "TSR": {
     "name": "Thrissur",
     "handle": "@ThrissurCollector",
-    "isHoliday": false,
-    "announcementText": "Normal working day",
-    "originalPostUrl": "",
-    "announcedAt": "",
-    "holidayDate": "",
+    "isHoliday": true,
+    "announcementText": "പുത്തൻചിറ സ്മാർട്ട് വില്ലേജ് ഓഫീസ് ശിലാസ്ഥാപനം നിർവ്വഹിച്ചു.",
+    "originalPostUrl": "https://www.facebook.com/105782160780355_1458246096489877",
+    "announcedAt": "Sun, 08 Nov 2026 06:12:34 +0000",
+    "holidayDate": "08/11/2026",
     "hasConfiguredFeed": true,
-    "sourceBadge": "",
+    "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Yellow Alert",
-    "holidayScope": "",
-    "lastChecked": "2026-11-08T15:59:03.487Z"
+    "holidayScope": "Full District Holiday",
+    "lastChecked": "2026-11-08T20:12:59.544Z"
   },
   "MPM": {
     "name": "Malappuram",
@@ -179,7 +179,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-11-08T15:59:07.641Z"
+    "lastChecked": "2026-11-08T20:12:59.754Z"
   },
   "KSG": {
     "name": "Kasaragod",
@@ -193,6 +193,6 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-11-08T15:59:10.010Z"
+    "lastChecked": "2026-11-08T20:13:03.695Z"
   }
 }
