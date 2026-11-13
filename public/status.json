@@ -11,7 +11,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-11-13T10:16:47.306Z"
+    "lastChecked": "2026-11-13T17:55:46.398Z"
   },
   "KLM": {
     "name": "Kollam",
@@ -25,7 +25,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-11-13T10:16:47.458Z"
+    "lastChecked": "2026-11-13T17:55:46.562Z"
   },
   "PTA": {
     "name": "Pathanamthitta",
@@ -39,7 +39,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-11-13T10:16:47.609Z"
+    "lastChecked": "2026-11-13T17:55:46.725Z"
   },
   "ALP": {
     "name": "Alappuzha",
@@ -53,7 +53,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-11-13T10:16:47.759Z"
+    "lastChecked": "2026-11-13T17:55:46.888Z"
   },
   "KTM": {
     "name": "Kottayam",
@@ -67,7 +67,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-11-13T10:16:47.908Z"
+    "lastChecked": "2026-11-13T17:55:47.050Z"
   },
   "IDK": {
     "name": "Idukki",
@@ -81,7 +81,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-11-13T10:16:48.060Z"
+    "lastChecked": "2026-11-13T17:55:47.214Z"
   },
   "EKM": {
     "name": "Ernakulam",
@@ -95,7 +95,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-11-13T10:16:48.211Z"
+    "lastChecked": "2026-11-13T17:55:47.378Z"
   },
   "PKD": {
     "name": "Palakkad",
@@ -109,7 +109,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-11-13T10:16:48.511Z"
+    "lastChecked": "2026-11-13T17:55:47.703Z"
   },
   "KKD": {
     "name": "Kozhikode",
@@ -123,7 +123,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-11-13T10:16:48.811Z"
+    "lastChecked": "2026-11-13T17:55:48.027Z"
   },
   "WYD": {
     "name": "Wayanad",
@@ -137,21 +137,21 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-11-13T10:16:48.960Z"
+    "lastChecked": "2026-11-13T17:55:48.189Z"
   },
   "KNR": {
     "name": "Kannur",
     "handle": "@collector.kannur",
-    "isHoliday": true,
-    "announcementText": "ലഹരിവിമുക്ത കണ്ണൂര്‍ ക്യാമ്പയിന്‍: ജില്ലാതല പരിശീലന പരിപാടി സംഘടിപ്പിച്ചു.",
-    "originalPostUrl": "https://www.facebook.com/745473162216207_1573900231446154",
-    "announcedAt": "Wed, 11 Nov 2026 15:45:03 +0000",
-    "holidayDate": "12/11/2026",
+    "isHoliday": false,
+    "announcementText": "Normal working day",
+    "originalPostUrl": "",
+    "announcedAt": "",
+    "holidayDate": "",
     "hasConfiguredFeed": true,
-    "sourceBadge": "District Collector Official (FB)",
+    "sourceBadge": "",
     "metStatus": "",
-    "holidayScope": "Full District Holiday",
-    "lastChecked": "2026-11-13T10:16:49.111Z"
+    "holidayScope": "",
+    "lastChecked": "2026-11-13T17:55:48.351Z"
   },
   "TSR": {
     "name": "Thrissur",
@@ -165,7 +165,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-11-13T10:16:48.361Z"
+    "lastChecked": "2026-11-13T17:55:47.541Z"
   },
   "MPM": {
     "name": "Malappuram",
@@ -179,7 +179,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-11-13T10:16:48.661Z"
+    "lastChecked": "2026-11-13T17:55:47.865Z"
   },
   "KSG": {
     "name": "Kasaragod",
@@ -193,6 +193,6 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-11-13T10:16:49.261Z"
+    "lastChecked": "2026-11-13T17:55:48.515Z"
   }
 }
