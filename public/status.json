@@ -11,7 +11,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-11-20T21:32:04.733Z"
+    "lastChecked": "2026-11-21T02:49:04.587Z"
   },
   "KLM": {
     "name": "Kollam",
@@ -25,7 +25,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-11-20T21:32:04.853Z"
+    "lastChecked": "2026-11-21T02:49:05.609Z"
   },
   "PTA": {
     "name": "Pathanamthitta",
@@ -39,7 +39,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-11-20T21:32:04.971Z"
+    "lastChecked": "2026-11-21T02:49:07.010Z"
   },
   "ALP": {
     "name": "Alappuzha",
@@ -53,7 +53,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-11-20T21:32:05.089Z"
+    "lastChecked": "2026-11-21T02:49:08.301Z"
   },
   "KTM": {
     "name": "Kottayam",
@@ -67,7 +67,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-11-20T21:32:05.207Z"
+    "lastChecked": "2026-11-21T02:49:09.054Z"
   },
   "IDK": {
     "name": "Idukki",
@@ -81,21 +81,21 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-11-20T21:32:05.326Z"
+    "lastChecked": "2026-11-21T02:49:10.747Z"
   },
   "EKM": {
     "name": "Ernakulam",
     "handle": "@ernakulamdc",
-    "isHoliday": false,
-    "announcementText": "Normal working day",
-    "originalPostUrl": "",
-    "announcedAt": "",
-    "holidayDate": "",
+    "isHoliday": true,
+    "announcementText": "District-level competition is being organised under the auspices of the Electoral Literacy Clubs (ELCs) for students who emerged as winners in the essay writing and quiz competitions conducted at the Institution Level and Assembly Constituency Level among students of Higher Secondary Schools and Colleges across Ernakulam District.",
+    "originalPostUrl": "https://www.facebook.com/233008147097016_1905496787720396",
+    "announcedAt": "Thu, 19 Nov 2026 15:21:31 +0000",
+    "holidayDate": "20/11/2026",
     "hasConfiguredFeed": true,
-    "sourceBadge": "",
+    "sourceBadge": "District Collector Official (FB)",
     "metStatus": "",
-    "holidayScope": "",
-    "lastChecked": "2026-11-20T21:32:05.446Z"
+    "holidayScope": "Full District Holiday",
+    "lastChecked": "2026-11-21T02:49:12.823Z"
   },
   "PKD": {
     "name": "Palakkad",
@@ -109,7 +109,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-11-20T21:32:05.682Z"
+    "lastChecked": "2026-11-21T02:49:17.130Z"
   },
   "KKD": {
     "name": "Kozhikode",
@@ -123,7 +123,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-11-20T21:32:05.919Z"
+    "lastChecked": "2026-11-21T02:49:20.077Z"
   },
   "WYD": {
     "name": "Wayanad",
@@ -137,7 +137,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-11-20T21:32:06.036Z"
+    "lastChecked": "2026-11-21T02:49:21.113Z"
   },
   "KNR": {
     "name": "Kannur",
@@ -151,7 +151,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-11-20T21:32:06.154Z"
+    "lastChecked": "2026-11-21T02:49:23.089Z"
   },
   "TSR": {
     "name": "Thrissur",
@@ -165,7 +165,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-11-20T21:32:05.564Z"
+    "lastChecked": "2026-11-21T02:49:14.879Z"
   },
   "MPM": {
     "name": "Malappuram",
@@ -179,7 +179,7 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-11-20T21:32:05.801Z"
+    "lastChecked": "2026-11-21T02:49:18.900Z"
   },
   "KSG": {
     "name": "Kasaragod",
@@ -193,6 +193,6 @@
     "sourceBadge": "",
     "metStatus": "",
     "holidayScope": "",
-    "lastChecked": "2026-11-20T21:32:06.272Z"
+    "lastChecked": "2026-11-21T02:49:24.118Z"
   }
 }
