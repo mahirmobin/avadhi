@@ -11,7 +11,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-11-26T14:25:52.672Z"
+    "lastChecked": "2026-11-26T23:08:07.235Z"
   },
   "KLM": {
     "name": "Kollam",
@@ -25,7 +25,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-11-26T14:25:52.813Z"
+    "lastChecked": "2026-11-26T23:08:08.248Z"
   },
   "PTA": {
     "name": "Pathanamthitta",
@@ -39,21 +39,21 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-11-26T14:25:52.954Z"
+    "lastChecked": "2026-11-26T23:08:09.313Z"
   },
   "ALP": {
     "name": "Alappuzha",
     "handle": "@districtcollectoralappuzha",
-    "isHoliday": false,
-    "announcementText": "Normal working day",
-    "originalPostUrl": "",
-    "announcedAt": "",
-    "holidayDate": "",
+    "isHoliday": true,
+    "announcementText": "കേന്ദ്ര തിരഞ്ഞെടുപ്പ് കമ്മീഷന്റെ നിർദ്ദേശപ്രകാരം, ജില്ലയിലെ ഹയർ സെക്കൻഡറി സ്കൂളുകളിലും കോളേജുകളിലും പ്രവർത്തിക്കുന്ന ഇലക്ടോറൽ ലിറ്ററസി ക്ലബ്ബുകളുടെ (ELC) ആഭിമുഖ്യത്തിൽ സംഘടിപ്പിച്ച ജില്ലാതല ക്വിസ് - ഉപന്യാസ മത്സരങ്ങളുടെ വിജയികളെ പ്രഖ്യാപിക്കുന്നതിൽ അതിയായ സന്തോഷമുണ്ട്. ജനാധിപത്യ പ്രക്രിയയിൽ യുവതലമുറയുടെ പങ്കാളിത്തവും തിരഞ്ഞെടുപ്പ് അവബോധവും വർദ്ധിപ്പിക്കുക എന്ന ലക്ഷ്യത്തോടെ നടത്തിയ ഈ മത്സരങ്ങളിൽ മികച്ച പ്രകടനം കാഴ്ചവെച്ച എല്ലാ വിജയികൾക്കും അവർ പ്രതിനിധീകരിക്കുന്ന വിദ്യാഭ്യാസ സ്ഥാപനങ്ങൾക്കും ഹൃദയം നിറഞ്ഞ അഭിനന്ദനങ്ങൾ നേരുന്നു.",
+    "originalPostUrl": "https://www.facebook.com/186836925055143_1726740605476515",
+    "announcedAt": "Wed, 25 Nov 2026 11:20:20 +0000",
+    "holidayDate": "26/11/2026",
     "hasConfiguredFeed": true,
-    "sourceBadge": "",
+    "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Yellow Alert",
-    "holidayScope": "",
-    "lastChecked": "2026-11-26T14:25:53.094Z"
+    "holidayScope": "Full District Holiday",
+    "lastChecked": "2026-11-26T23:08:10.117Z"
   },
   "KTM": {
     "name": "Kottayam",
@@ -67,7 +67,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-11-26T14:25:53.234Z"
+    "lastChecked": "2026-11-26T23:08:11.056Z"
   },
   "IDK": {
     "name": "Idukki",
@@ -81,7 +81,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-11-26T14:25:53.375Z"
+    "lastChecked": "2026-11-26T23:08:11.902Z"
   },
   "EKM": {
     "name": "Ernakulam",
@@ -95,7 +95,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-11-26T14:25:53.516Z"
+    "lastChecked": "2026-11-26T23:08:12.987Z"
   },
   "PKD": {
     "name": "Palakkad",
@@ -109,7 +109,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-11-26T14:25:53.796Z"
+    "lastChecked": "2026-11-26T23:08:15.217Z"
   },
   "KKD": {
     "name": "Kozhikode",
@@ -123,7 +123,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-11-26T14:25:54.077Z"
+    "lastChecked": "2026-11-26T23:08:17.632Z"
   },
   "WYD": {
     "name": "Wayanad",
@@ -137,21 +137,21 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-11-26T14:25:54.217Z"
+    "lastChecked": "2026-11-26T23:08:18.966Z"
   },
   "KNR": {
     "name": "Kannur",
     "handle": "@collector.kannur",
-    "isHoliday": false,
-    "announcementText": "Normal working day",
-    "originalPostUrl": "",
-    "announcedAt": "",
-    "holidayDate": "",
+    "isHoliday": true,
+    "announcementText": "'കണ്ണൂര്‍ ജില്ലാ കലക്ടറാവാന്‍ അവസരം കിട്ടിയാല്‍ നിങ്ങള്‍ ആദ്യം എന്തു ചെയ്യും?",
+    "originalPostUrl": "https://www.facebook.com/745473162216207_1589695756533268",
+    "announcedAt": "Wed, 25 Nov 2026 14:36:55 +0000",
+    "holidayDate": "26/11/2026",
     "hasConfiguredFeed": true,
-    "sourceBadge": "",
+    "sourceBadge": "District Collector Official (FB)",
     "metStatus": "Yellow Alert",
-    "holidayScope": "",
-    "lastChecked": "2026-11-26T14:25:54.357Z"
+    "holidayScope": "Full District Holiday",
+    "lastChecked": "2026-11-26T23:08:19.945Z"
   },
   "TSR": {
     "name": "Thrissur",
@@ -165,7 +165,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-11-26T14:25:53.656Z"
+    "lastChecked": "2026-11-26T23:08:14.104Z"
   },
   "MPM": {
     "name": "Malappuram",
@@ -179,7 +179,7 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-11-26T14:25:53.936Z"
+    "lastChecked": "2026-11-26T23:08:16.427Z"
   },
   "KSG": {
     "name": "Kasaragod",
@@ -193,6 +193,6 @@
     "sourceBadge": "",
     "metStatus": "Yellow Alert",
     "holidayScope": "",
-    "lastChecked": "2026-11-26T14:25:54.498Z"
+    "lastChecked": "2026-11-26T23:08:21.250Z"
   }
 }
